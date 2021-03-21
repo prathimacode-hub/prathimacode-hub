@@ -1,4 +1,4 @@
-**Hey, Folks!**
+**Hey, Folks!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 I’m Prathima Kadari😊. I'm a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
@@ -42,6 +42,18 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 ![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
+
+**My Github Trophy**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-profile-trophy)
+
+**My Guthub Streak Stats**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
+
+**Profile Views**
+
+![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 **My Certifications** ⬇️
 - Internet of Things Professional Program by Stanford University 
