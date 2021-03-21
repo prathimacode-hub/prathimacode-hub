@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on interesting projects and technical events in my expertise.
 - 👀 I’m interested in learning flutter, react and android development.
 - 🤔 I’m looking for help with my portfolio website development.
-- 💬 Ask me about anything from my Tech Stack (I'll answer if I could🎆).
+- 💬 Ask me about anything, I'll be happy to help.
 - 📫 How to reach me: You can post out your queries through Issues/Discussions or can follow me on LinkedIn.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveller and Sudoku Lover.
