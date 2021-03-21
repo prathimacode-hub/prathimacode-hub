@@ -1,4 +1,4 @@
-**Hey, Folks!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 I’m Prathima Kadari😊. I'm a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
