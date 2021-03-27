@@ -45,10 +45,6 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 ![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
 
-**My Github Trophy**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-profile-trophy)
-
 **My Guthub Streak Stats**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
@@ -83,6 +79,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 - **WEBINARS** 📺
   - Data Centres on the Edge : Emerging Trends in Edge Data Center Architecture by HCL
   - Scaling Innovation : How to Reap the Benefit of Good Ideas by Capgemini 
+  - Arduino Day Event conducted by Talent Eve on the ocassion of World Arduino Day, 2021.
 - **WORKSHOPS** 🔭
   - IOT Workshop by Cisco
   - Machine Learning Workshop by Kaggle
