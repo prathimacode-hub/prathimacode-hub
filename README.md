@@ -66,10 +66,11 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 - Statistics by Great Learning
 
 **My Achievements** ✨
-- Accomplished 2376th Rank in Google HashCode Competition.
+- Accomplished 2376th Rank in World and 536th Rank in India for Google HashCode Competition.
 
 **My Assessments**📡
 - HackerRank : Python
+- LinkedIn : C, C++, Python
 
 **My Activities** 📬
 - **OPEN SOURCE** 💡
