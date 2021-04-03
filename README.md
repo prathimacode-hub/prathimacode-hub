@@ -92,7 +92,6 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
   - Million Women at the Top Initiative Workshop by Iron Lady
 - **POSITION OF RESPONSIBILITY** 🧰
   - Global Ambassador at WomenTech Network 
-  - Campus Ambassador at International MUN 
   - Volunteer at ArtOfLiving Organization
 
 <!---
