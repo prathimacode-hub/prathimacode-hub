@@ -2,6 +2,8 @@
 
 **Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
+
 - 👋 I’m Prathima Kadari😊. I'm a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
 - 🧰 I've my masters specialization from Embedded Systems, an IOT & Artificial Intelligence Enthusiast and a Blogger.
@@ -55,7 +57,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 **My Certifications** ⬇️
 - Internet of Things Professional Program by Stanford University 
-- C++ by LinkedIn Learning
+- C++ by Jigsaw Mindz
 - Controller Area Network by Udemy
 - Raspberry Pi by Udemy
 - Matlab by Mathworks
@@ -75,6 +77,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 **My Activities** 📬
 - **OPEN SOURCE** 💡
   - Contributor at GirlScript Summer of Code
+  - Participant in MLH Local Hack Day : Share
 - **BLOGS** 📖
   - Motivational Writer, Reader and Blogger at HashNode (Blog Link: [prathimakadari](https://prathimakadari.hashnode.dev/))
 - **WEBINARS** 📺
