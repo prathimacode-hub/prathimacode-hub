@@ -22,8 +22,9 @@ If you like the Repository give it a ⭐ and also follow me on Github 😀
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
 
 **Connect with Me** 🤝🏻
-- [LinkedIn](https://www.linkedin.com/in/prathima-kadari)
-- [Hashnode](https://prathimakadari.hashnode.dev/)
+
+<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 
 **My Tech Stack** 🚀
 - C
