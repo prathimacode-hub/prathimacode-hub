@@ -30,17 +30,16 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 - C
 - C++
 - Embedded C
-- Embedded Linux
 - Linux Device Drivers
 - IOT
 - Python
-- Machine Learning 
+- Machine Learning
 - Artificial Intelligence
 - Raspberry Pi
 - Arduino
 
-**My Blog posts** ✍️
-- Participated in Blogathon by Analytics Vidhya (Blog Link :  [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
+**My Blog Posts** ✍️
+- Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
 - I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
 
 **My Github Status** 🦸
