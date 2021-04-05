@@ -23,7 +23,8 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 **Connect with Me** 🤝🏻
 
-<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+- [LinkedIn](https://www.linkedin.com/in/prathima-kadari)
+- [Hashnode](https://prathimakadari.hashnode.dev/)
 
 **My Github Status** 🦸
 
