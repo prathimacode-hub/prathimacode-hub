@@ -25,8 +25,21 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+**My Tech Stack** 🚀
+- C
+- C++
+- Embedded C
+- Linux Device Drivers
+- IOT
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Raspberry Pi
+- Arduino
 
+**My Blog Posts** ✍️
+- Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
+- I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
 
 **My Github Status** 🦸
 
