@@ -77,7 +77,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 **My Activities** 📬
 - **OPEN SOURCE** 💡
   - Contributor at GirlScript Summer of Code
-  - Participant in MLH Local Hack Day : Share
+  - Participated in MLH Local Hack Day : Share (50th position)
 - **BLOGS** 📖
   - Motivational Writer, Reader and Blogger at HashNode (Blog Link: [prathimakadari](https://prathimakadari.hashnode.dev/))
 - **WEBINARS** 📺
