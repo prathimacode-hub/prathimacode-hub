@@ -19,6 +19,7 @@
 - ⚡ Fun fact: Traveller and Sudoku Lover.
 
 If you like the Repository give it a ⭐ and also follow me on Github 😀
+
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
 
 **Connect with Me** 🤝🏻
