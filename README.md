@@ -14,17 +14,28 @@
 - 👀 I’m interested in learning flutter, react and android development.
 - 🤔 I’m looking for help with my portfolio website development.
 - 💬 Ask me about anything, I'll be happy to help.
-- 📫 How to reach me: You can post out your queries through Issues/Discussions or can follow me on LinkedIn.
+- 📫 How to reach me: You can connect with me on [Twitter](https://twitter.com/prathimak88)|[LinkedIn](https://www.linkedin.com/in/prathima-kadari) or post out your queries through Issues/Discussions Tab.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveller and Sudoku Lover.
 
-If you like the Repository give it a ⭐ and also follow me on Github 😀
+Show some ❤️ by starring some of the repositories and also follow me on Github 😀!
 
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
+
+My Digital Garden 🌱
+
+You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
+
+- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+- [Introduction to Internet of Things](https://prathimakadari.hashnode.dev/getting-started-with-iot)
+- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
+- [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers)
 
 **Connect with Me** 🤝🏻
 
 - [LinkedIn](https://www.linkedin.com/in/prathima-kadari)
+- [Twitter](https://twitter.com/prathimak88)
 - [Hashnode](https://prathimakadari.hashnode.dev/)
 
 **My Tech Stack** 🚀
