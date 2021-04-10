@@ -22,7 +22,7 @@ Show some ❤️ by starring some of the repositories and also follow me on Gith
 
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
 
-My Digital Garden 🌱
+**My Digital Garden** 🌱
 
 You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
 
@@ -95,7 +95,8 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - **WEBINARS** 📺
   - Data Centres on the Edge : Emerging Trends in Edge Data Center Architecture by HCL
   - Scaling Innovation : How to Reap the Benefit of Good Ideas by Capgemini 
-  - Arduino Day Event conducted by Talent Eve on the ocassion of World Arduino Day, 2021.
+  - Arduino Day Event conducted by Talent Eve on the ocassion of World Arduino Day, 2021
+  - IoT Day Event conduction by TIE IoT Forum Chapter, 2021
 - **WORKSHOPS** 🔭
   - IOT Workshop by Cisco
   - Machine Learning Workshop by Kaggle
