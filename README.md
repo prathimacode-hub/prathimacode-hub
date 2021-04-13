@@ -59,7 +59,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 ![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
 
-**My Guthub Streak Stats**
+**My Github Streak Stats**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
 
