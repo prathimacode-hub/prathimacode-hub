@@ -4,7 +4,7 @@
 
 **Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 I’m Prathima Kadari😊. I'm a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
+- 👋 I’m Prathima Kadari😊, a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
 - 🧰 I've my masters specialization from Embedded Systems, an IOT & Artificial Intelligence Enthusiast and a Blogger.
 - 🙋 I've learnt Python, Machine Learning, Artificial Intelligence and currently working on implementing it through applications practically. 
@@ -32,6 +32,10 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
 - [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers)
 
+**Connect with Me** 🤝🏻
+
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+
 **My Tech Stack** 🚀
 - C
 - C++
@@ -53,11 +57,11 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 ![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
 
-**My Github Streak Stats**
+**My Github Streak Stats** 🍁
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
 
-**Profile Views**
+**Profile Views** 🎯
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
