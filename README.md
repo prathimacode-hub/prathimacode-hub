@@ -19,7 +19,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveller and Sudoku Lover.
 
-Show some ❤️ by starring some of the repositories and also follow me on Github 😀!
+Show some ❤️ by starring some of the repositories and also follow me on Github 😀
 
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
 
@@ -32,8 +32,6 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 - [Introduction to Internet of Things](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
-- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
-- [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers)
 
 **My Tech Stack** 🚀
 - C
