@@ -1,11 +1,17 @@
 # Prathima Kadari
 
+**Hey, Fellow <C𝚘𝚍𝚎𝚛𝚜/>, I'm [Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
-Let's connect! Choose your favorite platform and say Hi: <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
+<p align="center"> 
+   Let's connect! Choose your favorite platform and say Hi  🙋🏻‍♂️
+</p>
 
-**Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
 
-- 👋 I’m Prathima Kadari😊, a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
+<h2>Know about me</h2>
+
+- 👋 I’m a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
 - 🧰 I've my masters specialization from Embedded Systems, an IOT & Artificial Intelligence Enthusiast and a Blogger.
 - 🙋 I've learnt Python, Machine Learning, Artificial Intelligence and currently working on implementing it through applications practically. 
@@ -55,13 +61,10 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 <br/>  
 
-
-<br/>  
-
  [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/starlightknown)
 <p align="center">
 
-**My Digital Garden** 🌱
+<h2>My Digital Garden</h2> 🌱
 
 You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
 
@@ -69,7 +72,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [Introduction to Internet of Things](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 
-**My Tech Stack** 🚀
+<h2>My Tech Stack</h2> 🚀
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -80,24 +83,24 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - Artificial Intelligence
 - Arduino
 
-**My Blog Posts** ✍️
+**<h2>My Blog Posts</h2> ✍️
 - Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
 - I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
 
-**My Github Status** 🦸
+**<h2>My Github Status**</h2> 🦸
 
 ![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
 
-**My Github Streak Stats** 🍁
+**<h2>My Github Streak Stats**</h2> 🍁
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
 
-**Profile Views** 🎯
+**<h2>Profile Views**</h2> 🎯
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
-**My Certifications** ⬇️
+<h2>My Certifications</h2> ⬇️
 - Internet of Things Professional Program by Stanford University 
 - C++ by Jigsaw Mindz
 - Controller Area Network by Udemy
@@ -109,15 +112,15 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - Artificial Intelligence by Microsoft
 - Statistics by Great Learning
 
-**My Achievements** ✨
+<h2>My Achievements</h2> ✨
 - Accomplished 2376th Rank in World and 536th Rank in India for Google HashCode Competition.
 - Won an #Octocat Challenge competition
 
-**My Assessments**📡
+<h2>My Assessments</h2>📡
 - HackerRank : Python
 - LinkedIn : C, C++, Python
 
-**My Activities** 📬
+<h2>My Activities</h2> 📬
 - **OPEN SOURCE** 💡
   - Contributor at GirlScript Summer of Code
   - Participated in MLH Local Hack Day : Share (50th position)
