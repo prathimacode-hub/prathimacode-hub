@@ -2,6 +2,8 @@
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img> 
+
 **Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 I’m Prathima Kadari😊. I'm a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
@@ -31,12 +33,6 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 - [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
 - [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers)
-
-**Connect with Me** 🤝🏻
-
-- [LinkedIn](https://www.linkedin.com/in/prathima-kadari)
-- [Twitter](https://twitter.com/prathimak88)
-- [Hashnode](https://prathimakadari.hashnode.dev/)
 
 **My Tech Stack** 🚀
 - C
@@ -81,6 +77,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 
 **My Achievements** ✨
 - Accomplished 2376th Rank in World and 536th Rank in India for Google HashCode Competition.
+- Won an #Octocat Challenge competition
 
 **My Assessments**📡
 - HackerRank : Python
