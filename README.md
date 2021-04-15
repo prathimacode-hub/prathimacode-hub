@@ -1,5 +1,3 @@
-# Prathima Kadari
-
 **Hey, Fellow <C𝚘𝚍𝚎𝚛𝚜/>, I'm [Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
@@ -83,7 +81,8 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - Artificial Intelligence
 - Arduino
 
-**<h2>My Blog Posts✍️</h2> 
+<h2>My Blog Posts✍️</h2> 
+
 - Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
 - I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
 
@@ -101,6 +100,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 <h2>My Certifications⬇️</h2> 
+
 - Internet of Things Professional Program by Stanford University 
 - C++ by Jigsaw Mindz
 - Controller Area Network by Udemy
@@ -113,14 +113,17 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - Statistics by Great Learning
 
 <h2>My Achievements✨</h2> 
+
 - Accomplished 2376th Rank in World and 536th Rank in India for Google HashCode Competition.
 - Won an #Octocat Challenge competition
 
 <h2>My Assessments📡</h2>
+
 - HackerRank : Python
 - LinkedIn : C, C++, Python
 
 <h2>My Activities📬</h2> 
+
 - **OPEN SOURCE** 💡
   - Contributor at GirlScript Summer of Code
   - Participated in MLH Local Hack Day : Share (50th position)
