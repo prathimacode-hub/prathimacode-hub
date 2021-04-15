@@ -3,7 +3,7 @@
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 Let's connect! Choose your favorite platform and say Hi: <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
 
-**Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**Hey, <h2>Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/></h2>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 I’m Prathima Kadari😊, a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
 - 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
@@ -19,11 +19,47 @@ Let's connect! Choose your favorite platform and say Hi: <a href="https://twitte
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveller and Sudoku Lover.
 
-Show some ❤️ by starring some of the repositories and also follow me on Github 😀
+Show some ❤️ by starring some of the repositories and also follow me on <h2>[Github](https://github.com/prathimacode-hub)</h2> 😀
 
-You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
+You can checkout my projects from here 🔥 - <h2>[MyProjects](https://github.com/prathimacode-hub?tab=repositories)</h2> 
 
 ---------------------------------------------------------------------
+
+ <summary><h2><b>🥇 Open Source Project - Open for Contributions. </b></h2></summary>
+
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts"><b> Awesome_Python_Scripts </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
+      </tr>
+      
+  </tbody>
+  </table>
+
+<br/>  
+
+
+<br/>  
+
+ [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/starlightknown)
+<p align="center">
 
 **My Digital Garden** 🌱
 
