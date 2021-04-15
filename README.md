@@ -1,6 +1,7 @@
 # Prathima Kadari
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 **Hey, Fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -22,6 +23,8 @@ Show some ❤️ by starring some of the repositories and also follow me on Gith
 
 You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
 
+---------------------------------------------------------------------
+
 **My Digital Garden** 🌱
 
 You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
@@ -31,10 +34,6 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 - [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
 - [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers)
-
-**Connect with Me** 🤝🏻
-
-<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 **My Tech Stack** 🚀
 - C
