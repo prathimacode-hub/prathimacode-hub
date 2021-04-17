@@ -64,7 +64,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 <h2>My Digital Garden🌱</h2>
 
-You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
+You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/). Follow Up and Subscribe to my Newsletter to get timely updates.
 
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
