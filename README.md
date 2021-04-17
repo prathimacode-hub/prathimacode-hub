@@ -70,6 +70,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+➡️[more blog posts...](https://prathimakadari.hashnode.dev/)
 
 <h2>My Tech Stack🚀</h2>
 
