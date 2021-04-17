@@ -67,7 +67,8 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/).
 
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
-- [Introduction to Internet of Things](https://prathimakadari.hashnode.dev/getting-started-with-iot)
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 
 <h2>My Tech Stack🚀</h2>
