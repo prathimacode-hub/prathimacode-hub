@@ -53,7 +53,14 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
       </tr>
-      
+      <tr>
+	      <td><a href="https://github.com/prathimacode-hub/HelloWorld"><b> HelloWorld </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/prathimacode-hub/HelloWorld?style=flat-square"/></td>
+      </tr>
   </tbody>
   </table>
 
