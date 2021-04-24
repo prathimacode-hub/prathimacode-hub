@@ -30,16 +30,17 @@ or use it. It helps me a lot.
 
 **My Digital Garden🌱**<br>
 
-You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/)<br>
+➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
 Follow Up and Subscribe to my Newsletter to get timely updates
 
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
-- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
 - [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
-➡️[more blog posts...](https://prathimakadari.hashnode.dev/)
+<img align='left' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='150"'>
 
 </td>
 <td valign="top" width="50%">
@@ -52,6 +53,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 | [**Awesome_Python_Scripts**](https://github.com/prathimacode-hub/Awesome_Python_Script) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pullrequests) |
 | [**HelloWorld**](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/pullrequest) |
 
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+
 **My GitHub Stats🎯**<br>
 
 <img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
@@ -63,3 +66,20 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+
+<!--
+**prathimacode-hub/prathimacode-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
