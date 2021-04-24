@@ -37,8 +37,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
 ➡️[more blog posts...](https://prathimakadari.hashnode.dev/)
+
 </td>
 <td valign="top" width="50%">
 
@@ -52,7 +54,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 **My GitHub Stats🎯**<br>
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
