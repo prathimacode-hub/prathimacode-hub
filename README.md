@@ -1,9 +1,8 @@
 <!---
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
--->
 
-**Hey, Fellow <C𝚘𝚍𝚎𝚛𝚜/>, I'm [Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm **[Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 <p align="center"> 
@@ -34,7 +33,7 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 ---------------------------------------------------------------------
 
- <summary><h2><b>🥇 Open Source Project - Open for Contributions. </b></h2></summary>
+ <summary>**<b>🥇 Open Source Project - Open for Contributions. </b>**</summary>
 
 
   <br />
@@ -73,10 +72,10 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
- [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/prathimacode-hub)
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/prathimacode-hub)
 <p align="center">
 
-<h2>My Digital Garden🌱</h2>
+**My Digital Garden🌱**
 
 You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/). Follow Up and Subscribe to my Newsletter to get timely updates.
 
@@ -84,6 +83,7 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+
 ➡️[more blog posts...](https://prathimakadari.hashnode.dev/)
 
 <h2>My Tech Stack🚀</h2>
@@ -102,18 +102,14 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
 - I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
 
-<h2>My Github Status🦸</h2> 
+**My GitHub Stats🎯**
 
-![Prathima Kadari's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=radical&repo=github-readme-stats&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathimacode-hub&layout=compact&show_icons=true&theme=radical&count_private=true)
+<img width="18%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
-<h2>My Github Streak Stats🍁</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=dracula)](https://github.com/prathimacode-hub/github-readme-streak-stats)
-
-<h2>Profile Views🎯</h2>
-
-![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+</p>
 
 <h2>My Certifications⬇️</h2> 
 
