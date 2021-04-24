@@ -40,8 +40,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
-<img align='left' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='150"'>
-
 </td>
 <td valign="top" width="50%">
 
@@ -67,7 +65,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-
 <!--
 **prathimacode-hub/prathimacode-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -82,4 +79,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
