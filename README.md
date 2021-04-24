@@ -1,3 +1,8 @@
+<!---
+Please consider starring the repo if you find this useful in any manner
+or use it. It helps me a lot.
+-->
+
 **Hey, Fellow <C𝚘𝚍𝚎𝚛𝚜/>, I'm [Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
@@ -65,6 +70,8 @@ You can checkout my projects from here 🔥 - [MyProjects](https://github.com/pr
   </table>
 
 <br/>  
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
  [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/prathimacode-hub)
 <p align="center">
