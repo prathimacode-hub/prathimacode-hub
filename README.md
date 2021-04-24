@@ -26,7 +26,7 @@ or use it. It helps me a lot.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="35%">
 
 **My Digital Garden🌱**<br>
 
@@ -40,8 +40,11 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
+<img align='left' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='130"'>
+
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="35%">
+
 
  **Open Source Projects-Open for Contributions🥇**<br>
  
