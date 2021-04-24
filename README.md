@@ -1,83 +1,37 @@
 <!---
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
+-->
 
-# Hi, I'm **[Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hey there, I'm **[Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+**Glad to see you here!** :star_struck: <br>
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 <p align="center"> 
-   Let's connect! Choose your favorite platform and say Hi  🙋🏻‍♂️
+   Let's connect! Choose your favorite platform and say Hi  🙋🏻‍♂️
 </p>
 
 <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
 
-<h2>Know about Me</h2>
+**My Tech Toolbox🧰**<br>
 
-- 👋 I’m a former Embedded/R&D Engineer working on projects as a freelancer and leveraging up my skills by learning new technologies.
-- 🗄️  I've done multiple projects on C, Embedded C, Embedded Linux System Programming, Linux Device Drivers and IOT. 
-- 🧰 I've my masters specialization from Embedded Systems, an IOT & Artificial Intelligence Enthusiast and a Blogger.
-- 🙋 I've learnt Python, Machine Learning, Artificial Intelligence and currently working on implementing it through applications practically. 
-- 🌱 I’m currently learning automotive embedded systems and brushing up my gained technical skills.
-- 💡  I'm willing to work on freelance projects and would love to contribute to open source projects.
-- 💞️ I’m looking to collaborate on interesting projects and technical events in my expertise.
-- 👀 I’m interested in learning flutter, react and android development.
-- 🤔 I’m looking for help with my portfolio website development.
-- 💬 Ask me about anything, I'll be happy to help.
-- 📫 How to reach me: You can connect with me on [Twitter](https://twitter.com/prathimak88)|[LinkedIn](https://www.linkedin.com/in/prathima-kadari) or post out your queries through Issues/Discussions Tab.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Traveller and Sudoku Lover.
+<p align="left">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/> 
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C.png" alt="C" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/C%2B%2B.png" alt="C++" width="40" height="40"/> 
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
 
-Show some ❤️ by starring some of the repositories and also follow me on [Github](https://github.com/prathimacode-hub)😀
+<table><tr><td valign="top" width="50%">
 
-You can checkout my projects from here 🔥 - [MyProjects](https://github.com/prathimacode-hub?tab=repositories) 
+**My Digital Garden🌱**<br>
 
----------------------------------------------------------------------
-
- <summary>**<b>🥇 Open Source Project - Open for Contributions. </b>**</summary>
-
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts"><b> Awesome_Python_Scripts </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/prathimacode-hub/Awesome_Python_Scripts?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/prathimacode-hub/HelloWorld"><b> HelloWorld </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/prathimacode-hub/HelloWorld?style=flat-square"/></td>
-      </tr>
-  </tbody>
-  </table>
-
-<br/>  
-
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode)](https://git.io/prathimacode-hub)
-<p align="center">
-
-**My Digital Garden🌱**
-
-You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/). Follow Up and Subscribe to my Newsletter to get timely updates.
+You can find all my blogs here at my [Website](https://prathimakadari.hashnode.dev/)<br>
+Follow Up and Subscribe to my Newsletter to get timely updates
 
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
@@ -85,81 +39,25 @@ You can find all my blogs here at my [Website](https://prathimakadari.hashnode.d
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 
 ➡️[more blog posts...](https://prathimakadari.hashnode.dev/)
+</td>
+<td valign="top" width="50%">
 
-<h2>My Tech Stack🚀</h2>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white) ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+ **Open Source Projects-Open for Contributions🥇**<br>
  
-- Embedded C
-- Linux Device Drivers
-- IOT
-- Machine Learning
-- Artificial Intelligence
-- Arduino
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub)
+|      Project :octocat:   |     Stars 🌟   | Forks 🍴  | Issues 🐛  | Pull Requests 🔔 | 
+|-------------|-------------------|---|---|---|
+| [**Awesome_Python_Scripts**](https://github.com/prathimacode-hub/Awesome_Python_Script) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pullrequests) |
+| [**HelloWorld**](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/pullrequest) |
 
-<h2>My Blog Posts✍️</h2> 
+**My GitHub Stats🎯**<br>
 
-- Participated in Blogathon by Analytics Vidhya (Blog Link : [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/))
-- I, #choosetochallenge on IWD, 2021 by HashNode (Blog Link : [Women Rising - The Unseen Barrier](https://prathimakadari.hashnode.dev/choosetochallenge-women-rising-the-unseen-barriers))
-
-**My GitHub Stats🎯**
-
-<img width="18%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
 
-<h2>My Certifications⬇️</h2> 
 
-- Internet of Things Professional Program by Stanford University 
-- C++ by Jigsaw Mindz
-- Controller Area Network by Udemy
-- Raspberry Pi by Udemy
-- Matlab by Mathworks
-- Python by IBM
-- Data Structures and Algorithms with Python by LetsUprade
-- Machine Learning by GirlScript Foundation (Education Outreach Scholarship Winner)
-- Artificial Intelligence by Microsoft
-- Statistics by Great Learning
-
-<h2>My Achievements✨</h2> 
-
-- Accomplished 2376th Rank in World and 536th Rank in India for Google HashCode Competition.
-- Won an #Octocat Challenge competition
-
-<h2>My Assessments📡</h2>
-
-- HackerRank : Python
-- LinkedIn : C, C++, Python
-
-<h2>My Activities📬</h2> 
-
-- **OPEN SOURCE** 💡
-  - Contributor at GirlScript Summer of Code
-  - Participated in MLH Local Hack Day : Share (50th position)
-- **BLOGS** 📖
-  - Motivational Writer, Reader and Blogger at HashNode (Blog Link: [prathimakadari](https://prathimakadari.hashnode.dev/))
-- **WEBINARS** 📺
-  - Data Centres on the Edge : Emerging Trends in Edge Data Center Architecture by HCL
-  - Scaling Innovation : How to Reap the Benefit of Good Ideas by Capgemini 
-  - Arduino Day Event conducted by Talent Eve on the ocassion of World Arduino Day, 2021
-  - IoT Day Event conduction by TIE IoT Forum Chapter, 2021
-- **WORKSHOPS** 🔭
-  - IOT Workshop by Cisco
-  - Machine Learning Workshop by Kaggle
-  - Python and Computer Vision Workshop by ShapeAI
-  - C++ Programming Workshop by Jigsaw Mindz
-  - Cloud Computing and Azure Workshop by Microsoft
-  - Participated in Google Cloud Community Days and WomenTechmakers Summit
-  - Graphic Designing using Canva and Website Development using WordPress Workshop by GirlScript
-  - Million Women at the Top Initiative Workshop by Iron Lady
-- **POSITION OF RESPONSIBILITY** 🧰
-  - Global Ambassador at WomenTech Network 
-  - Volunteer at ArtOfLiving Organization
-
-<!---
-prathimacode-hub/prathimacode-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
