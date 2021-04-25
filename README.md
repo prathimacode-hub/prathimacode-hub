@@ -4,14 +4,23 @@ or use it. It helps me a lot.
 -->
 
 ### Hey there, I'm **[Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-**Glad to see you here!** :star_struck: <br>
+**Glad to see you here!** :star_struck: 
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
-<p align="center"> 
-   Let's connect! Choose your favorite platform and say Hi  🙋🏻‍♂️
-</p>
 
 <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
+
+<h3>👇Welcome to my Profile🏠</h3><br>
+
+<p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Pythonista🤳🏻, IoT & Artificial Intelligence Enthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador, Virtual Experience Coordinator, Session Monitor & Facilitator at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a>🚀, Ambassador at <a href="https://hackthemountain.tech/">Hack The Mountains</a>🍁</p>
+
+<p align="center">Passionate for learning and exploring new technology💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻.You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
+
+<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in levaraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading, puzzles⚡ and spicy food 😋 is what I like the most.</p>
+
+<p align="center"> 😃 I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always ready to help you out! 💯 </p>
+
+- - -
 
 **My Tech Toolbox🧰**<br>
 
@@ -25,8 +34,6 @@ or use it. It helps me a lot.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-
-
 
 **My Digital Garden🌱**<br>
 
@@ -60,7 +67,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
-
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
