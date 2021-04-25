@@ -20,7 +20,7 @@ or use it. It helps me a lot.
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2>Tech Toolbox🧰</h2><br>
+**Tech Toolbox🧰**<br>
 
 <p align="left">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Python.png" alt="Python" width="40" height="40"/> 
@@ -33,7 +33,7 @@ or use it. It helps me a lot.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
 
-<h2>Digital Garden🌱</h2><br>
+**Digital Garden🌱**<br>
 
 ➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
 Follow Up and Subscribe to my Newsletter to get timely updates
@@ -45,7 +45,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
- <h2>Open Source Projects-Open for Contributions🥇</h2><br>
+ **Open Source Projects-Open for Contributions🥇**<br>
  
  <img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='150"'>
 
@@ -58,7 +58,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
-<h2>GitHub Stats🎯<h2><br>
+**GitHub Stats🎯**<br>
 
 <details><summary>Recent Activity</summary>
 
