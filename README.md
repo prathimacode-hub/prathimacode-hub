@@ -20,6 +20,18 @@ or use it. It helps me a lot.
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+**Digital Garden🌱**<br>
+
+➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
+Follow Up and Subscribe to my Newsletter to get timely updates
+
+- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
+- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
+- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+
 **Tech Toolbox🧰**<br>
 
 <p align="left">
@@ -32,18 +44,6 @@ or use it. It helps me a lot.
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Colab.png" alt="Google Colab" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Jupyter.png" alt="Jupyter" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Pycharm.png" alt="Pycharm" width="40" height="40"/>
-
-**Digital Garden🌱**<br>
-
-➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
-Follow Up and Subscribe to my Newsletter to get timely updates
-
-- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
-- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
-- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
-- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
-- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
-- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
  **Open Source Projects-Open for Contributions🥇**<br>
  
