@@ -68,10 +68,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/shrish-sharma-codes/fictional-chainsaw/pull/72) in [shrish-sharma-codes/fictional-chainsaw](https://github.com/shrish-sharma-codes/fictional-chainsaw/pull/72)
+1. 🗣 Commented on [#47](https://github.com/Shivani1337/Piece-of-code/issues/47) in [Shivani1337/Piece-of-code](https://github.com/Shivani1337/Piece-of-code)
 2. 💪 Opened PR [#28](https://github.com/realpython/python-scripts/pull/28) in [realpython/python-scripts](https://github.com/realpython/python-scripts)
-3. 🎉 Merged PR [#301](https://github.com/SAMYAK99/CS-180/pull/301) in [SAMYAK99/CS-180](https://github.com/SAMYAK99/CS-180)
-4. 💪 Opened PR [#211](https://github.com/hastagAB/Awesome-Python-Scripts/pull/211) in [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts)
+3. 💪 Opened PR [#37](https://github.com/mani1soni/Python-Scripts/pull/37) in [mani1soni/Python-Scripts](https://github.com/mani1soni/Python-Scripts)
+4. 🗣 Commented on [#1](https://github.com/mani1soni/Python-Scripts/issues/1) in [mani1soni/Python-Scripts](https://github.com/mani1soni/Python-Scripts)
 <!--END_SECTION:activity-->
 </details>
 
