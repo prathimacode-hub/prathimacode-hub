@@ -3,14 +3,12 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-### Hey there, I'm **[Prathima Kadari](https://prathimakadari.hashnode.dev/)** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-**Glad to see you here!** :star_struck: 
+<h1>HEY THERE, I'M PRATHIMA KADARI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br>
+<h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇:star_struck:</h2><br>
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 
 <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
-
-<h3>👇Welcome to my Profile</h3><br>
 
 <p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Pythonista at <a href="https://www.hackerrank.com/">Hacker Rank</a>🤳, IoT & Artificial Intelligence Enthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador, Virtual Experience Coordinator, Session Monitor & Facilitator at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a>🚀, Ambassador at <a href="https://hackthemountain.tech/">Hack The Mountains</a>🍁, Freelancer👯, Volunteer at <a href="https://www.artofliving.org/in-en">Art of Living Organization🙌</a>
 
