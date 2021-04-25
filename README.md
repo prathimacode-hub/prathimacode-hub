@@ -59,7 +59,17 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 **My GitHub Stats🎯**<br>
+
+<details><summary>Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</details>
 
 <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
@@ -67,6 +77,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
