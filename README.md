@@ -57,9 +57,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
- 
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 **My GitHub Stats🎯**<br>
 
