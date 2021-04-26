@@ -53,7 +53,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
  **Open Source Projects-Open for Contributions🥇**<br>
  
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub)
+<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='150"'>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub)
 |      Project :octocat:   |     Stars 🌟   | Forks 🍴  | Issues 🐛  | Pull Requests 🔔 | 
 |-------------|-------------------|---|---|---|
 | [**Awesome_Python_Scripts**](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pullrequests) |
