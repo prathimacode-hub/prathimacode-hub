@@ -53,8 +53,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
  **Open Source Projects-Open for Contributions🥇**<br>
  
- <img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/Octocat-anime.gif' width='150"'>
-
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/prathimacode-hub)
 |      Project :octocat:   |     Stars 🌟   | Forks 🍴  | Issues 🐛  | Pull Requests 🔔 | 
 |-------------|-------------------|---|---|---|
