@@ -63,10 +63,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/amandp13/Cool-Scripts-Python-Nerds/pull/80) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
-2. 🗣 Commented on [#47](https://github.com/Shivani1337/Piece-of-code/issues/47) in [Shivani1337/Piece-of-code](https://github.com/Shivani1337/Piece-of-code)
-3. 💪 Opened PR [#28](https://github.com/realpython/python-scripts/pull/28) in [realpython/python-scripts](https://github.com/realpython/python-scripts)
-4. 💪 Opened PR [#37](https://github.com/mani1soni/Python-Scripts/pull/37) in [mani1soni/Python-Scripts](https://github.com/mani1soni/Python-Scripts)
+1. 🗣 Commented on [#2](https://github.com/amandp13/Cool-Scripts-Python-Nerds/issues/2) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
+2. 💪 Opened PR [#80](https://github.com/amandp13/Cool-Scripts-Python-Nerds/pull/80) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
+3. 🗣 Commented on [#47](https://github.com/Shivani1337/Piece-of-code/issues/47) in [Shivani1337/Piece-of-code](https://github.com/Shivani1337/Piece-of-code)
+4. 💪 Opened PR [#28](https://github.com/realpython/python-scripts/pull/28) in [realpython/python-scripts](https://github.com/realpython/python-scripts)
 <!--END_SECTION:activity-->
 </details>
 
