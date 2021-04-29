@@ -66,6 +66,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 **GitHub Stats🎯**<br>
 
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
@@ -76,7 +78,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <!--END_SECTION:activity-->
 </details>
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
+</details>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
