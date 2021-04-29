@@ -15,7 +15,7 @@ or use it. It helps me a lot.
 
 <p align="center">I am a Gypsy Girl 💖 and I like to spend my time in levaraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
 
-<p align="center"> 😃 I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!✔
+<p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!✔😃 
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
