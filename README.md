@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/prathimacode-hub/E-Library/issues/1) in [prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library)
-2. 🗣 Commented on [#2](https://github.com/amandp13/Cool-Scripts-Python-Nerds/issues/2) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
-3. 💪 Opened PR [#80](https://github.com/amandp13/Cool-Scripts-Python-Nerds/pull/80) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
-4. 💪 Opened PR [#28](https://github.com/realpython/python-scripts/pull/28) in [realpython/python-scripts](https://github.com/realpython/python-scripts)
+1. ❗️ Opened issue [#4](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/4) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Opened issue [#3](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/3) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Opened issue [#1](https://github.com/prathimacode-hub/E-Library/issues/1) in [prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library)
+4. 🗣 Commented on [#2](https://github.com/amandp13/Cool-Scripts-Python-Nerds/issues/2) in [amandp13/Cool-Scripts-Python-Nerds](https://github.com/amandp13/Cool-Scripts-Python-Nerds)
 <!--END_SECTION:activity-->
 </details>
 
