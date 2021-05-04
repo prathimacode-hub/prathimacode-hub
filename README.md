@@ -73,9 +73,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-2. 🗣 Commented on [#4](https://github.com/prathimacode-hub/HelloWorld/issues/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+2. 🎉 Merged PR [#3](https://github.com/prathimacode-hub/HelloWorld/pull/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 3. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-4. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+4. 🗣 Commented on [#4](https://github.com/prathimacode-hub/HelloWorld/issues/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 <!--END_SECTION:activity-->
 </details>
 
