@@ -74,8 +74,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 2. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-3. ❗️ Opened issue [#4](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/4) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. ❗️ Opened issue [#3](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/3) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+4. ❗️ Opened issue [#4](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/4) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
