@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11857](https://github.com/zero-to-mastery/start-here-guidelines/pull/11857) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-2. 💪 Opened PR [#83](https://github.com/akshitagit/open-source-DSA-code/pull/83) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
-3. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-4. 🎉 Merged PR [#3](https://github.com/prathimacode-hub/HelloWorld/pull/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+1. ❗️ Opened issue [#55](https://github.com/Asiatik/Join_Asiatik/issues/55) in [Asiatik/Join_Asiatik](https://github.com/Asiatik/Join_Asiatik)
+2. 💪 Opened PR [#11857](https://github.com/zero-to-mastery/start-here-guidelines/pull/11857) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+3. 💪 Opened PR [#83](https://github.com/akshitagit/open-source-DSA-code/pull/83) in [akshitagit/open-source-DSA-code](https://github.com/akshitagit/open-source-DSA-code)
+4. 🗣 Commented on [#3](https://github.com/prathimacode-hub/HelloWorld/issues/3) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 <!--END_SECTION:activity-->
 </details>
 
