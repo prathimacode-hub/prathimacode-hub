@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/5) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Opened issue [#106](https://github.com/TEDxP/Join_TEDxP/issues/106) in [TEDxP/Join_TEDxP](https://github.com/TEDxP/Join_TEDxP)
-3. 💪 Opened PR [#105](https://github.com/TEDxP/Join_TEDxP/pull/105) in [TEDxP/Join_TEDxP](https://github.com/TEDxP/Join_TEDxP)
-4. ❗️ Opened issue [#1380](https://github.com/collective/Collective/issues/1380) in [collective/Collective](https://github.com/collective/Collective)
+1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/HelloWorld/issues/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+2. 🗣 Commented on [#5](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/5) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Opened issue [#106](https://github.com/TEDxP/Join_TEDxP/issues/106) in [TEDxP/Join_TEDxP](https://github.com/TEDxP/Join_TEDxP)
+4. 💪 Opened PR [#105](https://github.com/TEDxP/Join_TEDxP/pull/105) in [TEDxP/Join_TEDxP](https://github.com/TEDxP/Join_TEDxP)
 <!--END_SECTION:activity-->
 </details>
 
