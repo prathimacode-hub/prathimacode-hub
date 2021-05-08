@@ -70,10 +70,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Evavic44/The-Tree-Musketeers/issues/1) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
-2. 💪 Opened PR [#3](https://github.com/Evavic44/The-Tree-Musketeers/pull/3) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
-3. 🗣 Commented on [#1](https://github.com/Evavic44/The-Tree-Musketeers/issues/1) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
-4. 🗣 Commented on [#11857](https://github.com/zero-to-mastery/start-here-guidelines/issues/11857) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+1. 🗣 Commented on [#1](https://github.com/NITJSR-OSS/EverydayFun/issues/1) in [NITJSR-OSS/EverydayFun](https://github.com/NITJSR-OSS/EverydayFun)
+2. 🗣 Commented on [#1](https://github.com/Evavic44/The-Tree-Musketeers/issues/1) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
+3. 🗣 Commented on [#3](https://github.com/Evavic44/The-Tree-Musketeers/issues/3) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
+4. 🗣 Commented on [#1](https://github.com/Evavic44/The-Tree-Musketeers/issues/1) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
 <!--END_SECTION:activity-->
 </details>
 
