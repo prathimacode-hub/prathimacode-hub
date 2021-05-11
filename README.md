@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/HelloWorld/issues/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-2. 🗣 Commented on [#8](https://github.com/K-G-PRAJWAL/Python-Projects/issues/8) in [K-G-PRAJWAL/Python-Projects](https://github.com/K-G-PRAJWAL/Python-Projects)
-3. 💪 Opened PR [#9](https://github.com/K-G-PRAJWAL/Python-Projects/pull/9) in [K-G-PRAJWAL/Python-Projects](https://github.com/K-G-PRAJWAL/Python-Projects)
-4. 🗣 Commented on [#4](https://github.com/Evavic44/The-Tree-Musketeers/issues/4) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
+1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#4](https://github.com/prathimacode-hub/HelloWorld/issues/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+3. 🗣 Commented on [#8](https://github.com/K-G-PRAJWAL/Python-Projects/issues/8) in [K-G-PRAJWAL/Python-Projects](https://github.com/K-G-PRAJWAL/Python-Projects)
+4. 💪 Opened PR [#9](https://github.com/K-G-PRAJWAL/Python-Projects/pull/9) in [K-G-PRAJWAL/Python-Projects](https://github.com/K-G-PRAJWAL/Python-Projects)
 <!--END_SECTION:activity-->
 </details>
 
