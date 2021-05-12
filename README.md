@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1650](https://github.com/Ishaan28malik/Hacktoberfest-2020/pull/1650) in [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
-2. 💪 Opened PR [#153](https://github.com/TraXIcoN/FreeCodeCamp-Projects/pull/153) in [TraXIcoN/FreeCodeCamp-Projects](https://github.com/TraXIcoN/FreeCodeCamp-Projects)
-3. 💪 Opened PR [#56](https://github.com/hmangukia/Hack2020/pull/56) in [hmangukia/Hack2020](https://github.com/hmangukia/Hack2020)
-4. 💪 Opened PR [#29](https://github.com/marcelodasilva/challenges-hacktoberfest/pull/29) in [marcelodasilva/challenges-hacktoberfest](https://github.com/marcelodasilva/challenges-hacktoberfest)
+1. ❗️ Closed issue [#6](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/6) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#6](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/6) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/8) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 💪 Opened PR [#22](https://github.com/sameer-dudeja/Hactoberfest2k18-DDN-DITU/pull/22) in [sameer-dudeja/Hactoberfest2k18-DDN-DITU](https://github.com/sameer-dudeja/Hactoberfest2k18-DDN-DITU)
 <!--END_SECTION:activity-->
 </details>
 
