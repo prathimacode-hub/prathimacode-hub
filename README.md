@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/MightyMoin/HappyHacktober/pull/16) in [MightyMoin/HappyHacktober](https://github.com/MightyMoin/HappyHacktober)
-2. 💪 Opened PR [#10](https://github.com/jiad-dev/hacktoberfest2k18/pull/10) in [jiad-dev/hacktoberfest2k18](https://github.com/jiad-dev/hacktoberfest2k18)
-3. 🗣 Commented on [#626](https://github.com/BeccaLyria/discord-bot/issues/626) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-4. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 💪 Opened PR [#1650](https://github.com/Ishaan28malik/Hacktoberfest-2020/pull/1650) in [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
+2. 💪 Opened PR [#153](https://github.com/TraXIcoN/FreeCodeCamp-Projects/pull/153) in [TraXIcoN/FreeCodeCamp-Projects](https://github.com/TraXIcoN/FreeCodeCamp-Projects)
+3. 💪 Opened PR [#56](https://github.com/hmangukia/Hack2020/pull/56) in [hmangukia/Hack2020](https://github.com/hmangukia/Hack2020)
+4. 💪 Opened PR [#29](https://github.com/marcelodasilva/challenges-hacktoberfest/pull/29) in [marcelodasilva/challenges-hacktoberfest](https://github.com/marcelodasilva/challenges-hacktoberfest)
 <!--END_SECTION:activity-->
 </details>
 
