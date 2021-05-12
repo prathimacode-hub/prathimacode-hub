@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/6) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#6](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/6) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/8) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 💪 Opened PR [#22](https://github.com/sameer-dudeja/Hactoberfest2k18-DDN-DITU/pull/22) in [sameer-dudeja/Hactoberfest2k18-DDN-DITU](https://github.com/sameer-dudeja/Hactoberfest2k18-DDN-DITU)
+1. 💪 Opened PR [#130](https://github.com/OpenGuide/Python-Guide-for-Beginners/pull/130) in [OpenGuide/Python-Guide-for-Beginners](https://github.com/OpenGuide/Python-Guide-for-Beginners)
+2. 💪 Opened PR [#9](https://github.com/Aman199825/HacktoberFest/pull/9) in [Aman199825/HacktoberFest](https://github.com/Aman199825/HacktoberFest)
+3. 💪 Opened PR [#17](https://github.com/shawnkoon/hacktoberfest-python/pull/17) in [shawnkoon/hacktoberfest-python](https://github.com/shawnkoon/hacktoberfest-python)
+4. 💪 Opened PR [#39048](https://github.com/firstcontributions/first-contributions/pull/39048) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 </details>
 
