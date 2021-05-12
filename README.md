@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/OpenGuide/Python-Guide-for-Beginners/pull/130) in [OpenGuide/Python-Guide-for-Beginners](https://github.com/OpenGuide/Python-Guide-for-Beginners)
-2. 💪 Opened PR [#9](https://github.com/Aman199825/HacktoberFest/pull/9) in [Aman199825/HacktoberFest](https://github.com/Aman199825/HacktoberFest)
-3. 💪 Opened PR [#17](https://github.com/shawnkoon/hacktoberfest-python/pull/17) in [shawnkoon/hacktoberfest-python](https://github.com/shawnkoon/hacktoberfest-python)
-4. 💪 Opened PR [#39048](https://github.com/firstcontributions/first-contributions/pull/39048) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#2](https://github.com/nitinkumar2601/contribute/pull/2) in [nitinkumar2601/contribute](https://github.com/nitinkumar2601/contribute)
+2. 💪 Opened PR [#1](https://github.com/anuyam/contribute/pull/1) in [anuyam/contribute](https://github.com/anuyam/contribute)
+3. 💪 Opened PR [#1212](https://github.com/rathoresrikant/HacktoberFestContribute/pull/1212) in [rathoresrikant/HacktoberFestContribute](https://github.com/rathoresrikant/HacktoberFestContribute)
+4. 💪 Opened PR [#122](https://github.com/caroline-rodrigues/start_hacktoberfest2020/pull/122) in [caroline-rodrigues/start_hacktoberfest2020](https://github.com/caroline-rodrigues/start_hacktoberfest2020)
 <!--END_SECTION:activity-->
 </details>
 
