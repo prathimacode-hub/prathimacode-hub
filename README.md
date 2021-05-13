@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/codeholic24/Contribute_python_scripts/pull/1) in [codeholic24/Contribute_python_scripts](https://github.com/codeholic24/Contribute_python_scripts)
-2. 💪 Opened PR [#2](https://github.com/nitinkumar2601/contribute/pull/2) in [nitinkumar2601/contribute](https://github.com/nitinkumar2601/contribute)
-3. 💪 Opened PR [#1](https://github.com/anuyam/contribute/pull/1) in [anuyam/contribute](https://github.com/anuyam/contribute)
-4. 💪 Opened PR [#1212](https://github.com/rathoresrikant/HacktoberFestContribute/pull/1212) in [rathoresrikant/HacktoberFestContribute](https://github.com/rathoresrikant/HacktoberFestContribute)
+1. 💪 Opened PR [#380](https://github.com/abhishekdoifode1/Hacktoberfest2020/pull/380) in [abhishekdoifode1/Hacktoberfest2020](https://github.com/abhishekdoifode1/Hacktoberfest2020)
+2. 💪 Opened PR [#134](https://github.com/keshavsingh4522/Python/pull/134) in [keshavsingh4522/Python](https://github.com/keshavsingh4522/Python)
+3. 💪 Opened PR [#3](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute/pull/3) in [Krishna-2501/Hacktoberfest-2020-contribute](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute)
+4. 💪 Opened PR [#1](https://github.com/codeholic24/Contribute_python_scripts/pull/1) in [codeholic24/Contribute_python_scripts](https://github.com/codeholic24/Contribute_python_scripts)
 <!--END_SECTION:activity-->
 </details>
 
