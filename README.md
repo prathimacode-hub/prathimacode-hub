@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1650](https://github.com/Ishaan28malik/Hacktoberfest-2020/issues/1650) in [Ishaan28malik/Hacktoberfest-2020](https://github.com/Ishaan28malik/Hacktoberfest-2020)
-2. 💪 Opened PR [#4](https://github.com/premnathdey/hacktoberfest2020/pull/4) in [premnathdey/hacktoberfest2020](https://github.com/premnathdey/hacktoberfest2020)
-3. 💪 Opened PR [#380](https://github.com/abhishekdoifode1/Hacktoberfest2020/pull/380) in [abhishekdoifode1/Hacktoberfest2020](https://github.com/abhishekdoifode1/Hacktoberfest2020)
-4. 💪 Opened PR [#134](https://github.com/keshavsingh4522/Python/pull/134) in [keshavsingh4522/Python](https://github.com/keshavsingh4522/Python)
+1. 💪 Opened PR [#75](https://github.com/pranav2012/Python-fest2020/pull/75) in [pranav2012/Python-fest2020](https://github.com/pranav2012/Python-fest2020)
+2. 💪 Opened PR [#863](https://github.com/harshitbansal373/hacktoberfest2020/pull/863) in [harshitbansal373/hacktoberfest2020](https://github.com/harshitbansal373/hacktoberfest2020)
+3. 💪 Opened PR [#6](https://github.com/DheerajMandvi9/Hacktoberfest_2020/pull/6) in [DheerajMandvi9/Hacktoberfest_2020](https://github.com/DheerajMandvi9/Hacktoberfest_2020)
+4. 💪 Opened PR [#1](https://github.com/coldfunction/myscripts/pull/1) in [coldfunction/myscripts](https://github.com/coldfunction/myscripts)
 <!--END_SECTION:activity-->
 </details>
 
