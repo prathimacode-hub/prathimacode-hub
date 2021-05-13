@@ -22,7 +22,7 @@ or use it. It helps me a lot.
 
 **Digital Garden🌱**<br>
 
-<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/%23MyOctocat.gif' width='300"'>
+<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/My%20Octocat.gif' width='300"'>
 
 ➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
 Follow Up and Subscribe to my Newsletter to get timely updates
