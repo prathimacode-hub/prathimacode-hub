@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#380](https://github.com/abhishekdoifode1/Hacktoberfest2020/pull/380) in [abhishekdoifode1/Hacktoberfest2020](https://github.com/abhishekdoifode1/Hacktoberfest2020)
-2. 💪 Opened PR [#134](https://github.com/keshavsingh4522/Python/pull/134) in [keshavsingh4522/Python](https://github.com/keshavsingh4522/Python)
-3. 💪 Opened PR [#3](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute/pull/3) in [Krishna-2501/Hacktoberfest-2020-contribute](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute)
-4. 💪 Opened PR [#1](https://github.com/codeholic24/Contribute_python_scripts/pull/1) in [codeholic24/Contribute_python_scripts](https://github.com/codeholic24/Contribute_python_scripts)
+1. 💪 Opened PR [#4](https://github.com/premnathdey/hacktoberfest2020/pull/4) in [premnathdey/hacktoberfest2020](https://github.com/premnathdey/hacktoberfest2020)
+2. 💪 Opened PR [#380](https://github.com/abhishekdoifode1/Hacktoberfest2020/pull/380) in [abhishekdoifode1/Hacktoberfest2020](https://github.com/abhishekdoifode1/Hacktoberfest2020)
+3. 💪 Opened PR [#134](https://github.com/keshavsingh4522/Python/pull/134) in [keshavsingh4522/Python](https://github.com/keshavsingh4522/Python)
+4. 💪 Opened PR [#3](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute/pull/3) in [Krishna-2501/Hacktoberfest-2020-contribute](https://github.com/Krishna-2501/Hacktoberfest-2020-contribute)
 <!--END_SECTION:activity-->
 </details>
 
