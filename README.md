@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/HelloWorld/issues/7) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-2. ❗️ Opened issue [#6](https://github.com/prathimacode-hub/HelloWorld/issues/6) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-3. ❗️ Opened issue [#5](https://github.com/prathimacode-hub/HelloWorld/issues/5) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-4. ❗️ Opened issue [#4](https://github.com/prathimacode-hub/E-Library/issues/4) in [prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library)
+1. 💪 Opened PR [#1](https://github.com/ayan-biswas0412/opencvstarter/pull/1) in [ayan-biswas0412/opencvstarter](https://github.com/ayan-biswas0412/opencvstarter)
+2. 💪 Opened PR [#1](https://github.com/KwameKert/hackerRank/pull/1) in [KwameKert/hackerRank](https://github.com/KwameKert/hackerRank)
+3. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/HelloWorld/issues/7) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+4. ❗️ Opened issue [#6](https://github.com/prathimacode-hub/HelloWorld/issues/6) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 <!--END_SECTION:activity-->
 </details>
 
