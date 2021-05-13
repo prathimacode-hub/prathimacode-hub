@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/pranav2012/Python-fest2020/pull/75) in [pranav2012/Python-fest2020](https://github.com/pranav2012/Python-fest2020)
-2. 💪 Opened PR [#863](https://github.com/harshitbansal373/hacktoberfest2020/pull/863) in [harshitbansal373/hacktoberfest2020](https://github.com/harshitbansal373/hacktoberfest2020)
-3. 💪 Opened PR [#6](https://github.com/DheerajMandvi9/Hacktoberfest_2020/pull/6) in [DheerajMandvi9/Hacktoberfest_2020](https://github.com/DheerajMandvi9/Hacktoberfest_2020)
-4. 💪 Opened PR [#1](https://github.com/coldfunction/myscripts/pull/1) in [coldfunction/myscripts](https://github.com/coldfunction/myscripts)
+1. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/HelloWorld/issues/7) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+2. ❗️ Opened issue [#6](https://github.com/prathimacode-hub/HelloWorld/issues/6) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+3. ❗️ Opened issue [#5](https://github.com/prathimacode-hub/HelloWorld/issues/5) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+4. ❗️ Opened issue [#4](https://github.com/prathimacode-hub/E-Library/issues/4) in [prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library)
 <!--END_SECTION:activity-->
 </details>
 
