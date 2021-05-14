@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/asktoecho/Hacktoberfest-2020/pull/2) in [asktoecho/Hacktoberfest-2020](https://github.com/asktoecho/Hacktoberfest-2020)
-2. ❗️ Opened issue [#630](https://github.com/JessicaLim8/JessicaLim8/issues/630) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-3. 💪 Opened PR [#6](https://github.com/mtarani/Hacktober-19-Python/pull/6) in [mtarani/Hacktober-19-Python](https://github.com/mtarani/Hacktober-19-Python)
-4. 💪 Opened PR [#1](https://github.com/ayan-biswas0412/opencvstarter/pull/1) in [ayan-biswas0412/opencvstarter](https://github.com/ayan-biswas0412/opencvstarter)
+1. 💪 Opened PR [#665](https://github.com/DPrinceKumar/HacktoberFest2020-1/pull/665) in [DPrinceKumar/HacktoberFest2020-1](https://github.com/DPrinceKumar/HacktoberFest2020-1)
+2. 💪 Opened PR [#4](https://github.com/DevingOnDiscord/hello-world/pull/4) in [DevingOnDiscord/hello-world](https://github.com/DevingOnDiscord/hello-world)
+3. 💪 Opened PR [#1](https://github.com/muzikmyth/python-scripts-bible/pull/1) in [muzikmyth/python-scripts-bible](https://github.com/muzikmyth/python-scripts-bible)
+4. 💪 Opened PR [#1](https://github.com/shubhsonixp/Hacking-tools/pull/1) in [shubhsonixp/Hacking-tools](https://github.com/shubhsonixp/Hacking-tools)
 <!--END_SECTION:activity-->
 </details>
 
