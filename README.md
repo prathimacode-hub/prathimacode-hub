@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/mtarani/Hacktober-19-Python/pull/6) in [mtarani/Hacktober-19-Python](https://github.com/mtarani/Hacktober-19-Python)
-2. 💪 Opened PR [#1](https://github.com/ayan-biswas0412/opencvstarter/pull/1) in [ayan-biswas0412/opencvstarter](https://github.com/ayan-biswas0412/opencvstarter)
-3. 💪 Opened PR [#1](https://github.com/KwameKert/hackerRank/pull/1) in [KwameKert/hackerRank](https://github.com/KwameKert/hackerRank)
-4. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/HelloWorld/issues/7) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+1. ❗️ Opened issue [#630](https://github.com/JessicaLim8/JessicaLim8/issues/630) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+2. 💪 Opened PR [#6](https://github.com/mtarani/Hacktober-19-Python/pull/6) in [mtarani/Hacktober-19-Python](https://github.com/mtarani/Hacktober-19-Python)
+3. 💪 Opened PR [#1](https://github.com/ayan-biswas0412/opencvstarter/pull/1) in [ayan-biswas0412/opencvstarter](https://github.com/ayan-biswas0412/opencvstarter)
+4. 💪 Opened PR [#1](https://github.com/KwameKert/hackerRank/pull/1) in [KwameKert/hackerRank](https://github.com/KwameKert/hackerRank)
 <!--END_SECTION:activity-->
 </details>
 
