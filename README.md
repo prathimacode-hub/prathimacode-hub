@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Chauhan98ashish/Hacktoberfest_2020/pull/2) in [Chauhan98ashish/Hacktoberfest_2020](https://github.com/Chauhan98ashish/Hacktoberfest_2020)
-2. 💪 Opened PR [#1](https://github.com/hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack/pull/1) in [hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack](https://github.com/hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack)
-3. 💪 Opened PR [#1](https://github.com/AmarTrivedi5/Mini-Python-Projects/pull/1) in [AmarTrivedi5/Mini-Python-Projects](https://github.com/AmarTrivedi5/Mini-Python-Projects)
-4. 💪 Opened PR [#8](https://github.com/Curiocodes/PythonExercises/pull/8) in [Curiocodes/PythonExercises](https://github.com/Curiocodes/PythonExercises)
+1. 🗣 Commented on [#352](https://github.com/ashishsahu1/ML-ProjectYard/issues/352) in [ashishsahu1/ML-ProjectYard](https://github.com/ashishsahu1/ML-ProjectYard)
+2. 🗣 Commented on [#352](https://github.com/ashishsahu1/ML-ProjectYard/issues/352) in [ashishsahu1/ML-ProjectYard](https://github.com/ashishsahu1/ML-ProjectYard)
+3. 💪 Opened PR [#2](https://github.com/Chauhan98ashish/Hacktoberfest_2020/pull/2) in [Chauhan98ashish/Hacktoberfest_2020](https://github.com/Chauhan98ashish/Hacktoberfest_2020)
+4. 💪 Opened PR [#1](https://github.com/hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack/pull/1) in [hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack](https://github.com/hotheadhacker/Python3-Basic-Fundamentals-Starter-Pack)
 <!--END_SECTION:activity-->
 </details>
 
