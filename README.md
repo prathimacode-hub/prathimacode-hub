@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/harrypotter0/algorithms-in-python/pull/7) in [harrypotter0/algorithms-in-python](https://github.com/harrypotter0/algorithms-in-python)
-2. 💪 Opened PR [#1](https://github.com/shivendrasoni/algo_practice/pull/1) in [shivendrasoni/algo_practice](https://github.com/shivendrasoni/algo_practice)
-3. 💪 Opened PR [#1](https://github.com/Steph-crown/algorithm-challenges/pull/1) in [Steph-crown/algorithm-challenges](https://github.com/Steph-crown/algorithm-challenges)
-4. 🗣 Commented on [#352](https://github.com/ashishsahu1/ML-ProjectYard/issues/352) in [ashishsahu1/ML-ProjectYard](https://github.com/ashishsahu1/ML-ProjectYard)
+1. 🗣 Commented on [#1](https://github.com/Steph-crown/algorithm-challenges/issues/1) in [Steph-crown/algorithm-challenges](https://github.com/Steph-crown/algorithm-challenges)
+2. 💪 Opened PR [#7](https://github.com/harrypotter0/algorithms-in-python/pull/7) in [harrypotter0/algorithms-in-python](https://github.com/harrypotter0/algorithms-in-python)
+3. 💪 Opened PR [#1](https://github.com/shivendrasoni/algo_practice/pull/1) in [shivendrasoni/algo_practice](https://github.com/shivendrasoni/algo_practice)
+4. 💪 Opened PR [#1](https://github.com/Steph-crown/algorithm-challenges/pull/1) in [Steph-crown/algorithm-challenges](https://github.com/Steph-crown/algorithm-challenges)
 <!--END_SECTION:activity-->
 </details>
 
