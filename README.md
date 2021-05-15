@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Sajid576/Data-Structure-Algorithms-in-Python/issues/11) in [Sajid576/Data-Structure-Algorithms-in-Python](https://github.com/Sajid576/Data-Structure-Algorithms-in-Python)
-2. 💪 Opened PR [#2](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice/pull/2) in [vivekkhimani/DataStructuresAndAlgorithmsPractice](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice)
-3. 💪 Opened PR [#779](https://github.com/keon/algorithms/pull/779) in [keon/algorithms](https://github.com/keon/algorithms)
-4. 💪 Opened PR [#21](https://github.com/gwtw/py-sorting/pull/21) in [gwtw/py-sorting](https://github.com/gwtw/py-sorting)
+1. 💪 Opened PR [#7](https://github.com/Ash515/PythonScripts/pull/7) in [Ash515/PythonScripts](https://github.com/Ash515/PythonScripts)
+2. 🗣 Commented on [#11](https://github.com/Sajid576/Data-Structure-Algorithms-in-Python/issues/11) in [Sajid576/Data-Structure-Algorithms-in-Python](https://github.com/Sajid576/Data-Structure-Algorithms-in-Python)
+3. 💪 Opened PR [#2](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice/pull/2) in [vivekkhimani/DataStructuresAndAlgorithmsPractice](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice)
+4. 💪 Opened PR [#779](https://github.com/keon/algorithms/pull/779) in [keon/algorithms](https://github.com/keon/algorithms)
 <!--END_SECTION:activity-->
 </details>
 
