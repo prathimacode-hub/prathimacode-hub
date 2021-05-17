@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kratika2303/Hackerrank-Data-Structure/pull/2) in [kratika2303/Hackerrank-Data-Structure](https://github.com/kratika2303/Hackerrank-Data-Structure)
-2. 💪 Opened PR [#3](https://github.com/coderrohanpahwa/hacker_rank_solutions/pull/3) in [coderrohanpahwa/hacker_rank_solutions](https://github.com/coderrohanpahwa/hacker_rank_solutions)
-3. ❗️ Closed issue [#49](https://github.com/Bash-Woman-Community/Support/issues/49) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
-4. 💪 Opened PR [#181](https://github.com/github-craftwork/start-here/pull/181) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+1. 💪 Opened PR [#72](https://github.com/OmkarPathak/Python-Programs/pull/72) in [OmkarPathak/Python-Programs](https://github.com/OmkarPathak/Python-Programs)
+2. 💪 Opened PR [#2](https://github.com/jeetendrabhattad/Python/pull/2) in [jeetendrabhattad/Python](https://github.com/jeetendrabhattad/Python)
+3. 💪 Opened PR [#45](https://github.com/Aayush-hub/Basic-Python-programs/pull/45) in [Aayush-hub/Basic-Python-programs](https://github.com/Aayush-hub/Basic-Python-programs)
+4. 💪 Opened PR [#2](https://github.com/kratika2303/Hackerrank-Data-Structure/pull/2) in [kratika2303/Hackerrank-Data-Structure](https://github.com/kratika2303/Hackerrank-Data-Structure)
 <!--END_SECTION:activity-->
 </details>
 
