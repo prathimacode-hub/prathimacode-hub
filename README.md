@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com/github-craftwork/start-here/pull/181) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-3. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#22](https://github.com/cmulay/python-aio/issues/22) in [cmulay/python-aio](https://github.com/cmulay/python-aio)
+1. 💪 Opened PR [#2](https://github.com/kratika2303/Hackerrank-Data-Structure/pull/2) in [kratika2303/Hackerrank-Data-Structure](https://github.com/kratika2303/Hackerrank-Data-Structure)
+2. 💪 Opened PR [#3](https://github.com/coderrohanpahwa/hacker_rank_solutions/pull/3) in [coderrohanpahwa/hacker_rank_solutions](https://github.com/coderrohanpahwa/hacker_rank_solutions)
+3. ❗️ Closed issue [#49](https://github.com/Bash-Woman-Community/Support/issues/49) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
+4. 💪 Opened PR [#181](https://github.com/github-craftwork/start-here/pull/181) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
 <!--END_SECTION:activity-->
 </details>
 
