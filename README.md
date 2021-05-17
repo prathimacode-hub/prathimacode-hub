@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/cmulay/python-aio/issues/22) in [cmulay/python-aio](https://github.com/cmulay/python-aio)
+1. 💪 Opened PR [#181](https://github.com/github-craftwork/start-here/pull/181) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
 2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-3. 💪 Opened PR [#564](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/564) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 🗣 Commented on [#2](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice/issues/2) in [vivekkhimani/DataStructuresAndAlgorithmsPractice](https://github.com/vivekkhimani/DataStructuresAndAlgorithmsPractice)
+3. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#22](https://github.com/cmulay/python-aio/issues/22) in [cmulay/python-aio](https://github.com/cmulay/python-aio)
 <!--END_SECTION:activity-->
 </details>
 
