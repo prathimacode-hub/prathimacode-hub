@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/iamirulofficial/Random-Python-Programs/pull/7) in [iamirulofficial/Random-Python-Programs](https://github.com/iamirulofficial/Random-Python-Programs)
-2. 💪 Opened PR [#29](https://github.com/V-V-K/Python-Programs/pull/29) in [V-V-K/Python-Programs](https://github.com/V-V-K/Python-Programs)
-3. 💪 Opened PR [#15](https://github.com/akashsolanke/Intresting-Programs-in-Python/pull/15) in [akashsolanke/Intresting-Programs-in-Python](https://github.com/akashsolanke/Intresting-Programs-in-Python)
-4. 💪 Opened PR [#24](https://github.com/Brijesh-Pandey/Python-Programs-For-Noobs/pull/24) in [Brijesh-Pandey/Python-Programs-For-Noobs](https://github.com/Brijesh-Pandey/Python-Programs-For-Noobs)
+1. 💪 Opened PR [#6](https://github.com/jatinmandav/Gaming-in-Python/pull/6) in [jatinmandav/Gaming-in-Python](https://github.com/jatinmandav/Gaming-in-Python)
+2. 💪 Opened PR [#6](https://github.com/bharath-acchu/python/pull/6) in [bharath-acchu/python](https://github.com/bharath-acchu/python)
+3. 💪 Opened PR [#27](https://github.com/Clique-Mits/Python-Programs/pull/27) in [Clique-Mits/Python-Programs](https://github.com/Clique-Mits/Python-Programs)
+4. 💪 Opened PR [#20](https://github.com/akljohny/python_programs/pull/20) in [akljohny/python_programs](https://github.com/akljohny/python_programs)
 <!--END_SECTION:activity-->
 </details>
 
