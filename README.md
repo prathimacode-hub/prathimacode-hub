@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Daudie87/Beginner-Projects/pull/2) in [Daudie87/Beginner-Projects](https://github.com/Daudie87/Beginner-Projects)
-2. 💪 Opened PR [#12](https://github.com/anumsh/Python-Programs/pull/12) in [anumsh/Python-Programs](https://github.com/anumsh/Python-Programs)
-3. 💪 Opened PR [#1](https://github.com/akshar-raaj/Python-Programs/pull/1) in [akshar-raaj/Python-Programs](https://github.com/akshar-raaj/Python-Programs)
-4. 💪 Opened PR [#171](https://github.com/Graey/pythoncharmers/pull/171) in [Graey/pythoncharmers](https://github.com/Graey/pythoncharmers)
+1. 💪 Opened PR [#76](https://github.com/pranav2012/Python-fest2020/pull/76) in [pranav2012/Python-fest2020](https://github.com/pranav2012/Python-fest2020)
+2. 💪 Opened PR [#2](https://github.com/Daudie87/Beginner-Projects/pull/2) in [Daudie87/Beginner-Projects](https://github.com/Daudie87/Beginner-Projects)
+3. 💪 Opened PR [#12](https://github.com/anumsh/Python-Programs/pull/12) in [anumsh/Python-Programs](https://github.com/anumsh/Python-Programs)
+4. 💪 Opened PR [#1](https://github.com/akshar-raaj/Python-Programs/pull/1) in [akshar-raaj/Python-Programs](https://github.com/akshar-raaj/Python-Programs)
 <!--END_SECTION:activity-->
 </details>
 
