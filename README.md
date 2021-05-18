@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 💪 Opened PR [#20](https://github.com/spiderxm/python-programs/pull/20) in [spiderxm/python-programs](https://github.com/spiderxm/python-programs)
-3. 💪 Opened PR [#89](https://github.com/manish-virgat/Hacktoberfest-Python/pull/89) in [manish-virgat/Hacktoberfest-Python](https://github.com/manish-virgat/Hacktoberfest-Python)
-4. 💪 Opened PR [#27](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms/pull/27) in [melvyniandrag/Fall2020_CoolPythonPrograms](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms)
+1. 💪 Opened PR [#7](https://github.com/iamirulofficial/Random-Python-Programs/pull/7) in [iamirulofficial/Random-Python-Programs](https://github.com/iamirulofficial/Random-Python-Programs)
+2. 💪 Opened PR [#29](https://github.com/V-V-K/Python-Programs/pull/29) in [V-V-K/Python-Programs](https://github.com/V-V-K/Python-Programs)
+3. 💪 Opened PR [#15](https://github.com/akashsolanke/Intresting-Programs-in-Python/pull/15) in [akashsolanke/Intresting-Programs-in-Python](https://github.com/akashsolanke/Intresting-Programs-in-Python)
+4. 💪 Opened PR [#24](https://github.com/Brijesh-Pandey/Python-Programs-For-Noobs/pull/24) in [Brijesh-Pandey/Python-Programs-For-Noobs](https://github.com/Brijesh-Pandey/Python-Programs-For-Noobs)
 <!--END_SECTION:activity-->
 </details>
 
