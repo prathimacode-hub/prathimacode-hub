@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/jatinmandav/Gaming-in-Python/pull/6) in [jatinmandav/Gaming-in-Python](https://github.com/jatinmandav/Gaming-in-Python)
-2. 💪 Opened PR [#6](https://github.com/bharath-acchu/python/pull/6) in [bharath-acchu/python](https://github.com/bharath-acchu/python)
-3. 💪 Opened PR [#27](https://github.com/Clique-Mits/Python-Programs/pull/27) in [Clique-Mits/Python-Programs](https://github.com/Clique-Mits/Python-Programs)
-4. 💪 Opened PR [#20](https://github.com/akljohny/python_programs/pull/20) in [akljohny/python_programs](https://github.com/akljohny/python_programs)
+1. 💪 Opened PR [#23](https://github.com/bistaastha/python-programs/pull/23) in [bistaastha/python-programs](https://github.com/bistaastha/python-programs)
+2. 💪 Opened PR [#3](https://github.com/KartikKannapur/Python-Programs/pull/3) in [KartikKannapur/Python-Programs](https://github.com/KartikKannapur/Python-Programs)
+3. 💪 Opened PR [#36](https://github.com/accakks/Simple-Programs-in-Python/pull/36) in [accakks/Simple-Programs-in-Python](https://github.com/accakks/Simple-Programs-in-Python)
+4. 💪 Opened PR [#22](https://github.com/swapnanildutta/Python-programs/pull/22) in [swapnanildutta/Python-programs](https://github.com/swapnanildutta/Python-programs)
 <!--END_SECTION:activity-->
 </details>
 
