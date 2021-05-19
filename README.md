@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/cr7holmes/python_basic_programs/pull/19) in [cr7holmes/python_basic_programs](https://github.com/cr7holmes/python_basic_programs)
-2. 💪 Opened PR [#1](https://github.com/codezila-org/Python-Programs/pull/1) in [codezila-org/Python-Programs](https://github.com/codezila-org/Python-Programs)
-3. 💪 Opened PR [#12](https://github.com/TechnicalGeeks20/PyThonPrograms/pull/12) in [TechnicalGeeks20/PyThonPrograms](https://github.com/TechnicalGeeks20/PyThonPrograms)
-4. 💪 Opened PR [#7](https://github.com/SiriP05/SimplePrograms/pull/7) in [SiriP05/SimplePrograms](https://github.com/SiriP05/SimplePrograms)
+1. 🗣 Commented on [#1](https://github.com/codezila-org/Python-Programs/issues/1) in [codezila-org/Python-Programs](https://github.com/codezila-org/Python-Programs)
+2. 💪 Opened PR [#19](https://github.com/cr7holmes/python_basic_programs/pull/19) in [cr7holmes/python_basic_programs](https://github.com/cr7holmes/python_basic_programs)
+3. 💪 Opened PR [#1](https://github.com/codezila-org/Python-Programs/pull/1) in [codezila-org/Python-Programs](https://github.com/codezila-org/Python-Programs)
+4. 💪 Opened PR [#12](https://github.com/TechnicalGeeks20/PyThonPrograms/pull/12) in [TechnicalGeeks20/PyThonPrograms](https://github.com/TechnicalGeeks20/PyThonPrograms)
 <!--END_SECTION:activity-->
 </details>
 
