@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/DeepNinja07x/Python_Scripts/pull/38) in [DeepNinja07x/Python_Scripts](https://github.com/DeepNinja07x/Python_Scripts)
-2. 💪 Opened PR [#58](https://github.com/sumedha3111/Python-for-Beginners/pull/58) in [sumedha3111/Python-for-Beginners](https://github.com/sumedha3111/Python-for-Beginners)
-3. 💪 Opened PR [#5](https://github.com/avinashn/programminginpython.com/pull/5) in [avinashn/programminginpython.com](https://github.com/avinashn/programminginpython.com)
-4. 💪 Opened PR [#1](https://github.com/Maheshwari2604/python_programs/pull/1) in [Maheshwari2604/python_programs](https://github.com/Maheshwari2604/python_programs)
+1. 💪 Opened PR [#19](https://github.com/cr7holmes/python_basic_programs/pull/19) in [cr7holmes/python_basic_programs](https://github.com/cr7holmes/python_basic_programs)
+2. 💪 Opened PR [#1](https://github.com/codezila-org/Python-Programs/pull/1) in [codezila-org/Python-Programs](https://github.com/codezila-org/Python-Programs)
+3. 💪 Opened PR [#12](https://github.com/TechnicalGeeks20/PyThonPrograms/pull/12) in [TechnicalGeeks20/PyThonPrograms](https://github.com/TechnicalGeeks20/PyThonPrograms)
+4. 💪 Opened PR [#7](https://github.com/SiriP05/SimplePrograms/pull/7) in [SiriP05/SimplePrograms](https://github.com/SiriP05/SimplePrograms)
 <!--END_SECTION:activity-->
 </details>
 
