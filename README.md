@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/abhikmp/SomeRandomPyPrograms/pull/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
-2. 💪 Opened PR [#5](https://github.com/whyadiwhy/python-programs/pull/5) in [whyadiwhy/python-programs](https://github.com/whyadiwhy/python-programs)
-3. 💪 Opened PR [#18](https://github.com/aravindvnair99/Python/pull/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
-4. 💪 Opened PR [#1](https://github.com/Litreily/Python-scripts/pull/1) in [Litreily/Python-scripts](https://github.com/Litreily/Python-scripts)
+1. 🗣 Commented on [#5](https://github.com/whyadiwhy/python-programs/issues/5) in [whyadiwhy/python-programs](https://github.com/whyadiwhy/python-programs)
+2. 🗣 Commented on [#12](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/12) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 💪 Opened PR [#16](https://github.com/abhikmp/SomeRandomPyPrograms/pull/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
+4. 💪 Opened PR [#5](https://github.com/whyadiwhy/python-programs/pull/5) in [whyadiwhy/python-programs](https://github.com/whyadiwhy/python-programs)
 <!--END_SECTION:activity-->
 </details>
 
