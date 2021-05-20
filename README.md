@@ -72,10 +72,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/aravindvnair99/Python/pull/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
-2. 💪 Opened PR [#1](https://github.com/Litreily/Python-scripts/pull/1) in [Litreily/Python-scripts](https://github.com/Litreily/Python-scripts)
-3. 💪 Opened PR [#7](https://github.com/hacktogit1/Python-Programs/pull/7) in [hacktogit1/Python-Programs](https://github.com/hacktogit1/Python-Programs)
-4. 💪 Opened PR [#4](https://github.com/Rohitmadgundi/python_programs/pull/4) in [Rohitmadgundi/python_programs](https://github.com/Rohitmadgundi/python_programs)
+1. 💪 Opened PR [#16](https://github.com/abhikmp/SomeRandomPyPrograms/pull/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
+2. 💪 Opened PR [#5](https://github.com/whyadiwhy/python-programs/pull/5) in [whyadiwhy/python-programs](https://github.com/whyadiwhy/python-programs)
+3. 💪 Opened PR [#18](https://github.com/aravindvnair99/Python/pull/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
+4. 💪 Opened PR [#1](https://github.com/Litreily/Python-scripts/pull/1) in [Litreily/Python-scripts](https://github.com/Litreily/Python-scripts)
 <!--END_SECTION:activity-->
 </details>
 
