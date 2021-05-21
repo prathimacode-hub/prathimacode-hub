@@ -54,7 +54,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Git.png" alt="Git" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Github.png" alt="GitHub" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Azure.png" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Aws.png" alt="AWS" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/AWS.png" alt="AWS" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Firebase.png" alt="Firebase" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Heroku.png" alt="Heroku" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
