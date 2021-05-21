@@ -13,7 +13,7 @@ or use it. It helps me a lot.
 
 <p align="center">Passionate for learning and exploring new technology💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
 
-<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in levaraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
+<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
 
 <p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
 
