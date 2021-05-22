@@ -80,10 +80,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/17) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🎉 Merged PR [#17](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/17) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 💪 Opened PR [#2](https://github.com/RakhshandaMujib/Simple-Python-Programs-on-numbers/pull/2) in [RakhshandaMujib/Simple-Python-Programs-on-numbers](https://github.com/RakhshandaMujib/Simple-Python-Programs-on-numbers)
+2. 💪 Opened PR [#2](https://github.com/raghulrage/Python-programs/pull/2) in [raghulrage/Python-programs](https://github.com/raghulrage/Python-programs)
 3. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/17) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/17) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🎉 Merged PR [#17](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/17) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
