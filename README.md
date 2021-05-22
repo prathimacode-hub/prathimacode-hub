@@ -80,10 +80,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/chandran-jr/Python-library-explore/pull/3) in [chandran-jr/Python-library-explore](https://github.com/chandran-jr/Python-library-explore)
-2. 💪 Opened PR [#4](https://github.com/P-H-Pancholi/Python_practice_programs/pull/4) in [P-H-Pancholi/Python_practice_programs](https://github.com/P-H-Pancholi/Python_practice_programs)
-3. 💪 Opened PR [#3](https://github.com/sowbhakya/python-programming/pull/3) in [sowbhakya/python-programming](https://github.com/sowbhakya/python-programming)
-4. 💪 Opened PR [#2](https://github.com/RakhshandaMujib/Simple-Python-Programs-on-numbers/pull/2) in [RakhshandaMujib/Simple-Python-Programs-on-numbers](https://github.com/RakhshandaMujib/Simple-Python-Programs-on-numbers)
+1. 🗣 Commented on [#352](https://github.com/ashishsahu1/ML-ProjectYard/issues/352) in [ashishsahu1/ML-ProjectYard](https://github.com/ashishsahu1/ML-ProjectYard)
+2. 💪 Opened PR [#3](https://github.com/chandran-jr/Python-library-explore/pull/3) in [chandran-jr/Python-library-explore](https://github.com/chandran-jr/Python-library-explore)
+3. 💪 Opened PR [#4](https://github.com/P-H-Pancholi/Python_practice_programs/pull/4) in [P-H-Pancholi/Python_practice_programs](https://github.com/P-H-Pancholi/Python_practice_programs)
+4. 💪 Opened PR [#3](https://github.com/sowbhakya/python-programming/pull/3) in [sowbhakya/python-programming](https://github.com/sowbhakya/python-programming)
 <!--END_SECTION:activity-->
 </details>
 
