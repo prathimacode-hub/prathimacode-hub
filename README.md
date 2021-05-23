@@ -43,6 +43,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/KeilUVision.png" alt="KeilUVision" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/MPLab.jpg" alt="MPLab" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/DocklightScripting.png" alt="Docklight Scripting" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/IoT.jpg" alt="IoT" width="40" height="40"/>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Matlab.png" alt="Matlab" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Arduino.png" alt="Arduino" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Raspberry.png" alt="Raspberry Pi" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
