@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#561](https://github.com/OpenGenus/Join_OpenGenus/pull/561) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
-2. ❗️ Opened issue [#560](https://github.com/OpenGenus/Join_OpenGenus/issues/560) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
-3. 🗣 Commented on [#3](https://github.com/chandran-jr/Python-library-explore/issues/3) in [chandran-jr/Python-library-explore](https://github.com/chandran-jr/Python-library-explore)
-4. 🗣 Commented on [#352](https://github.com/ashishsahu1/ML-ProjectYard/issues/352) in [ashishsahu1/ML-ProjectYard](https://github.com/ashishsahu1/ML-ProjectYard)
+1. 💪 Opened PR [#25](https://github.com/Mystery-2-Dev/Python_Programming/pull/25) in [Mystery-2-Dev/Python_Programming](https://github.com/Mystery-2-Dev/Python_Programming)
+2. 💪 Opened PR [#1](https://github.com/Tuhin-thinks/Python-Codes/pull/1) in [Tuhin-thinks/Python-Codes](https://github.com/Tuhin-thinks/Python-Codes)
+3. 💪 Opened PR [#1](https://github.com/sachinl0har/Python-Programs/pull/1) in [sachinl0har/Python-Programs](https://github.com/sachinl0har/Python-Programs)
+4. 💪 Opened PR [#1](https://github.com/RonakNandanwar26/Python_Programs/pull/1) in [RonakNandanwar26/Python_Programs](https://github.com/RonakNandanwar26/Python_Programs)
 <!--END_SECTION:activity-->
 </details>
 
