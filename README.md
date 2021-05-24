@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/slowy07/pythonApps/pull/7) in [slowy07/pythonApps](https://github.com/slowy07/pythonApps)
-2. 💪 Opened PR [#130](https://github.com/AllAlgorithms/python/pull/130) in [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
-3. 💪 Opened PR [#7](https://github.com/tushargoyal02/pythonDsa/pull/7) in [tushargoyal02/pythonDsa](https://github.com/tushargoyal02/pythonDsa)
-4. 💪 Opened PR [#1](https://github.com/Rohitm619/Python-Beginners/pull/1) in [Rohitm619/Python-Beginners](https://github.com/Rohitm619/Python-Beginners)
+1. 💪 Opened PR [#14](https://github.com/ranajoy-dutta/Competitive-Programmming/pull/14) in [ranajoy-dutta/Competitive-Programmming](https://github.com/ranajoy-dutta/Competitive-Programmming)
+2. 💪 Opened PR [#7](https://github.com/slowy07/pythonApps/pull/7) in [slowy07/pythonApps](https://github.com/slowy07/pythonApps)
+3. 💪 Opened PR [#130](https://github.com/AllAlgorithms/python/pull/130) in [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
+4. 💪 Opened PR [#7](https://github.com/tushargoyal02/pythonDsa/pull/7) in [tushargoyal02/pythonDsa](https://github.com/tushargoyal02/pythonDsa)
 <!--END_SECTION:activity-->
 </details>
 
