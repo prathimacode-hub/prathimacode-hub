@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/18) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 💪 Opened PR [#38](https://github.com/hasanmdarif/Python_Programs/pull/38) in [hasanmdarif/Python_Programs](https://github.com/hasanmdarif/Python_Programs)
-3. 💪 Opened PR [#25](https://github.com/Mystery-2-Dev/Python_Programming/pull/25) in [Mystery-2-Dev/Python_Programming](https://github.com/Mystery-2-Dev/Python_Programming)
-4. 💪 Opened PR [#1](https://github.com/Tuhin-thinks/Python-Codes/pull/1) in [Tuhin-thinks/Python-Codes](https://github.com/Tuhin-thinks/Python-Codes)
+1. 💪 Opened PR [#9](https://github.com/aswnss-m/python_projects/pull/9) in [aswnss-m/python_projects](https://github.com/aswnss-m/python_projects)
+2. 💪 Opened PR [#16](https://github.com/yashagrawal300/python-programs/pull/16) in [yashagrawal300/python-programs](https://github.com/yashagrawal300/python-programs)
+3. 💪 Opened PR [#1](https://github.com/anubhavshrimal/CompetitiveProgrammingInPython/pull/1) in [anubhavshrimal/CompetitiveProgrammingInPython](https://github.com/anubhavshrimal/CompetitiveProgrammingInPython)
+4. 🗣 Commented on [#18](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/18) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
