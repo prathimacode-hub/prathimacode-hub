@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BhushanDhamankar/Python/pull/1) in [BhushanDhamankar/Python](https://github.com/BhushanDhamankar/Python)
-2. 💪 Opened PR [#35](https://github.com/Easyvipin/Practice-Python/pull/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
-3. 💪 Opened PR [#14](https://github.com/ranajoy-dutta/Competitive-Programmming/pull/14) in [ranajoy-dutta/Competitive-Programmming](https://github.com/ranajoy-dutta/Competitive-Programmming)
-4. 💪 Opened PR [#7](https://github.com/slowy07/pythonApps/pull/7) in [slowy07/pythonApps](https://github.com/slowy07/pythonApps)
+1. 💪 Opened PR [#447](https://github.com/wzhouwzhou/one-line-wonders/pull/447) in [wzhouwzhou/one-line-wonders](https://github.com/wzhouwzhou/one-line-wonders)
+2. 💪 Opened PR [#122](https://github.com/girishtulabandu/One_line_PythonPrograms/pull/122) in [girishtulabandu/One_line_PythonPrograms](https://github.com/girishtulabandu/One_line_PythonPrograms)
+3. 💪 Opened PR [#5](https://github.com/m1cr0man/OneLineWonders/pull/5) in [m1cr0man/OneLineWonders](https://github.com/m1cr0man/OneLineWonders)
+4. 💪 Opened PR [#9](https://github.com/rahulhgdev/Python-Tutorial/pull/9) in [rahulhgdev/Python-Tutorial](https://github.com/rahulhgdev/Python-Tutorial)
 <!--END_SECTION:activity-->
 </details>
 
