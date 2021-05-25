@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#447](https://github.com/wzhouwzhou/one-line-wonders/pull/447) in [wzhouwzhou/one-line-wonders](https://github.com/wzhouwzhou/one-line-wonders)
-2. 💪 Opened PR [#122](https://github.com/girishtulabandu/One_line_PythonPrograms/pull/122) in [girishtulabandu/One_line_PythonPrograms](https://github.com/girishtulabandu/One_line_PythonPrograms)
-3. 💪 Opened PR [#5](https://github.com/m1cr0man/OneLineWonders/pull/5) in [m1cr0man/OneLineWonders](https://github.com/m1cr0man/OneLineWonders)
-4. 💪 Opened PR [#9](https://github.com/rahulhgdev/Python-Tutorial/pull/9) in [rahulhgdev/Python-Tutorial](https://github.com/rahulhgdev/Python-Tutorial)
+1. 💪 Opened PR [#1](https://github.com/vaibhavbuccha/python-programing/pull/1) in [vaibhavbuccha/python-programing](https://github.com/vaibhavbuccha/python-programing)
+2. 💪 Opened PR [#7](https://github.com/Anuhyapeddi/basic-python-programs-/pull/7) in [Anuhyapeddi/basic-python-programs-](https://github.com/Anuhyapeddi/basic-python-programs-)
+3. 💪 Opened PR [#1](https://github.com/CMPundhir/PythonPrograms/pull/1) in [CMPundhir/PythonPrograms](https://github.com/CMPundhir/PythonPrograms)
+4. 💪 Opened PR [#5](https://github.com/AishwaryaNair687/programs-in-python/pull/5) in [AishwaryaNair687/programs-in-python](https://github.com/AishwaryaNair687/programs-in-python)
 <!--END_SECTION:activity-->
 </details>
 
