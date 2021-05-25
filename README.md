@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Easyvipin/Practice-Python/issues/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
-2. 💪 Opened PR [#1](https://github.com/vaibhavbuccha/python-programing/pull/1) in [vaibhavbuccha/python-programing](https://github.com/vaibhavbuccha/python-programing)
-3. 💪 Opened PR [#7](https://github.com/Anuhyapeddi/basic-python-programs-/pull/7) in [Anuhyapeddi/basic-python-programs-](https://github.com/Anuhyapeddi/basic-python-programs-)
-4. 💪 Opened PR [#1](https://github.com/CMPundhir/PythonPrograms/pull/1) in [CMPundhir/PythonPrograms](https://github.com/CMPundhir/PythonPrograms)
+1. 💪 Opened PR [#16](https://github.com/Prajesh-Srivastava/Python-Programs-here-/pull/16) in [Prajesh-Srivastava/Python-Programs-here-](https://github.com/Prajesh-Srivastava/Python-Programs-here-)
+2. 🗣 Commented on [#35](https://github.com/Easyvipin/Practice-Python/issues/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
+3. 💪 Opened PR [#1](https://github.com/vaibhavbuccha/python-programing/pull/1) in [vaibhavbuccha/python-programing](https://github.com/vaibhavbuccha/python-programing)
+4. 💪 Opened PR [#7](https://github.com/Anuhyapeddi/basic-python-programs-/pull/7) in [Anuhyapeddi/basic-python-programs-](https://github.com/Anuhyapeddi/basic-python-programs-)
 <!--END_SECTION:activity-->
 </details>
 
