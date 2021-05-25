@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Easyvipin/Practice-Python/pull/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
-2. 💪 Opened PR [#14](https://github.com/ranajoy-dutta/Competitive-Programmming/pull/14) in [ranajoy-dutta/Competitive-Programmming](https://github.com/ranajoy-dutta/Competitive-Programmming)
-3. 💪 Opened PR [#7](https://github.com/slowy07/pythonApps/pull/7) in [slowy07/pythonApps](https://github.com/slowy07/pythonApps)
-4. 💪 Opened PR [#130](https://github.com/AllAlgorithms/python/pull/130) in [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
+1. 💪 Opened PR [#1](https://github.com/BhushanDhamankar/Python/pull/1) in [BhushanDhamankar/Python](https://github.com/BhushanDhamankar/Python)
+2. 💪 Opened PR [#35](https://github.com/Easyvipin/Practice-Python/pull/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
+3. 💪 Opened PR [#14](https://github.com/ranajoy-dutta/Competitive-Programmming/pull/14) in [ranajoy-dutta/Competitive-Programmming](https://github.com/ranajoy-dutta/Competitive-Programmming)
+4. 💪 Opened PR [#7](https://github.com/slowy07/pythonApps/pull/7) in [slowy07/pythonApps](https://github.com/slowy07/pythonApps)
 <!--END_SECTION:activity-->
 </details>
 
