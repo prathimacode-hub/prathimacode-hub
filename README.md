@@ -85,8 +85,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/EddieHubCommunity/Hackathons/pull/36) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-2. 💪 Opened PR [#86](https://github.com/subhayu99/PyScripts/pull/86) in [subhayu99/PyScripts](https://github.com/subhayu99/PyScripts)
+1. 💪 Opened PR [#68](https://github.com/srinibasbiswal/Github-Profile-README/pull/68) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
+2. 💪 Opened PR [#67](https://github.com/srinibasbiswal/Github-Profile-README/pull/67) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
 3. 🗣 Commented on [#8](https://github.com/Evavic44/The-Tree-Musketeers/issues/8) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
 4. 🗣 Commented on [#18](https://github.com/aravindvnair99/Python/issues/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
 <!--END_SECTION:activity-->
