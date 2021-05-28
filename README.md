@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/srinibasbiswal/Github-Profile-README/pull/68) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
-2. 💪 Opened PR [#67](https://github.com/srinibasbiswal/Github-Profile-README/pull/67) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
-3. 🗣 Commented on [#8](https://github.com/Evavic44/The-Tree-Musketeers/issues/8) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
-4. 🗣 Commented on [#18](https://github.com/aravindvnair99/Python/issues/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
+1. 🎉 Merged PR [#19](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/19) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Closed issue [#18](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/18) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#18](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/18) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#8](https://github.com/Evavic44/The-Tree-Musketeers/issues/8) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
 <!--END_SECTION:activity-->
 </details>
 
