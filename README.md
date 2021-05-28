@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/aravindvnair99/Python/issues/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
-2. 💪 Opened PR [#16](https://github.com/Prajesh-Srivastava/Python-Programs-here-/pull/16) in [Prajesh-Srivastava/Python-Programs-here-](https://github.com/Prajesh-Srivastava/Python-Programs-here-)
-3. 🗣 Commented on [#35](https://github.com/Easyvipin/Practice-Python/issues/35) in [Easyvipin/Practice-Python](https://github.com/Easyvipin/Practice-Python)
-4. 💪 Opened PR [#1](https://github.com/vaibhavbuccha/python-programing/pull/1) in [vaibhavbuccha/python-programing](https://github.com/vaibhavbuccha/python-programing)
+1. 💪 Opened PR [#86](https://github.com/subhayu99/PyScripts/pull/86) in [subhayu99/PyScripts](https://github.com/subhayu99/PyScripts)
+2. 🗣 Commented on [#8](https://github.com/Evavic44/The-Tree-Musketeers/issues/8) in [Evavic44/The-Tree-Musketeers](https://github.com/Evavic44/The-Tree-Musketeers)
+3. 🗣 Commented on [#18](https://github.com/aravindvnair99/Python/issues/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
+4. 💪 Opened PR [#16](https://github.com/Prajesh-Srivastava/Python-Programs-here-/pull/16) in [Prajesh-Srivastava/Python-Programs-here-](https://github.com/Prajesh-Srivastava/Python-Programs-here-)
 <!--END_SECTION:activity-->
 </details>
 
