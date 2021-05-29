@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-2. 💪 Opened PR [#328](https://github.com/MakeContributions/DSA/pull/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-3. 💪 Opened PR [#97](https://github.com/ProjektOsmium/All-Algorithms/pull/97) in [ProjektOsmium/All-Algorithms](https://github.com/ProjektOsmium/All-Algorithms)
-4. 💪 Opened PR [#41](https://github.com/slurpcode/join-our-team/pull/41) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
+1. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+3. 💪 Opened PR [#328](https://github.com/MakeContributions/DSA/pull/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+4. 💪 Opened PR [#97](https://github.com/ProjektOsmium/All-Algorithms/pull/97) in [ProjektOsmium/All-Algorithms](https://github.com/ProjektOsmium/All-Algorithms)
 <!--END_SECTION:activity-->
 </details>
 
