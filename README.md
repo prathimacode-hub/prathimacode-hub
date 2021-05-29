@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#328](https://github.com/MakeContributions/DSA/pull/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-2. 💪 Opened PR [#97](https://github.com/ProjektOsmium/All-Algorithms/pull/97) in [ProjektOsmium/All-Algorithms](https://github.com/ProjektOsmium/All-Algorithms)
-3. 💪 Opened PR [#41](https://github.com/slurpcode/join-our-team/pull/41) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
-4. ❗️ Opened issue [#40](https://github.com/slurpcode/join-our-team/issues/40) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
+1. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+2. 💪 Opened PR [#328](https://github.com/MakeContributions/DSA/pull/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+3. 💪 Opened PR [#97](https://github.com/ProjektOsmium/All-Algorithms/pull/97) in [ProjektOsmium/All-Algorithms](https://github.com/ProjektOsmium/All-Algorithms)
+4. 💪 Opened PR [#41](https://github.com/slurpcode/join-our-team/pull/41) in [slurpcode/join-our-team](https://github.com/slurpcode/join-our-team)
 <!--END_SECTION:activity-->
 </details>
 
