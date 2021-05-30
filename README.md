@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#528](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo/issues/528) in [Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo)
-2. 💪 Opened PR [#7428](https://github.com/TesseractCoding/NeoAlgo/pull/7428) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-3. 🗣 Commented on [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-4. ❗️ Opened issue [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+1. 🗣 Commented on [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+2. ❗️ Opened issue [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+3. ❗️ Opened issue [#528](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo/issues/528) in [Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo)
+4. 💪 Opened PR [#7428](https://github.com/TesseractCoding/NeoAlgo/pull/7428) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 <!--END_SECTION:activity-->
 </details>
 
