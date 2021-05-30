@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#202](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/202) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-2. 💪 Opened PR [#20](https://github.com/Algo-Phantoms/Welcome/pull/20) in [Algo-Phantoms/Welcome](https://github.com/Algo-Phantoms/Welcome)
-3. 🗣 Commented on [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-4. 💪 Opened PR [#1087](https://github.com/HarshCasper/Rotten-Scripts/pull/1087) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+1. 🗣 Commented on [#202](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/202) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+2. 💪 Opened PR [#1](https://github.com/devendra45/Amazing-Python-Scripts/pull/1) in [devendra45/Amazing-Python-Scripts](https://github.com/devendra45/Amazing-Python-Scripts)
+3. 💪 Opened PR [#2](https://github.com/evanemran/Python_Scripts/pull/2) in [evanemran/Python_Scripts](https://github.com/evanemran/Python_Scripts)
+4. ❗️ Opened issue [#202](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/202) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
 <!--END_SECTION:activity-->
 </details>
 
