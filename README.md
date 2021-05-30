@@ -86,9 +86,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-2. ❗️ Opened issue [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
-3. ❗️ Opened issue [#528](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo/issues/528) in [Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo](https://github.com/Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo)
-4. 💪 Opened PR [#7428](https://github.com/TesseractCoding/NeoAlgo/pull/7428) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+2. 💪 Opened PR [#1087](https://github.com/HarshCasper/Rotten-Scripts/pull/1087) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+3. 🗣 Commented on [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
+4. ❗️ Opened issue [#1086](https://github.com/HarshCasper/Rotten-Scripts/issues/1086) in [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts)
 <!--END_SECTION:activity-->
 </details>
 
