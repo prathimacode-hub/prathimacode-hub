@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-3. 💪 Opened PR [#328](https://github.com/MakeContributions/DSA/pull/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-4. 💪 Opened PR [#97](https://github.com/ProjektOsmium/All-Algorithms/pull/97) in [ProjektOsmium/All-Algorithms](https://github.com/ProjektOsmium/All-Algorithms)
+1. ❗️ Opened issue [#2055](https://github.com/Algo-Phantoms/Algo-Tree/issues/2055) in [Algo-Phantoms/Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
+2. 🎉 Merged PR [#24](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/24) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
 <!--END_SECTION:activity-->
 </details>
 
