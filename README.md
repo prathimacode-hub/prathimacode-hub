@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-2. ❗️ Opened issue [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-3. 🗣 Commented on [#16](https://github.com/abhikmp/SomeRandomPyPrograms/issues/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
-4. ❗️ Opened issue [#2055](https://github.com/Algo-Phantoms/Algo-Tree/issues/2055) in [Algo-Phantoms/Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
+1. 💪 Opened PR [#7428](https://github.com/TesseractCoding/NeoAlgo/pull/7428) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+2. 🗣 Commented on [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+3. ❗️ Opened issue [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+4. 🗣 Commented on [#16](https://github.com/abhikmp/SomeRandomPyPrograms/issues/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
 <!--END_SECTION:activity-->
 </details>
 
