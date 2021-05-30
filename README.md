@@ -85,10 +85,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2055](https://github.com/Algo-Phantoms/Algo-Tree/issues/2055) in [Algo-Phantoms/Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
-2. 🎉 Merged PR [#24](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/24) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#328](https://github.com/MakeContributions/DSA/issues/328) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+1. 🗣 Commented on [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+2. ❗️ Opened issue [#7425](https://github.com/TesseractCoding/NeoAlgo/issues/7425) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
+3. 🗣 Commented on [#16](https://github.com/abhikmp/SomeRandomPyPrograms/issues/16) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
+4. ❗️ Opened issue [#2055](https://github.com/Algo-Phantoms/Algo-Tree/issues/2055) in [Algo-Phantoms/Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
