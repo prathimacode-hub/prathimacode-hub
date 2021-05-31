@@ -86,9 +86,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#202](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/202) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
-4. 🗣 Commented on [#202](https://github.com/Algo-Phantoms/Algo-ScriptML/issues/202) in [Algo-Phantoms/Algo-ScriptML](https://github.com/Algo-Phantoms/Algo-ScriptML)
+2. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/ML-ProjectKart/pull/1) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 💪 Opened PR [#1](https://github.com/prathimacode-hub/ML-ProjectKart/pull/1) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
