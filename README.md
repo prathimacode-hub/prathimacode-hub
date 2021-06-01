@@ -9,6 +9,7 @@ or use it. It helps me a lot.
 
 <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
  
+ 
 <p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Pythonista at <a href="https://www.hackerrank.com/">Hacker Rank</a>🤳, IoT & Artificial Intelligence Enthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Mentor at <a href="https://www.tohacks.ca/">TO Hacks</a> and <a href="https://hackmakers.com/">Hackmakers</a>, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a> & <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>🚀, Global Ambassador, Virtual Experience Coordinator, Session Monitor & Facilitator at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Ambassador at <a href="https://hackthemountain.tech/">Hack The Mountains</a> & <a href="https://www.internationalmun.org/">International MUN</a>🍁, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>🙌, Freelancer👯</a></p>
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
@@ -20,6 +21,7 @@ or use it. It helps me a lot.
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+ 
 **Digital Garden🌱**<br>
 
 <img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif' width='300"'>
@@ -34,6 +36,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
 
+ 
 **Tech Toolbox🧰**<br>
 
 <p align="left">
@@ -73,15 +76,15 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 |-------------|-------------------|---|---|---|---|
 | [**Awesome_Python_Scripts**](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/Awesome_Python_Scripts?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls?q=is%3Apr+is%3Aclosed) |
 | [**ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=flat&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/ML-ProjectKart?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+is%3Aclosed) |
-| [**E-Library**](https://github.com/prathimacode-hub/E-Library) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/E-Library?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/E-Library/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/E-Library?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/E-Library/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/E-Library?style=flat-square)](https://github.com/prathimacode-hub/E-Library/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/E-Library?style=flat&logo=github)](https://github.com/prathimacode-hub/E-Library/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/E-Library?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/E-Library/pulls?q=is%3Apr+is%3Aclosed) |
-| [**HelloWorld**](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/HelloWorld?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls?q=is%3Apr+is%3Aclosed) |
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
+
 **GitHub Stats🎯**<br>
 
 <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
 
 <details><summary>Recent Activity</summary>
 
@@ -93,20 +96,24 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <!--END_SECTION:activity-->
 </details>
 
+
 <details><summary>Contribution Graph</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
 </details>
+
 
 <details><summary>Trophies</summary>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
