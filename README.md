@@ -7,16 +7,18 @@ or use it. It helps me a lot.
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 
-<a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; 
  
  
-<p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Pythonista at <a href="https://www.hackerrank.com/">Hacker Rank</a>🤳, IoT & Artificial Intelligence Enthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Mentor at <a href="https://www.tohacks.ca/">TO Hacks</a> and <a href="https://hackmakers.com/">Hackmakers</a>, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a> & <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>🚀, Global Ambassador, Virtual Experience Coordinator, Session Monitor & Facilitator at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Ambassador at <a href="https://hackthemountain.tech/">Hack The Mountains</a> & <a href="https://www.internationalmun.org/">International MUN</a>🍁, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>🙌, Freelancer👯</a></p>
+<p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Pythonista at <a href="https://www.hackerrank.com/">Hacker Rank</a>🤳, IoT Developer✔, Artificial Intelligence & Machine LearningEnthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Mentor and Project Admin at <a href="https://letsgrowmore.in/soc/">LetsGrowMore Summer of Code</a>🎇,
+Mentor at <a href="https://hackmakers.com/">Hackmakers</a>📍, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a>🚀, Global Ambassador, Virtual Experience Coordinator, Session Monitor & Facilitator at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Hack Ambassador at <a href="https://hackthemountain.tech/">Hack The Mountains</a>🍁, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>🙌, Freelancer👯</a></p>
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
 
-<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
+<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
 
 <p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
+ 
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -89,10 +91,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/ML-ProjectKart/issues/4) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🎉 Merged PR [#26](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/26) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/25) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🎉 Merged PR [#26](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/26) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#25](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/25) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🎉 Merged PR [#25](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/25) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
