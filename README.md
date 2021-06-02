@@ -91,10 +91,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/29) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 💪 Opened PR [#53](https://github.com/daniiltrpv/HelloWorld/pull/53) in [daniiltrpv/HelloWorld](https://github.com/daniiltrpv/HelloWorld)
-3. 💪 Opened PR [#35](https://github.com/shreyamalogi/hello_world/pull/35) in [shreyamalogi/hello_world](https://github.com/shreyamalogi/hello_world)
-4. 💪 Opened PR [#58](https://github.com/McBlox/HelloWorld/pull/58) in [McBlox/HelloWorld](https://github.com/McBlox/HelloWorld)
+1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/ML-ProjectKart/issues/4) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 💪 Opened PR [#611](https://github.com/acmbvp/Hacktoberfest/pull/611) in [acmbvp/Hacktoberfest](https://github.com/acmbvp/Hacktoberfest)
+3. 💪 Opened PR [#123](https://github.com/sca-nit-jsr/Hactoberfest-2k19/pull/123) in [sca-nit-jsr/Hactoberfest-2k19](https://github.com/sca-nit-jsr/Hactoberfest-2k19)
+4. 🗣 Commented on [#29](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/29) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
