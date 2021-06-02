@@ -91,10 +91,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/27) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🎉 Merged PR [#4](https://github.com/prathimacode-hub/HelloWorld/pull/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-3. 🗣 Commented on [#1](https://github.com/prathimacode-hub/HelloWorld/issues/1) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-4. 🗣 Commented on [#4](https://github.com/prathimacode-hub/ML-ProjectKart/issues/4) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🎉 Merged PR [#28](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/28) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🎉 Merged PR [#27](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/27) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🎉 Merged PR [#4](https://github.com/prathimacode-hub/HelloWorld/pull/4) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+4. 🗣 Commented on [#1](https://github.com/prathimacode-hub/HelloWorld/issues/1) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
 <!--END_SECTION:activity-->
 </details>
 
