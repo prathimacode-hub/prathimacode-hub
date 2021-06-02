@@ -91,10 +91,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/daniiltrpv/HelloWorld/pull/53) in [daniiltrpv/HelloWorld](https://github.com/daniiltrpv/HelloWorld)
-2. 💪 Opened PR [#35](https://github.com/shreyamalogi/hello_world/pull/35) in [shreyamalogi/hello_world](https://github.com/shreyamalogi/hello_world)
-3. 💪 Opened PR [#58](https://github.com/McBlox/HelloWorld/pull/58) in [McBlox/HelloWorld](https://github.com/McBlox/HelloWorld)
-4. 💪 Opened PR [#68](https://github.com/gaikwadnikita/HelloWorld/pull/68) in [gaikwadnikita/HelloWorld](https://github.com/gaikwadnikita/HelloWorld)
+1. 🗣 Commented on [#29](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/29) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 💪 Opened PR [#53](https://github.com/daniiltrpv/HelloWorld/pull/53) in [daniiltrpv/HelloWorld](https://github.com/daniiltrpv/HelloWorld)
+3. 💪 Opened PR [#35](https://github.com/shreyamalogi/hello_world/pull/35) in [shreyamalogi/hello_world](https://github.com/shreyamalogi/hello_world)
+4. 💪 Opened PR [#58](https://github.com/McBlox/HelloWorld/pull/58) in [McBlox/HelloWorld](https://github.com/McBlox/HelloWorld)
 <!--END_SECTION:activity-->
 </details>
 
