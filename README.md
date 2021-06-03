@@ -91,10 +91,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/32) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#27](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms/issues/27) in [melvyniandrag/Fall2020_CoolPythonPrograms](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms)
-3. 🎉 Merged PR [#31](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/31) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#5](https://github.com/prathimacode-hub/ML-ProjectKart/pull/5) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. ❗️ Opened issue [#33](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/33) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Opened issue [#32](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/32) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#27](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms/issues/27) in [melvyniandrag/Fall2020_CoolPythonPrograms](https://github.com/melvyniandrag/Fall2020_CoolPythonPrograms)
+4. 🎉 Merged PR [#31](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/31) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
