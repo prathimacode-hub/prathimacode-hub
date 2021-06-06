@@ -82,7 +82,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 | [**HelloWorld**](https://github.com/prathimacode-hub/HelloWorld) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/HelloWorld?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/HelloWorld/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/HelloWorld?style=flat-square)](https://github.com/prathimacode-hub/HelloWorld/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/HelloWorld?style=flat&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/HelloWorld?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/HelloWorld/pulls?q=is%3Apr+is%3Aclosed) |
  
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS/PERSONAL-PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
 
