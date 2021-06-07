@@ -96,8 +96,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#51](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/51) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 2. 🗣 Commented on [#50](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/50) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#41](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/41) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#11](https://github.com/prathimacode-hub/ML-ProjectKart/issues/11) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#10](https://github.com/prathimacode-hub/ML-ProjectKart/issues/10) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#51](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/51) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
