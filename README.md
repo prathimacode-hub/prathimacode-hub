@@ -94,10 +94,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/33) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#138](https://github.com/prathimacode-hub/ML-ProjectKart/issues/138) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#363](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/363) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#369](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/369) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🎉 Merged PR [#351](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/351) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Closed issue [#349](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/349) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🎉 Merged PR [#356](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/356) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Closed issue [#342](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/342) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
