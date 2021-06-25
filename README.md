@@ -95,9 +95,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/2) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
-2. ❗️ Closed issue [#482](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/482) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#478](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/478) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#499](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/499) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#2](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/2) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
+3. ❗️ Closed issue [#482](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/482) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Closed issue [#478](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/478) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
