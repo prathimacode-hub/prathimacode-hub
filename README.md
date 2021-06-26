@@ -94,10 +94,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#510](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/510) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Closed issue [#508](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/508) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#9](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/9) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
-4. 🗣 Commented on [#509](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/509) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#9](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/9) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
+2. 🎉 Merged PR [#510](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/510) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Closed issue [#508](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/508) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#9](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/9) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
 <!--END_SECTION:activity-->
 </details>
 
