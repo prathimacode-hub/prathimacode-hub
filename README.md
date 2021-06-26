@@ -94,10 +94,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/6) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
-2. 🗣 Commented on [#228](https://github.com/prathimacode-hub/ML-ProjectKart/issues/228) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#2](https://github.com/AkhileshThite/COVID-19-VaccineFinder/issues/2) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
-4. 💪 Opened PR [#6](https://github.com/AkhileshThite/COVID-19-VaccineFinder/pull/6) in [AkhileshThite/COVID-19-VaccineFinder](https://github.com/AkhileshThite/COVID-19-VaccineFinder)
+1. 🗣 Commented on [#209](https://github.com/prathimacode-hub/ML-ProjectKart/issues/209) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#196](https://github.com/prathimacode-hub/ML-ProjectKart/issues/196) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#159](https://github.com/prathimacode-hub/ML-ProjectKart/issues/159) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#155](https://github.com/prathimacode-hub/ML-ProjectKart/issues/155) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
