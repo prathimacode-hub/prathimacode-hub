@@ -94,10 +94,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#614](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/614) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Closed issue [#609](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/609) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#1](https://github.com/prathimacode-hub/MLH-INIT-2022/issues/1) in [prathimacode-hub/MLH-INIT-2022](https://github.com/prathimacode-hub/MLH-INIT-2022)
-4. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/MLH-INIT-2022/pull/1) in [prathimacode-hub/MLH-INIT-2022](https://github.com/prathimacode-hub/MLH-INIT-2022)
+1. 🗣 Commented on [#591](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/591) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🎉 Merged PR [#603](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/603) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Closed issue [#567](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/567) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🎉 Merged PR [#619](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/619) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
