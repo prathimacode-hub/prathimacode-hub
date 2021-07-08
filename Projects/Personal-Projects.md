@@ -1,5 +1,5 @@
 <h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>Projects by <a href="https://github.com/prathimacode-hub">@prathimacode-hub</a>
-  </h1>
+</h1>
 <br><br>
 
 | :hash: | Project | Description | Repo Link |
@@ -15,5 +15,11 @@
 | :nine: | [My Hashnode Articles](https://github.com/prathimacode-hub/HashnodeBlogs-Backup) | <br> Integrated with Hashnode to store my backup of Blogs Posts. <br><br> | [@prathimacode-hub/HashnodeBlogs-Backup](https://github.com/prathimacode-hub/HashnodeBlogs-Backup) |
 | :keycap_ten: | [Twitter Sentiment Analysis](https://github.com/prathimacode-hub/TwitterSentimentAnalysis) | <br> Analyze the sentiment of tweets posted on Twitter. <br><br> | [@prathimacode-hub/TwitterSentimentAnalysis](https://github.com/prathimacode-hub/TwitterSentimentAnalysis) |
 | :one::one: | [MLH Local Hack Day-Share](https://github.com/prathimacode-hub/MLH-LocalHackDay_Share) | <br> This repository is a collection of assets I've created on MLH : LHD-Share. I was a guild member of EddieHub Community.<br><br>| [/prathimacode-hub/MLH-LocalHackDay_Share](https://github.com/prathimacode-hub/MLH-LocalHackDay_Share) |
+| :one::two: | [MLH INIT 2022](https://github.com/prathimacode-hub/MLH-INIT-2022) | <br> This repo comprises of assets I've created for MLH - INIT 2022 Challenges. I was a guild member of EddieHub Community.<br><br>| [/prathimacode-hub/MLH-INIT-2022](https://github.com/prathimacode-hub/MLH-INIT-2022) |
+| :one::three: | [Certificate Genertor](https://github.com/prathimacode-hub/Certificate-Generator) | <br> This project would help you in automating the task of generating certificates in bulk.<br><br>| [/prathimacode-hub/Certificate-Generator](https://github.com/prathimacode-hub/Certificate-Generator) |
+| :one::four: | [My Portfolio Website](https://github.com/prathimacode-hub/prathimacode-hub.github.io) | <br> My Portfolio Website where you could know more about me in detail. <br><br>| [/prathimacode-hub/prathimacode-hub.github.io](https://github.com/prathimacode-hub/prathimacode-hub.github.io) |
+| :one::five: | [Featured Blogs Backup](https://github.com/prathimacode-hub/FeaturedBlogs-Backup) | <br> This repository contains all the blogs that are being featured across various learning platforms. <br><br>| [/prathimacode-hub/FeaturedBlogs-Backup](https://github.com/prathimacode-hub/FeaturedBlogs-Backup) |
+| :one::six: | [Featured Blogs Backup](https://github.com/prathimacode-hub/LetsUpgrade-DSA_with_Python) | <br> These files are the assignments given by the LetsUpgrade for "Data Structures and Algorithms Essentials" Course. <br><br>| [/prathimacode-hub/LetsUpgrade-DSA_with_Python](https://github.com/prathimacode-hub/LetsUpgrade-DSA_with_Python) |
+| :one::six: | [Convolution Neural Network](https://github.com/prathimacode-hub/Convolution-Neural-Network) | <br> This project demonstrates training a simple convolutional neural network(CNN) to classify CIFAR Images. <br><br>| [/prathimacode-hub/Convolution-Neural-Network](https://github.com/prathimacode-hub/Convolution-Neural-Network) |
 
 <p align="center"><br><a href="#hugs-projects-by-prathimacode-hub--">:top:</a><br><sup><strong>Show <a href="https://github.com/prathimacode-hub?tab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://twitter.com/prathimak88"> <img src="https://img.shields.io/twitter/follow/prathimak88?style=social" /></a> <a href="https://github.com/prathimacode-hub/"><img src="https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social"> </a><br></p>
