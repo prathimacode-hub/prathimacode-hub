@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/abhikmp/SomeRandomPyPrograms/pull/17) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
-2. 💪 Opened PR [#6](https://github.com/Vutsuak16/Algorithms-in-Python/pull/6) in [Vutsuak16/Algorithms-in-Python](https://github.com/Vutsuak16/Algorithms-in-Python)
-3. 🗣 Commented on [#36](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/36) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🎉 Merged PR [#35](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/35) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 💪 Opened PR [#2](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python/pull/2) in [Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python)
+2. 💪 Opened PR [#1](https://github.com/sonagrasumit/Python/pull/1) in [sonagrasumit/Python](https://github.com/sonagrasumit/Python)
+3. 💪 Opened PR [#7](https://github.com/zhiwehu/PythonAlgorithm/pull/7) in [zhiwehu/PythonAlgorithm](https://github.com/zhiwehu/PythonAlgorithm)
+4. 💪 Opened PR [#17](https://github.com/abhikmp/SomeRandomPyPrograms/pull/17) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
 <!--END_SECTION:activity-->
 </details>
 
