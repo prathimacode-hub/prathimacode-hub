@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/9) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 💪 Opened PR [#2](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python/pull/2) in [Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python)
-3. 💪 Opened PR [#1](https://github.com/sonagrasumit/Python/pull/1) in [sonagrasumit/Python](https://github.com/sonagrasumit/Python)
-4. 💪 Opened PR [#7](https://github.com/zhiwehu/PythonAlgorithm/pull/7) in [zhiwehu/PythonAlgorithm](https://github.com/zhiwehu/PythonAlgorithm)
+1. 🗣 Commented on [#440](https://github.com/prathimacode-hub/ML-ProjectKart/issues/440) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#38](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/38) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. 🗣 Commented on [#13](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/13) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#436](https://github.com/prathimacode-hub/ML-ProjectKart/issues/436) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
