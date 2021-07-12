@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/prathimacode-hub/ML-ProjectKart/issues/357) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#11](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/11) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. 🗣 Commented on [#431](https://github.com/prathimacode-hub/ML-ProjectKart/issues/431) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#357](https://github.com/prathimacode-hub/ML-ProjectKart/issues/357) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 3. 🗣 Commented on [#11](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/11) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. 🗣 Commented on [#2](https://github.com/coffee-tonight/python_misc/issues/2) in [coffee-tonight/python_misc](https://github.com/coffee-tonight/python_misc)
+4. 🗣 Commented on [#11](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/11) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
