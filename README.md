@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/34) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. 🗣 Commented on [#437](https://github.com/prathimacode-hub/ML-ProjectKart/issues/437) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#276](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/276) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#481](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/481) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 💪 Opened PR [#17](https://github.com/abhikmp/SomeRandomPyPrograms/pull/17) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
+2. 💪 Opened PR [#6](https://github.com/Vutsuak16/Algorithms-in-Python/pull/6) in [Vutsuak16/Algorithms-in-Python](https://github.com/Vutsuak16/Algorithms-in-Python)
+3. 🗣 Commented on [#36](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/36) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🎉 Merged PR [#35](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/35) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
