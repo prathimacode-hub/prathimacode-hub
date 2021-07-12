@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/9) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#10](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/10) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-3. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/DS-ScriptsNook/pull/8) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. ❗️ Closed issue [#5](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/5) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. 🗣 Commented on [#441](https://github.com/prathimacode-hub/ML-ProjectKart/issues/441) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. ❗️ Closed issue [#19](https://github.com/prathimacode-hub/ML-ProjectKart/issues/19) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🎉 Merged PR [#443](https://github.com/prathimacode-hub/ML-ProjectKart/pull/443) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#443](https://github.com/prathimacode-hub/ML-ProjectKart/issues/443) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
