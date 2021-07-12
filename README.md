@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python/pull/2) in [Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python)
-2. 💪 Opened PR [#1](https://github.com/sonagrasumit/Python/pull/1) in [sonagrasumit/Python](https://github.com/sonagrasumit/Python)
-3. 💪 Opened PR [#7](https://github.com/zhiwehu/PythonAlgorithm/pull/7) in [zhiwehu/PythonAlgorithm](https://github.com/zhiwehu/PythonAlgorithm)
-4. 💪 Opened PR [#17](https://github.com/abhikmp/SomeRandomPyPrograms/pull/17) in [abhikmp/SomeRandomPyPrograms](https://github.com/abhikmp/SomeRandomPyPrograms)
+1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/9) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 💪 Opened PR [#2](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python/pull/2) in [Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Python)
+3. 💪 Opened PR [#1](https://github.com/sonagrasumit/Python/pull/1) in [sonagrasumit/Python](https://github.com/sonagrasumit/Python)
+4. 💪 Opened PR [#7](https://github.com/zhiwehu/PythonAlgorithm/pull/7) in [zhiwehu/PythonAlgorithm](https://github.com/zhiwehu/PythonAlgorithm)
 <!--END_SECTION:activity-->
 </details>
 
