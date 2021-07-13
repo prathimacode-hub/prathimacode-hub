@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/26) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
-2. 🗣 Commented on [#700](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/700) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#40](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/40) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🗣 Commented on [#26](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/26) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+1. 🎉 Merged PR [#731](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/731) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Closed issue [#728](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/728) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#16](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/16) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#733](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/733) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
