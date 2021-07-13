@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/485) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#699](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/699) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#700](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/700) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. ❗️ Closed issue [#722](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/722) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. ❗️ Opened issue [#15](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/15) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+2. ❗️ Opened issue [#14](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/14) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+3. ❗️ Opened issue [#13](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/13) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+4. ❗️ Opened issue [#12](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/12) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
 <!--END_SECTION:activity-->
 </details>
 
