@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#745](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/745) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#452](https://github.com/prathimacode-hub/ML-ProjectKart/issues/452) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. ❌ Closed PR [#748](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/748) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#749](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/749) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. ❗️ Closed issue [#36](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/36) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+2. 🎉 Merged PR [#50](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/50) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. ❌ Closed PR [#37](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/37) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🗣 Commented on [#31](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/31) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
 <!--END_SECTION:activity-->
 </details>
 
