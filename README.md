@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#754](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/754) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Closed issue [#699](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/699) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#485](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/485) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#485](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/485) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#453](https://github.com/prathimacode-hub/ML-ProjectKart/issues/453) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. ❗️ Closed issue [#455](https://github.com/prathimacode-hub/ML-ProjectKart/issues/455) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#455](https://github.com/prathimacode-hub/ML-ProjectKart/issues/455) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#10](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/10) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
 <!--END_SECTION:activity-->
 </details>
 
