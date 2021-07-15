@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/61) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. ❗️ Closed issue [#60](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/60) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 🎉 Merged PR [#56](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/56) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. ❗️ Closed issue [#53](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/53) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. ❌ Closed PR [#34](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pull/34) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+2. ❌ Closed PR [#31](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pull/31) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+3. 🎉 Merged PR [#61](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/61) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. ❗️ Closed issue [#60](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/60) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
