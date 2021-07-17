@@ -94,9 +94,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#463](https://github.com/prathimacode-hub/ML-ProjectKart/issues/463) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#21](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/21) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+2. 🗣 Commented on [#463](https://github.com/prathimacode-hub/ML-ProjectKart/issues/463) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 3. 🗣 Commented on [#21](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/21) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
-4. ❗️ Closed issue [#438](https://github.com/prathimacode-hub/ML-ProjectKart/issues/438) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#21](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/21) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
 <!--END_SECTION:activity-->
 </details>
 
