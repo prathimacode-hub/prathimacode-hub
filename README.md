@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#800](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/800) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#799](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/799) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#798](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/798) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#801](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/801) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🎉 Merged PR [#85](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/85) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+2. ❗️ Closed issue [#33](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/33) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. ❗️ Closed issue [#67](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/67) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🎉 Merged PR [#88](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/88) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
