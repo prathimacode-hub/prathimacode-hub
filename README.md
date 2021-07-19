@@ -32,7 +32,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 - [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
-- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-iot)
+- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-internet-of-things-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
 - [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
