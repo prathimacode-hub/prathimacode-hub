@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/32) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#875](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/875) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#32](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/32) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. 🗣 Commented on [#31](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/31) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. ❗️ Opened issue [#43](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/43) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. ❗️ Opened issue [#42](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/42) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. ❗️ Opened issue [#41](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/41) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. ❗️ Opened issue [#40](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/40) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
