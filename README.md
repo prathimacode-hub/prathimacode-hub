@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/78) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. ❗️ Opened issue [#77](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/77) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-3. ❗️ Opened issue [#76](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/76) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. ❗️ Opened issue [#75](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/75) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. ❗️ Closed issue [#62](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/62) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. ❗️ Opened issue [#87](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/87) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. ❗️ Opened issue [#86](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/86) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. ❗️ Opened issue [#85](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/85) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
