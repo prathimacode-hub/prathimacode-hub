@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/30) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#126](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/126) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 🗣 Commented on [#127](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/127) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🗣 Commented on [#124](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/124) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🗣 Commented on [#32](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/32) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#875](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/875) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#32](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/32) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#31](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/31) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
