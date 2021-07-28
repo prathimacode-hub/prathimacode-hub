@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#465](https://github.com/prathimacode-hub/ML-ProjectKart/issues/465) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#496](https://github.com/prathimacode-hub/ML-ProjectKart/issues/496) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🎉 Merged PR [#125](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/125) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. ❗️ Closed issue [#123](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/123) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🗣 Commented on [#58](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/58) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+2. 🗣 Commented on [#465](https://github.com/prathimacode-hub/ML-ProjectKart/issues/465) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#496](https://github.com/prathimacode-hub/ML-ProjectKart/issues/496) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🎉 Merged PR [#125](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/125) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
