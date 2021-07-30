@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/134) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. 🗣 Commented on [#888](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/888) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#502](https://github.com/prathimacode-hub/ML-ProjectKart/issues/502) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🗣 Commented on [#502](https://github.com/prathimacode-hub/ML-ProjectKart/issues/502) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#503](https://github.com/prathimacode-hub/ML-ProjectKart/issues/503) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#504](https://github.com/prathimacode-hub/ML-ProjectKart/issues/504) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#116](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/116) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#31](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/31) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
