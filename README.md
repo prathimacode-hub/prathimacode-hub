@@ -93,9 +93,9 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/135) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. 🗣 Commented on [#891](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/891) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#892](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/892) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#895](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/895) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#897](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/897) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#135](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/135) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 4. 🗣 Commented on [#891](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/891) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
