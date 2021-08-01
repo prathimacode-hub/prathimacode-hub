@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/133) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. ❗️ Closed issue [#128](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/128) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 🎉 Merged PR [#136](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/136) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🎉 Merged PR [#127](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/127) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🎉 Merged PR [#113](https://github.com/prathimacode-hub/DS-ScriptsNook/pull/113) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. ❗️ Closed issue [#74](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/74) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. 🗣 Commented on [#133](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/133) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. ❗️ Closed issue [#128](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/128) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
