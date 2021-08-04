@@ -94,7 +94,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | Contributor | Ambassador | 
 
-- Selected and Aceepted into Google Cloud Security Training Program
+- Selected and Accepted into Google Cloud Security Training Program
 - Selected and Accepted into AWS Machine Learning Scholarship at Udacity
 - Cybersecurity Intern at Forage Clifford Chance
 - Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion and HackMakers
