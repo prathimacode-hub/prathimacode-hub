@@ -85,6 +85,27 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 </td>
 
 
+**My Highlights🎯**<br>
+
+Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | Contributor | Ambassador | 
+
+- Selected and Aceepted into Google Cloud Security Training Program
+- Selected and Accepted into AWS Machine Learning Scholarship at Udacity
+- Cybersecurity Intern at Forage Clifford Chance
+- Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion and HackMakers
+- Project Admin and Mentor at Open Source Programs (LetsGrowMore Summer Of Code, DevIncept Contribution Program)
+- Hackathon Winner at HackYou and HackTable
+- Serving as a Event Manager at EduHub Community
+- Secured Guiness World Record for taking part in AI for India event conducted by GUVI
+- Secured 50th position out of 6500+ hackers all around the world at Major League Hacking LHD : Share
+- Global Ambassador and Mentor at WomenTech Network
+- OpenSource Community Member at EddieHub and Guild Member representing EddieHub at various hackathons
+- Blogger at Hashnode (My Personal Blog)
+- Blogs sucessfully featured at Analytics Vidya
+- Secured Machine Learning Scholarship at Education Outreach Program by GirlScript Foundation
+- OpenSource Contributor at GirlScript Summer Of Code.
+
+
 **GitHub Stats🎯**<br>
 
 <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
@@ -93,10 +114,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#675](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/675) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#511](https://github.com/prathimacode-hub/ML-ProjectKart/issues/511) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#507](https://github.com/prathimacode-hub/ML-ProjectKart/issues/507) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🎉 Merged PR [#534](https://github.com/prathimacode-hub/ML-ProjectKart/pull/534) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🎉 Merged PR [#534](https://github.com/prathimacode-hub/ML-ProjectKart/pull/534) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. ❗️ Closed issue [#500](https://github.com/prathimacode-hub/ML-ProjectKart/issues/500) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🎉 Merged PR [#965](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/965) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Closed issue [#921](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/921) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
