@@ -9,12 +9,14 @@ or use it. It helps me a lot.
 
 <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp; 
 
- 
-<p align="center">Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a> & Inphinity Software Solutions🔐, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance </a>🍁, Pythonista at <a href="https://www.hackerrank.com/">Hacker Rank</a>🤳, IoT Developer✔, Artificial Intelligence & Machine LearningEnthusiast🔭, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Mentor and Project Admin at <a href="https://letsgrowmore.in/soc/">LetsGrowMore Summer of Code</a> & <a href="https://devincept.codes/contribute.html">DevIncept Codes</a>🎇, Mentor at <a href="https://hackmakers.com/">Hack4Inclusion</a>📍, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">GitHub</a>🚀, Global Ambassador at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a> & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>🙌, Freelancer👯</a></p>
 
-<p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
+<p align="center">Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Training Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Project Admin & Mentor at <a href="https://letsgrowmore.in/soc/">LetsGrowMore Summer Of Code</a> & <a href="https://devincept.codes/contribute.html">DevIncept Codes</a>🎇, Event Manager at <a href="https://www.artofliving.org/in-en">Eduhub Community</a>🙌, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, OpenSource Community Member at <a href="https://www.artofliving.org/in-en">EddieHub Community</a>👯, OpenSource Contributor at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Former Embedded Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
 
-<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
+<p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
+
+<p align="center">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
+
+<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p>
 
 <p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
  
@@ -94,7 +96,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | Contributor | Ambassador | 
 
-- Selected and Accepted into Google Cloud Security Training Program
+- Selected and Accepted into Google Cloud Computing Training Program
 - Selected and Accepted into AWS Machine Learning Scholarship at Udacity
 - Cybersecurity Intern at Forage Clifford Chance
 - Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion and HackMakers
@@ -109,15 +111,16 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 - Blogs sucessfully featured at Analytics Vidya
 - Secured Machine Learning Scholarship at Education Outreach Program by GirlScript Foundation
 - OpenSource Contributor at GirlScript Summer Of Code.
+- Former Research and Development Engineer at Analogics Group Tech India Ltd
 
 
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#958](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/958) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#958](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/958) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#958](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/958) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#958](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/958) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#122](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/122) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#675](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/675) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#511](https://github.com/prathimacode-hub/ML-ProjectKart/issues/511) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#507](https://github.com/prathimacode-hub/ML-ProjectKart/issues/507) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
