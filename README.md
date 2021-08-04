@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#951](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/951) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Opened issue [#950](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/950) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Opened issue [#949](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/949) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. ❗️ Opened issue [#948](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/948) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. ❗️ Opened issue [#962](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/962) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Opened issue [#961](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/961) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Opened issue [#960](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/960) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Opened issue [#959](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/959) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
