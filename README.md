@@ -85,7 +85,12 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 </td>
 
 
-**My Highlights🎯**<br>
+**GitHub Stats🎯**<br>
+
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
+
+**My Highlights🎇**<br>
 
 Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | Contributor | Ambassador | 
 
@@ -104,11 +109,6 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 - Blogs sucessfully featured at Analytics Vidya
 - Secured Machine Learning Scholarship at Education Outreach Program by GirlScript Foundation
 - OpenSource Contributor at GirlScript Summer Of Code.
-
-
-**GitHub Stats🎯**<br>
-
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 
 <details><summary>Recent Activity</summary>
