@@ -93,10 +93,10 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <details><summary>Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#519](https://github.com/prathimacode-hub/ML-ProjectKart/issues/519) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. ❗️ Opened issue [#518](https://github.com/prathimacode-hub/ML-ProjectKart/issues/518) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. ❗️ Opened issue [#517](https://github.com/prathimacode-hub/ML-ProjectKart/issues/517) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. ❗️ Opened issue [#516](https://github.com/prathimacode-hub/ML-ProjectKart/issues/516) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. ❗️ Opened issue [#523](https://github.com/prathimacode-hub/ML-ProjectKart/issues/523) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. ❗️ Opened issue [#522](https://github.com/prathimacode-hub/ML-ProjectKart/issues/522) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. ❗️ Opened issue [#521](https://github.com/prathimacode-hub/ML-ProjectKart/issues/521) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. ❗️ Opened issue [#520](https://github.com/prathimacode-hub/ML-ProjectKart/issues/520) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
