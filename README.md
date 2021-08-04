@@ -117,7 +117,7 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 - Project Admin and Mentor at Open Source Programs (LetsGrowMore Summer Of Code, DevIncept Contribution Program)
 - Open Source Enthusiast at Github
 - Hackathon Winner at HackYou and HackTable
-- Serving as a Event Manager at EduHub Community
+- Working as a Event Manager at EduHub Community
 - Secured Guiness World Record for taking part in AI for India event conducted by GUVI
 - Secured 50th position out of 6500+ hackers all around the world at Major League Hacking LHD : Share
 - Global Ambassador and Mentor at WomenTech Network
@@ -129,7 +129,7 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 - Former Research and Development Engineer at Analogics Group Tech India Ltd
 
 
-<details><summary>Recent Activity📍</summary>
+<details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#122](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/122) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
