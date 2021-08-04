@@ -126,7 +126,7 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 - Blogs sucessfully featured at Analytics Vidya
 - Secured Machine Learning Scholarship at Education Outreach Program by GirlScript Foundation
 - OpenSource Contributor at GirlScript Summer Of Code.
-- Former Research and Development Engineer at Analogics Group Tech India Ltd
+- Former Research and Development Engineer/Embedded Development Engineer at Analogics Group Tech India Ltd & Inphinity Software Solutions Ltd.
 
 
 <details><summary>Recent Activity📌</summary>
