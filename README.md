@@ -133,9 +133,9 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#543](https://github.com/prathimacode-hub/ML-ProjectKart/issues/543) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#542](https://github.com/prathimacode-hub/ML-ProjectKart/issues/542) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#934](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/934) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#539](https://github.com/prathimacode-hub/ML-ProjectKart/issues/539) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#543](https://github.com/prathimacode-hub/ML-ProjectKart/issues/543) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#542](https://github.com/prathimacode-hub/ML-ProjectKart/issues/542) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#934](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/934) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
