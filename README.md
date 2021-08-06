@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#546](https://github.com/prathimacode-hub/ML-ProjectKart/issues/546) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#502](https://github.com/prathimacode-hub/ML-ProjectKart/issues/502) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#496](https://github.com/prathimacode-hub/ML-ProjectKart/issues/496) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🗣 Commented on [#482](https://github.com/prathimacode-hub/ML-ProjectKart/issues/482) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#951](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/951) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#115](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/115) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. 🗣 Commented on [#815](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/815) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#951](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/951) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
