@@ -93,7 +93,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 
 <td align="center">
-      <strong> :octocat: I'm proud to be associated with this organisations :octocat: </strong><br>
+      <strong> :octocat: Proud to be associated with this organisation :octocat: </strong><br>
       <table>
         <tr>
           <td align="center">
