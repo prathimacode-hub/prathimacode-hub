@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/29) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. ❗️ Closed issue [#4](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/4) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. ❗️ Closed issue [#89](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/89) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🎉 Merged PR [#150](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/150) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🗣 Commented on [#10](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/10) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#48](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/48) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. 🗣 Commented on [#93](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/93) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#148](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/148) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
