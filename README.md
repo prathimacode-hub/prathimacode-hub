@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#950](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/950) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#969](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/969) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#546](https://github.com/prathimacode-hub/ML-ProjectKart/issues/546) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🗣 Commented on [#510](https://github.com/prathimacode-hub/ML-ProjectKart/issues/510) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#124](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/124) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#950](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/950) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#969](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/969) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#546](https://github.com/prathimacode-hub/ML-ProjectKart/issues/546) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
