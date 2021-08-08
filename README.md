@@ -133,9 +133,9 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#546](https://github.com/prathimacode-hub/ML-ProjectKart/issues/546) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#947](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/947) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#126](https://github.com/prathimacode-hub/DS-ScriptsNook/pull/126) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. ❗️ Closed issue [#93](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/93) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#510](https://github.com/prathimacode-hub/ML-ProjectKart/issues/510) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🎉 Merged PR [#556](https://github.com/prathimacode-hub/ML-ProjectKart/pull/556) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. ❗️ Closed issue [#555](https://github.com/prathimacode-hub/ML-ProjectKart/issues/555) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
