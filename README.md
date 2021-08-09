@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/154) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. ❗️ Closed issue [#144](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/144) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 🗣 Commented on [#482](https://github.com/prathimacode-hub/ML-ProjectKart/issues/482) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🗣 Commented on [#127](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/127) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. 🎉 Merged PR [#560](https://github.com/prathimacode-hub/ML-ProjectKart/pull/560) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. ❗️ Closed issue [#559](https://github.com/prathimacode-hub/ML-ProjectKart/issues/559) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🎉 Merged PR [#154](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/154) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. ❗️ Closed issue [#144](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/144) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
