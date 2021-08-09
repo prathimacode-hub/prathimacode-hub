@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/48) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#5](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/5) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
-3. 🗣 Commented on [#26](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/26) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
-4. 🎉 Merged PR [#44](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/pull/44) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+1. 🗣 Commented on [#396](https://github.com/prathimacode-hub/ML-ProjectKart/issues/396) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#453](https://github.com/prathimacode-hub/ML-ProjectKart/issues/453) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#493](https://github.com/prathimacode-hub/ML-ProjectKart/issues/493) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#559](https://github.com/prathimacode-hub/ML-ProjectKart/issues/559) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
