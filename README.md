@@ -132,10 +132,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#482](https://github.com/prathimacode-hub/ML-ProjectKart/pull/482) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. 🗣 Commented on [#482](https://github.com/prathimacode-hub/ML-ProjectKart/issues/482) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#482](https://github.com/prathimacode-hub/ML-ProjectKart/issues/482) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. ❗️ Closed issue [#473](https://github.com/prathimacode-hub/ML-ProjectKart/issues/473) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#127](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/127) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#465](https://github.com/prathimacode-hub/ML-ProjectKart/issues/465) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. ❗️ Closed issue [#980](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/980) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Reopened issue [#980](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/980) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
