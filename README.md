@@ -14,7 +14,7 @@ or use it. It helps me a lot.
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
-<p align="center">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>!🙋‍♀️</p>
+<p align="center">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>🙋‍♀️</p>
 
 <p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p>
 
