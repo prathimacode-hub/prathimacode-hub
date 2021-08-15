@@ -109,7 +109,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
     
 **My Ultimate Highlights🎇**<br>
 
-Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | OpenSource Enthusiast | DevRel | Ambassador | 
+Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | SCDL - PGDITM | OpenSource Enthusiast | DevRel | Ambassador | 
 
 - Selected and Accepted into Google Cloud Computing Training Program
 - Selected and Accepted into AWS Machine Learning Scholarship at Udacity
