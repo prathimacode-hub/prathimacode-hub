@@ -133,10 +133,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#939](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/939) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#929](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/929) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#563](https://github.com/prathimacode-hub/ML-ProjectKart/pull/563) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. ❗️ Closed issue [#526](https://github.com/prathimacode-hub/ML-ProjectKart/issues/526) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. ❗️ Reopened issue [#904](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/904) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#904](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/904) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. ❗️ Closed issue [#939](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/939) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#929](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/929) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
