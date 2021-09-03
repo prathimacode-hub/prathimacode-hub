@@ -135,8 +135,8 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#954](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/954) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 2. 🗣 Commented on [#954](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/954) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#960](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/960) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#987](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/987) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#954](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/954) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Closed issue [#960](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/960) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
