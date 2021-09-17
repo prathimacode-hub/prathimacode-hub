@@ -133,10 +133,10 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#961](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/961) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#950](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/950) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#961](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/961) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#929](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/929) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#350](https://github.com/girlscript/winter-of-contributing/issues/350) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ❗️ Opened issue [#350](https://github.com/girlscript/winter-of-contributing/issues/350) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#348](https://github.com/girlscript/winter-of-contributing/issues/348) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#347](https://github.com/girlscript/winter-of-contributing/issues/347) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
