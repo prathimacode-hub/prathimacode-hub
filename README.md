@@ -134,9 +134,9 @@ Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Tech
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1659](https://github.com/girlscript/winter-of-contributing/issues/1659) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#1001](https://github.com/girlscript/winter-of-contributing/issues/1001) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#1598](https://github.com/girlscript/winter-of-contributing/issues/1598) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#78](https://github.com/girlscript/winter-of-contributing/issues/78) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#1659](https://github.com/girlscript/winter-of-contributing/issues/1659) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#1001](https://github.com/girlscript/winter-of-contributing/issues/1001) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#1598](https://github.com/girlscript/winter-of-contributing/issues/1598) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
