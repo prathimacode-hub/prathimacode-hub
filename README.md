@@ -10,7 +10,7 @@ or use it. It helps me a lot.
 <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp; 
 
 
-<p align="center">Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Training Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Project Admin & Mentor at <a href="https://letsgrowmore.in/soc/">LetsGrowMore Summer Of Code</a> & <a href="https://devincept.codes/contribute.html">DevIncept Codes</a>🎇, Event Manager at <a href="https://eduhubcommunity.tech/">Eduhub Community</a>🙌, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
+<p align="center">Regional Ambassador at <a href="https://www.buildwithai.com/">Hackmakers</a>🙌, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Training Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Project Admin & Mentor at <a href="https://letsgrowmore.in/soc/">LetsGrowMore Summer Of Code</a> & <a href="https://devincept.codes/contribute.html">DevIncept Codes</a>🎇, Event Manager at <a href="https://eduhubcommunity.tech/">Eduhub Community</a>, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
@@ -109,16 +109,17 @@ Follow Up and Subscribe to my Newsletter to get timely updates
     
 **My Ultimate Highlights🎇**<br>
 
-Roles - | Full Stack Developer | Project Admin | Judge | Mentor | Blogger | Technical Writer | SCDL - PGDITM | OpenSource Enthusiast | DevRel | Ambassador | 
+Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | Hack Judge & Mentor | 3 * Hackathon Winner | GCCF | AWS ML | GitLab Certified | Technical Blogger | Pythonista | OpenSourcer | DevRel |
 
+- Selected as Regional Ambassador at Hackmakers for #BuildwithAI Hackathon
 - Selected and Accepted into Google Cloud Computing Training Program
 - Selected and Accepted into AWS Machine Learning Scholarship at Udacity
 - Cybersecurity Intern at Forage Clifford Chance
-- Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion and HackMakers
-- Project Admin and Mentor at Open Source Programs (LetsGrowMore Summer Of Code, DevIncept Contribution Program)
+- Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion, HackMakers, Creatica, HackOdisha
+- Hack Ambassador at Hack The Mountains
+- Project Admin, Supervisor and Mentor at Open Source Programs (Girlscript Winter of Contributing, LetsGrowMore Summer Of Code, DevIncept Contribution Program)
 - Open Source Enthusiast at Github
 - Hackathon Winner at HackYou, HackTable and Hackable
-- Working as a Event Manager at EduHub Community
 - Secured Guiness World Record for taking part in AI for India event conducted by GUVI
 - Secured 50th position out of 6500+ hackers all around the world at Major League Hacking LHD : Share
 - Global Ambassador and Mentor at WomenTech Network
