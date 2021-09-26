@@ -134,10 +134,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2706](https://github.com/girlscript/winter-of-contributing/pull/2706) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#104](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/104) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-3. 🗣 Commented on [#1654](https://github.com/girlscript/winter-of-contributing/issues/1654) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#2406](https://github.com/girlscript/winter-of-contributing/issues/2406) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#1855](https://github.com/girlscript/winter-of-contributing/issues/1855) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🎉 Merged PR [#2706](https://github.com/girlscript/winter-of-contributing/pull/2706) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#104](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/104) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+4. 🗣 Commented on [#1654](https://github.com/girlscript/winter-of-contributing/issues/1654) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
