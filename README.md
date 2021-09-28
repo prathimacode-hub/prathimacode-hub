@@ -82,8 +82,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other open source projects.</sup>* <br>
 </td>
-<sup><kbd>***To [Check On](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS/PERSONAL-PROJECTS.md)***</kbd> *you can view here.</sup>* <br>
-</td>
 
 
 **GitHub Stats🎯**<br>
