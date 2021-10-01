@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#530](https://github.com/prathimacode-hub/ML-ProjectKart/issues/530) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#565](https://github.com/prathimacode-hub/ML-ProjectKart/issues/565) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 2. 🗣 Commented on [#45](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/45) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-3. 🗣 Commented on [#50](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/50) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. 🗣 Commented on [#101](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/101) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. 🗣 Commented on [#101](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/101) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#990](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/990) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
