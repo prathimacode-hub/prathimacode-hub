@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/160) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. 🗣 Commented on [#160](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/160) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 💪 Opened PR [#256](https://github.com/chandrikadeb7/Hacktoberfest_2021/pull/256) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
-4. 🗣 Commented on [#937](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/937) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 💪 Opened PR [#391](https://github.com/ishangoyal13/Hacktoberfest2021/pull/391) in [ishangoyal13/Hacktoberfest2021](https://github.com/ishangoyal13/Hacktoberfest2021)
+2. ❗️ Opened issue [#388](https://github.com/ishangoyal13/Hacktoberfest2021/issues/388) in [ishangoyal13/Hacktoberfest2021](https://github.com/ishangoyal13/Hacktoberfest2021)
+3. 🎉 Merged PR [#160](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/160) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🗣 Commented on [#160](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/160) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
