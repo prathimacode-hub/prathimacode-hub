@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/124) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-2. 🗣 Commented on [#124](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/issues/124) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-3. 🗣 Commented on [#164](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/164) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🗣 Commented on [#163](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/163) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🗣 Commented on [#100](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/100) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🎉 Merged PR [#124](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/124) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
+3. 🗣 Commented on [#124](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/issues/124) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
+4. 🗣 Commented on [#164](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/164) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
