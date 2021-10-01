@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/AviSharmaaa/Hacktoberfest_2021/pull/30) in [AviSharmaaa/Hacktoberfest_2021](https://github.com/AviSharmaaa/Hacktoberfest_2021)
-2. 🗣 Commented on [#168](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/168) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-3. 🗣 Commented on [#168](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/168) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🗣 Commented on [#128](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/128) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. 🗣 Commented on [#3859](https://github.com/girlscript/winter-of-contributing/issues/3859) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ❗️ Opened issue [#100](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/100) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#169](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/169) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. ❗️ Closed issue [#167](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/167) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
