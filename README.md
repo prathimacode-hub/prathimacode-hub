@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#145](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/145) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-2. 🗣 Commented on [#514](https://github.com/prathimacode-hub/ML-ProjectKart/issues/514) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#992](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/992) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#567](https://github.com/prathimacode-hub/ML-ProjectKart/issues/567) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#3786](https://github.com/girlscript/winter-of-contributing/issues/3786) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#18](https://github.com/aravindvnair99/Python/issues/18) in [aravindvnair99/Python](https://github.com/aravindvnair99/Python)
+3. 🗣 Commented on [#145](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/145) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🗣 Commented on [#514](https://github.com/prathimacode-hub/ML-ProjectKart/issues/514) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
