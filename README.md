@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/2) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-2. 🗣 Commented on [#4](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/4) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-3. 🗣 Commented on [#5](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/5) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-4. 🗣 Commented on [#6](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/6) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+1. 🗣 Commented on [#145](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/145) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+2. 🗣 Commented on [#514](https://github.com/prathimacode-hub/ML-ProjectKart/issues/514) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#992](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/992) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#567](https://github.com/prathimacode-hub/ML-ProjectKart/issues/567) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
