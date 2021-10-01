@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3749](https://github.com/girlscript/winter-of-contributing/issues/3749) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#735](https://github.com/girlscript/winter-of-contributing/issues/735) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🎉 Merged PR [#3369](https://github.com/girlscript/winter-of-contributing/pull/3369) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#3176](https://github.com/girlscript/winter-of-contributing/issues/3176) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#530](https://github.com/prathimacode-hub/ML-ProjectKart/issues/530) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#45](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/45) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. 🗣 Commented on [#50](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/50) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🗣 Commented on [#101](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/101) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
