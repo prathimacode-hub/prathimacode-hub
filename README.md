@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/128) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#991](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/991) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#3840](https://github.com/girlscript/winter-of-contributing/pull/3840) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🎉 Merged PR [#3786](https://github.com/girlscript/winter-of-contributing/pull/3786) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#30](https://github.com/AviSharmaaa/Hacktoberfest_2021/pull/30) in [AviSharmaaa/Hacktoberfest_2021](https://github.com/AviSharmaaa/Hacktoberfest_2021)
+2. 🗣 Commented on [#168](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/168) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. 🗣 Commented on [#168](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/168) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🗣 Commented on [#128](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/128) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
