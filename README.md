@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1004](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1004) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#104](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/104) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 2. 🗣 Commented on [#1004](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1004) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#4010](https://github.com/girlscript/winter-of-contributing/pull/4010) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🎉 Merged PR [#3996](https://github.com/girlscript/winter-of-contributing/pull/3996) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#1004](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1004) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🎉 Merged PR [#4010](https://github.com/girlscript/winter-of-contributing/pull/4010) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
