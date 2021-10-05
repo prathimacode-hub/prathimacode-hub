@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/10) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-2. 🗣 Commented on [#1527](https://github.com/girlscript/winter-of-contributing/issues/1527) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. ❗️ Closed issue [#4331](https://github.com/girlscript/winter-of-contributing/issues/4331) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#4385](https://github.com/girlscript/winter-of-contributing/issues/4385) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#8](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/8) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+2. 🎉 Merged PR [#10](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/10) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+3. 🗣 Commented on [#1527](https://github.com/girlscript/winter-of-contributing/issues/1527) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. ❗️ Closed issue [#4331](https://github.com/girlscript/winter-of-contributing/issues/4331) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
