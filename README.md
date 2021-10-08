@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1786](https://github.com/girlscript/winter-of-contributing/issues/1786) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ❌ Closed PR [#3010](https://github.com/girlscript/winter-of-contributing/pull/3010) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#3010](https://github.com/girlscript/winter-of-contributing/issues/3010) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#4983](https://github.com/girlscript/winter-of-contributing/issues/4983) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🎉 Merged PR [#9](https://github.com/prathimacode-hub/HelloWorld/pull/9) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+2. 🗣 Commented on [#9](https://github.com/prathimacode-hub/HelloWorld/issues/9) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
+3. ❗️ Closed issue [#191](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/191) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🎉 Merged PR [#197](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/197) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
