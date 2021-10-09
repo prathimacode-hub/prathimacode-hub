@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/prathimacode-hub/HelloWorld/pull/9) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-2. 🗣 Commented on [#9](https://github.com/prathimacode-hub/HelloWorld/issues/9) in [prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld)
-3. ❗️ Closed issue [#191](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/191) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
-4. 🎉 Merged PR [#197](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/197) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+1. 🗣 Commented on [#424](https://github.com/prathimacode-hub/ML-ProjectKart/issues/424) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#5051](https://github.com/girlscript/winter-of-contributing/issues/5051) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#588](https://github.com/prathimacode-hub/ML-ProjectKart/issues/588) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. 🗣 Commented on [#136](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/136) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
