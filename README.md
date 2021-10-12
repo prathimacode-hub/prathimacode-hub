@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/7) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-2. 🗣 Commented on [#10](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/10) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-3. 🗣 Commented on [#37](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/37) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. 🗣 Commented on [#41](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/41) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+1. ❌ Closed PR [#11](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/11) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+2. ❌ Closed PR [#2](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/2) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+3. 🗣 Commented on [#11](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/11) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+4. 🗣 Commented on [#566](https://github.com/prathimacode-hub/ML-ProjectKart/issues/566) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 <!--END_SECTION:activity-->
 </details>
 
