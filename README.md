@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1025](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1025) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🎉 Merged PR [#1022](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1022) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#1018](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1018) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#1020](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1020) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#1035](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1035) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#1038](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1038) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🗣 Commented on [#1037](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1037) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#1031](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1031) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
