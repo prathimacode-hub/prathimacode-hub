@@ -1,6 +1,6 @@
+
 <h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>Projects by <a href="https://github.com/prathimacode-hub">@prathimacode-hub</a>
   </h1>
-<br><br> https://github.com/prathimacode-hub/VoxUp
 
 | :hash: | Project | Description | Repo Link |
 |:--------:|---------|-------------|-----------|
@@ -12,5 +12,6 @@
 | :six: | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | <br> This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and everything.   <br><br> | [@prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)|
 | :seven: | [E-Library](https://github.com/prathimacode-hub/E-Library) | <br> One stop place for all technical guidance on various topics and programming languages. <br><br> | [@prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library) |
 | :eight: | [HelloWorld](https://github.com/prathimacode-hub/HelloWorld) | <br> HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages. <br><br> | [@prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld) |
+
 
 <p align="center"><br><a href="#hugs-projects-by-prathimacode-hub--">:top:</a><br><sup><strong>Show <a href="https://github.com/prathimacode-hub?tab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://twitter.com/prathimak88"> <img src="https://img.shields.io/twitter/follow/prathimak88?style=social" /></a> <a href="https://github.com/prathimacode-hub/"><img src="https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social"> </a><br></p>
