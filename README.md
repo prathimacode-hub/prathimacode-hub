@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5803](https://github.com/girlscript/winter-of-contributing/issues/5803) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#5801](https://github.com/girlscript/winter-of-contributing/issues/5801) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#18](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/18) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-4. 🗣 Commented on [#19](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/19) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+1. 🎉 Merged PR [#5705](https://github.com/girlscript/winter-of-contributing/pull/5705) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ❌ Closed PR [#2663](https://github.com/girlscript/winter-of-contributing/pull/2663) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. ❌ Closed PR [#5686](https://github.com/girlscript/winter-of-contributing/pull/5686) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🎉 Merged PR [#5837](https://github.com/girlscript/winter-of-contributing/pull/5837) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
