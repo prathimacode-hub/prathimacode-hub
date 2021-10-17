@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1043](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1043) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Closed issue [#1034](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1034) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#1047](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1047) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#1050](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1050) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🎉 Merged PR [#20](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/20) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+2. 🗣 Commented on [#20](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/20) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+3. 🎉 Merged PR [#202](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/202) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. ❗️ Closed issue [#198](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/198) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
 <!--END_SECTION:activity-->
 </details>
 
