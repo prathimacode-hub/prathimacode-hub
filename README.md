@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/21) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-2. 🗣 Commented on [#21](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/21) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-3. 🎉 Merged PR [#588](https://github.com/prathimacode-hub/ML-ProjectKart/pull/588) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-4. 🎉 Merged PR [#6351](https://github.com/girlscript/winter-of-contributing/pull/6351) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#6365](https://github.com/girlscript/winter-of-contributing/issues/6365) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#6361](https://github.com/girlscript/winter-of-contributing/issues/6361) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🎉 Merged PR [#21](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/21) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+4. 🗣 Commented on [#21](https://github.com/prathimacode-hub/Hacktober-Fest-2021/issues/21) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
 <!--END_SECTION:activity-->
 </details>
 
