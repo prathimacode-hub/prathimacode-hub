@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1061](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1061) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#1059](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1059) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#1063](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1063) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#1057](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1057) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#187](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/187) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+2. 🎉 Merged PR [#201](https://github.com/prathimacode-hub/PyAlgo-Tree/pull/201) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+3. ❗️ Closed issue [#196](https://github.com/prathimacode-hub/PyAlgo-Tree/issues/196) in [prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)
+4. 🗣 Commented on [#1062](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1062) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
