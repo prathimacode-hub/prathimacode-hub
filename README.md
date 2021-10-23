@@ -9,8 +9,13 @@ or use it. It helps me a lot.
 
 <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp; 
 
+[![Linkedin Badge](https://img.shields.io/badge/-prathima-kadari-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
+[![Twitter Badge](https://img.shields.io/badge/-prathimak88-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
+[![Hashnode Badge](https://img.shields.io/badge/-@prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/)
+[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
+[![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
 
-<p align="center"> Global Regional Ambassador, India at <a href="https://www.buildwithai.com/">Hackmakers</a>🙌, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Training Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Supervisor & Mentor at <a href="https://gwoc.girlscript.tech/">Girlscript Winter Of Contributing</a>, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
+<p align="center"> Global Regional Ambassador, India at <a href="https://www.buildwithai.com/">Hackmakers</a>🙌, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Supervisor & Mentor at <a href="https://gwoc.girlscript.tech/">Girlscript Winter Of Contributing</a>, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
@@ -102,19 +107,33 @@ Follow Up and Subscribe to my Newsletter to get timely updates
       </table>
     </td>
     
-    
+
+**Testimonials📜**<br>
+
+In my whole life, I have never met someone like you. I met Prathima ma'am at LGMSOC, and she has mentored me ever since, including at the GWOC and Hacktoberfest. When I saw ma'am as my mentor, I really felt happy. When it comes to her kindness, she is always ready to help. When I first started with Open Source, I had no idea what the "O" stood for, but ma'am handled everything. Ma'am, there are no words to describe you, and I'd want to say that you are the best mentor I've ever seen in my life.
+Best of Luck for a Bright and Prosperous Future and Thank you so much again. - **Satyam Tripathi**, Open Source Contributor 
+
+I was in a tunnel finding a torch. You were like a torch barrier for my mam. Thank you so much for being an amazing mentor and super motivator for me. Because of you, now I can contribute to few projects. Thanks again a tons mam!! I wish you all the best in your beautiful career ❣. If the time comes again, I will be so happy to contribute to your projects. - **Manognya Dasika**, Open Source Contributor
+
+You were very great at your work 💯🎉. Not only you were a mentor to my project that I came up with, but also you were a complete support to me and helpful in designing and detailing the project overview to another level. Without your help and dedication, this project wouldn't have been this successful. Thanks a lot for that !! I'm always grateful for your support. - **Samarth M R**, Project Admin 
+
+Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best ma'am for your future. - **Abhishek Sharma**, Open Source Contributor
+
+
 **My Ultimate Highlights🎇**<br>
 
 Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | Hack Judge & Mentor | 3 * Hackathon Winner | GCCF | AWS ML | GitLab Certified | Technical Blogger | Pythonista | OpenSourcer | DevRel |
 
+
+- Nominated as "Mentor Of The Year" for Global Awards 2021 by WomenTech Network and received a Certificate of Recognition
 - Selected as Regional Ambassador at Hackmakers for #BuildwithAI Hackathon
-- Selected and Accepted into Google Cloud Computing Training Program
-- Selected and Accepted into AWS Machine Learning Scholarship at Udacity
-- Cybersecurity Intern at Forage Clifford Chance
+- Sucessfully completed my Google Cloud Computing Scholar Training Program and progressed further into into Career Readiness Program for ACE Track by Google
+- Wrapped my AWS Machine Learning Scholarship from Udacity
+- Served as a Cybersecurity Intern in Virtual Internship Program from Forage Clifford Chance
 - Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion, HackMakers, Creatica, HackOdisha, Shell Hacks
-- Hack Ambassador at Hack The Mountains
-- Project Admin, Supervisor and Mentor at Open Source Programs (Girlscript Winter of Contributing, LetsGrowMore Summer Of Code, DevIncept Contribution Program)
-- Open Source Enthusiast at Github
+- Served in a role of Hack Ambassador at Hack The Mountains
+- Project Admin, Supervisor and Mentor at Open Source Programs (Girlscript Winter of Contributing, LetsGrowMore Summer Of Code, DevIncept Contribution Program, Hacktoberfest)
+- Open Source Enthusiast and Contributor at Github
 - Hackathon Winner at HackYou, HackTable and Hackable
 - Secured Guiness World Record for taking part in AI for India event conducted by GUVI
 - Secured 50th position out of 6500+ hackers all around the world at Major League Hacking LHD : Share
@@ -122,8 +141,8 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 - Community Member at EddieHub and Guild Member representing EddieHub at various hackathons
 - Blogger at Hashnode (My Personal Blog)
 - Blogs sucessfully featured at Analytics Vidya
-- Secured Machine Learning Scholarship at Education Outreach Program by GirlScript Foundation
-- OpenSource Contributor at GirlScript Summer Of Code.
+- Completed my Machine Learning Scholarship as a part of Education Outreach Program by GirlScript Foundation
+- OpenSource Contributor/Participant at GirlScript Summer Of Code.
 - Former Research and Development Engineer/Embedded Development Engineer at Analogics Group Tech India Ltd & Inphinity Software Solutions Ltd.
 
 
@@ -154,6 +173,33 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
+
+<h4 align="center">Testimonials</h4>
+<h1 align="center">❝</h1>
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/git-satyam/">Satyam Tripathi</a></td>
+    <td>In my whole life, I have never met someone like you. I met Prathima ma'am at LGMSOC, and she has mentored me ever since, including at the GWOC and Hacktoberfest. When I saw ma'am as my mentor, I really felt happy. When it comes to her kindness, she is always ready to help. When I first started with Open Source, I had no idea what the "O" stood for, but ma'am handled everything. Ma'am, there are no words to describe you, and I'd want to say that you are the best mentor I've ever seen in my life.
+Best of Luck for a Bright and Prosperous Future and Thank you so much again.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/manognya-dasika-89396b1b7/">Manogyna Dasika</a></td>
+    <td>I was in a tunnel finding a torch. You were like a torch barrier for my mam. Thank you so much for being an amazing mentor and super motivator for me. Because of you, now I can contribute to few projects. Thanks again a tons mam!! I wish you all the best in your beautiful career ❣. If the time comes again, I will be so happy to contribute to your projects.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/samarthmr/">Samarth M R</a></td>
+    <td>You were very great at your work 💯🎉. Not only you were a mentor to my project that I came up with, but also you were a complete support to me and helpful in designing and detailing the project overview to another level. Without your help and dedication, this project wouldn't have been this successful. Thanks a lot for that !! I'm always grateful for your support.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/abhisheksharma7389/">Abhishek Sharma</a></td>
+    <td>Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best ma'am for your future.</td>
+  </tr>
+</table>
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
