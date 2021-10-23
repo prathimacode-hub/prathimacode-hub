@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/pull/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
-2. 💪 Opened PR [#31](https://github.com/devdeadviz/Hacktoberfest-2021/pull/31) in [devdeadviz/Hacktoberfest-2021](https://github.com/devdeadviz/Hacktoberfest-2021)
-3. 💪 Opened PR [#199](https://github.com/shikaruki/Hactoberfest2021/pull/199) in [shikaruki/Hactoberfest2021](https://github.com/shikaruki/Hactoberfest2021)
-4. 💪 Opened PR [#308](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/308) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+1. 💪 Opened PR [#65](https://github.com/BhimaniPinal/Hacktoberfest-2K21/pull/65) in [BhimaniPinal/Hacktoberfest-2K21](https://github.com/BhimaniPinal/Hacktoberfest-2K21)
+2. 💪 Opened PR [#43](https://github.com/vaishalijain3456/Hacktober_2021/pull/43) in [vaishalijain3456/Hacktober_2021](https://github.com/vaishalijain3456/Hacktober_2021)
+3. 💪 Opened PR [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/pull/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
+4. 💪 Opened PR [#31](https://github.com/devdeadviz/Hacktoberfest-2021/pull/31) in [devdeadviz/Hacktoberfest-2021](https://github.com/devdeadviz/Hacktoberfest-2021)
 <!--END_SECTION:activity-->
 </details>
 
