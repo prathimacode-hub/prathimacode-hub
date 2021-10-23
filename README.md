@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/issues/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
-2. 💪 Opened PR [#65](https://github.com/BhimaniPinal/Hacktoberfest-2K21/pull/65) in [BhimaniPinal/Hacktoberfest-2K21](https://github.com/BhimaniPinal/Hacktoberfest-2K21)
-3. 💪 Opened PR [#43](https://github.com/vaishalijain3456/Hacktober_2021/pull/43) in [vaishalijain3456/Hacktober_2021](https://github.com/vaishalijain3456/Hacktober_2021)
-4. 💪 Opened PR [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/pull/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
+1. 🗣 Commented on [#256](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/256) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
+2. 🗣 Commented on [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/issues/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
+3. 💪 Opened PR [#65](https://github.com/BhimaniPinal/Hacktoberfest-2K21/pull/65) in [BhimaniPinal/Hacktoberfest-2K21](https://github.com/BhimaniPinal/Hacktoberfest-2K21)
+4. 💪 Opened PR [#43](https://github.com/vaishalijain3456/Hacktober_2021/pull/43) in [vaishalijain3456/Hacktober_2021](https://github.com/vaishalijain3456/Hacktober_2021)
 <!--END_SECTION:activity-->
 </details>
 
