@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/256) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
-2. 🗣 Commented on [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/issues/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
-3. 💪 Opened PR [#65](https://github.com/BhimaniPinal/Hacktoberfest-2K21/pull/65) in [BhimaniPinal/Hacktoberfest-2K21](https://github.com/BhimaniPinal/Hacktoberfest-2K21)
-4. 💪 Opened PR [#43](https://github.com/vaishalijain3456/Hacktober_2021/pull/43) in [vaishalijain3456/Hacktober_2021](https://github.com/vaishalijain3456/Hacktober_2021)
+1. 🎉 Merged PR [#6478](https://github.com/girlscript/winter-of-contributing/pull/6478) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#6380](https://github.com/girlscript/winter-of-contributing/issues/6380) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#5810](https://github.com/girlscript/winter-of-contributing/issues/5810) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#5851](https://github.com/girlscript/winter-of-contributing/issues/5851) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
