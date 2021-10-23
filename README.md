@@ -7,13 +7,13 @@ or use it. It helps me a lot.
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
 
-<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://twitter.com/prathimak88"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://prathimakadari.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>&nbsp;&nbsp; 
 
-[![Linkedin Badge](https://img.shields.io/badge/-prathima-kadari-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
+[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
 [![Twitter Badge](https://img.shields.io/badge/-prathimak88-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
-[![Hashnode Badge](https://img.shields.io/badge/-@prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/-prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
+
 
 <p align="center"> Global Regional Ambassador, India at <a href="https://www.buildwithai.com/">Hackmakers</a>🙌, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Supervisor & Mentor at <a href="https://gwoc.girlscript.tech/">Girlscript Winter Of Contributing</a>, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
 
@@ -108,18 +108,6 @@ Follow Up and Subscribe to my Newsletter to get timely updates
     </td>
     
 
-**Testimonials📜**<br>
-
-In my whole life, I have never met someone like you. I met Prathima ma'am at LGMSOC, and she has mentored me ever since, including at the GWOC and Hacktoberfest. When I saw ma'am as my mentor, I really felt happy. When it comes to her kindness, she is always ready to help. When I first started with Open Source, I had no idea what the "O" stood for, but ma'am handled everything. Ma'am, there are no words to describe you, and I'd want to say that you are the best mentor I've ever seen in my life.
-Best of Luck for a Bright and Prosperous Future and Thank you so much again. - **Satyam Tripathi**, Open Source Contributor 
-
-I was in a tunnel finding a torch. You were like a torch barrier for my mam. Thank you so much for being an amazing mentor and super motivator for me. Because of you, now I can contribute to few projects. Thanks again a tons mam!! I wish you all the best in your beautiful career ❣. If the time comes again, I will be so happy to contribute to your projects. - **Manognya Dasika**, Open Source Contributor
-
-You were very great at your work 💯🎉. Not only you were a mentor to my project that I came up with, but also you were a complete support to me and helpful in designing and detailing the project overview to another level. Without your help and dedication, this project wouldn't have been this successful. Thanks a lot for that !! I'm always grateful for your support. - **Samarth M R**, Project Admin 
-
-Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best ma'am for your future. - **Abhishek Sharma**, Open Source Contributor
-
-
 **My Ultimate Highlights🎇**<br>
 
 Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | Hack Judge & Mentor | 3 * Hackathon Winner | GCCF | AWS ML | GitLab Certified | Technical Blogger | Pythonista | OpenSourcer | DevRel |
@@ -174,8 +162,8 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
 
-<h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1>
+
+**Testimonials📜**<br>
 
 <table>
   <tr>
