@@ -130,10 +130,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#199](https://github.com/shikaruki/Hactoberfest2021/pull/199) in [shikaruki/Hactoberfest2021](https://github.com/shikaruki/Hactoberfest2021)
-2. 💪 Opened PR [#308](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/308) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-3. 🗣 Commented on [#22](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/22) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🎉 Merged PR [#6488](https://github.com/girlscript/winter-of-contributing/pull/6488) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#38](https://github.com/piyushgoyal1620/HacktoberFest2021/pull/38) in [piyushgoyal1620/HacktoberFest2021](https://github.com/piyushgoyal1620/HacktoberFest2021)
+2. 💪 Opened PR [#31](https://github.com/devdeadviz/Hacktoberfest-2021/pull/31) in [devdeadviz/Hacktoberfest-2021](https://github.com/devdeadviz/Hacktoberfest-2021)
+3. 💪 Opened PR [#199](https://github.com/shikaruki/Hactoberfest2021/pull/199) in [shikaruki/Hactoberfest2021](https://github.com/shikaruki/Hactoberfest2021)
+4. 💪 Opened PR [#308](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/308) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 </details>
 
