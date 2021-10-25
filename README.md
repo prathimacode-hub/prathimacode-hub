@@ -5,7 +5,7 @@ or use it. It helps me a lot.
 
 <h2>HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 
-![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20Kadari's%20Cover.png>)
+![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
