@@ -137,10 +137,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4742](https://github.com/girlscript/winter-of-contributing/pull/4742) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🎉 Merged PR [#6696](https://github.com/girlscript/winter-of-contributing/pull/6696) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#6732](https://github.com/girlscript/winter-of-contributing/issues/6732) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#5802](https://github.com/girlscript/winter-of-contributing/issues/5802) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/EcoFlex/issues/1) in [prathimacode-hub/EcoFlex](https://github.com/prathimacode-hub/EcoFlex)
+2. 🎉 Merged PR [#4742](https://github.com/girlscript/winter-of-contributing/pull/4742) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🎉 Merged PR [#6696](https://github.com/girlscript/winter-of-contributing/pull/6696) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#6732](https://github.com/girlscript/winter-of-contributing/issues/6732) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
