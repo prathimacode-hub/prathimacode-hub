@@ -137,9 +137,9 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/EcoFlex/issues/1) in [prathimacode-hub/EcoFlex](https://github.com/prathimacode-hub/EcoFlex)
-2. 🗣 Commented on [#1](https://github.com/prathimacode-hub/EcoFlex/issues/1) in [prathimacode-hub/EcoFlex](https://github.com/prathimacode-hub/EcoFlex)
-3. 🗣 Commented on [#584](https://github.com/prathimacode-hub/ML-ProjectKart/issues/584) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🎉 Merged PR [#6793](https://github.com/girlscript/winter-of-contributing/pull/6793) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🎉 Merged PR [#6844](https://github.com/girlscript/winter-of-contributing/pull/6844) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🎉 Merged PR [#6792](https://github.com/girlscript/winter-of-contributing/pull/6792) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 4. 🗣 Commented on [#1](https://github.com/prathimacode-hub/EcoFlex/issues/1) in [prathimacode-hub/EcoFlex](https://github.com/prathimacode-hub/EcoFlex)
 <!--END_SECTION:activity-->
 </details>
