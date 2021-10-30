@@ -137,10 +137,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1004](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1004) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#6932](https://github.com/girlscript/winter-of-contributing/issues/6932) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#5853](https://github.com/girlscript/winter-of-contributing/issues/5853) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#572](https://github.com/prathimacode-hub/ML-ProjectKart/issues/572) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+1. 🗣 Commented on [#531](https://github.com/prathimacode-hub/ML-ProjectKart/issues/531) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#501](https://github.com/prathimacode-hub/ML-ProjectKart/issues/501) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. 🗣 Commented on [#514](https://github.com/prathimacode-hub/ML-ProjectKart/issues/514) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+4. ❗️ Closed issue [#1004](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1004) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
