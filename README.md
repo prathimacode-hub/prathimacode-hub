@@ -137,9 +137,9 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#594](https://github.com/prathimacode-hub/ML-ProjectKart/pull/594) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-2. ❗️ Closed issue [#424](https://github.com/prathimacode-hub/ML-ProjectKart/issues/424) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
-3. 🗣 Commented on [#6896](https://github.com/girlscript/winter-of-contributing/issues/6896) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🎉 Merged PR [#6912](https://github.com/girlscript/winter-of-contributing/pull/6912) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🎉 Merged PR [#594](https://github.com/prathimacode-hub/ML-ProjectKart/pull/594) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+3. ❗️ Closed issue [#424](https://github.com/prathimacode-hub/ML-ProjectKart/issues/424) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
 4. 🗣 Commented on [#6896](https://github.com/girlscript/winter-of-contributing/issues/6896) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
