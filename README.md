@@ -137,10 +137,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5628](https://github.com/girlscript/winter-of-contributing/issues/5628) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#1072](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1072) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#147](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/147) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
-4. 🗣 Commented on [#6951](https://github.com/girlscript/winter-of-contributing/issues/6951) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#5415](https://github.com/girlscript/winter-of-contributing/issues/5415) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#5628](https://github.com/girlscript/winter-of-contributing/issues/5628) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#1072](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1072) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#147](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/147) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
