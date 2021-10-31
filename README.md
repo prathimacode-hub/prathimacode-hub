@@ -137,10 +137,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/22) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-2. ❌ Closed PR [#19](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/19) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-3. ❌ Closed PR [#18](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/18) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
-4. 🎉 Merged PR [#23](https://github.com/prathimacode-hub/Hacktober-Fest-2021/pull/23) in [prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)
+1. ❗️ Closed issue [#137](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/137) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+2. 🗣 Commented on [#37](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/37) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+3. ❗️ Closed issue [#96](https://github.com/prathimacode-hub/DS-ScriptsNook/issues/96) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
+4. 🎉 Merged PR [#131](https://github.com/prathimacode-hub/DS-ScriptsNook/pull/131) in [prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)
 <!--END_SECTION:activity-->
 </details>
 
