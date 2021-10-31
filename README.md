@@ -137,10 +137,10 @@ Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | H
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6929](https://github.com/girlscript/winter-of-contributing/pull/6929) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#950](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/950) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#945](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/945) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#945](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/945) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🎉 Merged PR [#6865](https://github.com/girlscript/winter-of-contributing/pull/6865) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#6952](https://github.com/girlscript/winter-of-contributing/issues/6952) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#6951](https://github.com/girlscript/winter-of-contributing/issues/6951) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🎉 Merged PR [#6884](https://github.com/girlscript/winter-of-contributing/pull/6884) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
