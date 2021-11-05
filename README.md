@@ -14,8 +14,7 @@ or use it. It helps me a lot.
 [![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
 
-
-<p align="center"> Global Regional Ambassador, India at <a href="https://www.buildwithai.com/">Hackmakers</a>🙌, Cybersecurity Intern at <a href="https://www.theforage.com/show-firm-programs/qbcPPWhE6mhQeKgdy/Clifford-Chance?ref=u4BF3Y2hiBAAffSg9">Forage Clifford Chance</a>🍁, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🤳, AWS Machine Learning Scholar by <a href="https://www.udacity.com">Udacity</a>✔, Supervisor & Mentor at <a href="https://gwoc.girlscript.tech/">Girlscript Winter Of Contributing</a>, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer / Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Volunteer at <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>📍 & <a href="https://www.artofliving.org/in-en">Art of Living Organization</a>💡, Freelancer📜</p>
+<p align="center"> Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁, Supervisor at <a href="https://gwoc.girlscript.tech/">Girlscript Winter Of Contributing</a>, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p>
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
@@ -25,7 +24,6 @@ or use it. It helps me a lot.
 
 <p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
  
-
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
@@ -91,6 +89,10 @@ My Talks 🎙
 </td>
 </tr></table>
 
+**GitHub Stats🎯**<br>
+
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
  **Open Source Projects-Open for Contributions🥇**<br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
@@ -101,11 +103,6 @@ My Talks 🎙
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other open source projects.</sup>* <br>
 </td>
-
-
-**GitHub Stats🎯**<br>
-
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 
 <img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif' width='300"'>
