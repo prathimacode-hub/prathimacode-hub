@@ -91,7 +91,7 @@ My Talks 🎙
 
 **GitHub Stats🎯**<br>
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
  **Open Source Projects-Open for Contributions🥇**<br>
 
@@ -119,32 +119,6 @@ My Talks 🎙
         </tr>
       </table>
     </td>
-
-
-**My Ultimate Highlights🎇**<br>
-
-Embedded Engineer | Building Innovative Solutions | Supervisor & Mentor@GWOC | Hack Judge & Mentor | 3 * Hackathon Winner | GCCF | AWS ML | GitLab Certified | Technical Blogger | Pythonista | OpenSourcer | DevRel |
-
-
-- Nominated as "Mentor Of The Year" for Global Awards 2021 by WomenTech Network and received a Certificate of Recognition
-- Selected as Regional Ambassador at Hackmakers for #BuildwithAI Hackathon
-- Sucessfully completed my Google Cloud Computing Scholar Training Program and progressed further into into Career Readiness Program for ACE Track by Google
-- Wrapped my AWS Machine Learning Scholarship from Udacity
-- Served as a Cybersecurity Intern in Virtual Internship Program from Forage Clifford Chance
-- Hackathon Judge and Mentor at TOHacks, Hack 4 Inclusion, HackMakers, Creatica, HackOdisha, Shell Hacks
-- Served in a role of Hack Ambassador at Hack The Mountains
-- Project Admin, Supervisor and Mentor at Open Source Programs (Girlscript Winter of Contributing, LetsGrowMore Summer Of Code, DevIncept Contribution Program, Hacktoberfest)
-- Open Source Enthusiast and Contributor at Github
-- Hackathon Winner at HackYou, HackTable and Hackable
-- Secured Guiness World Record for taking part in AI for India event conducted by GUVI
-- Secured 50th position out of 6500+ hackers all around the world at Major League Hacking LHD : Share
-- Global Ambassador and Mentor at WomenTech Network
-- Community Member at EddieHub and Guild Member representing EddieHub at various hackathons
-- Blogger at Hashnode (My Personal Blog)
-- Blogs sucessfully featured at Analytics Vidya
-- Completed my Machine Learning Scholarship as a part of Education Outreach Program by GirlScript Foundation
-- OpenSource Contributor/Participant at GirlScript Summer Of Code.
-- Former Research and Development Engineer/Embedded Development Engineer at Analogics Group Tech India Ltd & Inphinity Software Solutions Ltd.
 
 
 <details><summary>Recent Activity📌</summary>
