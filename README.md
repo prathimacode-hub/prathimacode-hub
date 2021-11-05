@@ -28,22 +28,7 @@ or use it. It helps me a lot.
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
  
-**Digital Garden🌱**<br>
-
-<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif' width='300"'>
-
-➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
-Follow Up and Subscribe to my Newsletter to get timely updates
-
-- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
-- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
-- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-internet-of-things-iot)
-- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
-- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
-- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
-
  
 **Tech Toolbox🧰**<br>
 
@@ -76,6 +61,35 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Html.png" alt="HTML" width="40" height="40"/>
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Css.png" alt="CSS" width="40" height="40"/>
 
+ 
+**Digital Garden🌱**<br>
+
+<table><tr><td valign="top" width="50%">
+
+My Blog Posts 📜
+ 
+➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
+Follow Up and Subscribe to my Newsletter to get timely updates
+
+- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
+- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-internet-of-things-iot)
+- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+
+</td>
+<td valign="top" width="50%">
+
+My Talks 🎙
+ 
+➡️You can find my talks on topics [here]() <br>
+
+- Getting Started with Open Source as a Beginner - The Guiding Voice Podcast (Yet to be launched)
+- [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) - Hackmakers
+
+</td>
+</tr></table>
 
  **Open Source Projects-Open for Contributions🥇**<br>
 
@@ -94,6 +108,8 @@ Follow Up and Subscribe to my Newsletter to get timely updates
 <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 
+<img align='right' src='https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif' width='300"'>
+
 <td align="center">
       <strong> :octocat: Proud to be associated with this organisation :octocat: </strong><br>
       <table>
@@ -106,7 +122,7 @@ Follow Up and Subscribe to my Newsletter to get timely updates
         </tr>
       </table>
     </td>
-    
+
 
 **My Ultimate Highlights🎇**<br>
 
