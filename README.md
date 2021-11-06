@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7360](https://github.com/girlscript/winter-of-contributing/issues/7360) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#7364](https://github.com/girlscript/winter-of-contributing/issues/7364) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🗣 Commented on [#7354](https://github.com/girlscript/winter-of-contributing/issues/7354) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 🗣 Commented on [#7337](https://github.com/girlscript/winter-of-contributing/issues/7337) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#7239](https://github.com/girlscript/winter-of-contributing/issues/7239) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🗣 Commented on [#7360](https://github.com/girlscript/winter-of-contributing/issues/7360) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🗣 Commented on [#7364](https://github.com/girlscript/winter-of-contributing/issues/7364) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#7354](https://github.com/girlscript/winter-of-contributing/issues/7354) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
