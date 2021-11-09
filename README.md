@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7059](https://github.com/girlscript/winter-of-contributing/pull/7059) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. ❗️ Reopened issue [#1003](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1003) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#1003](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1003) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#6952](https://github.com/girlscript/winter-of-contributing/issues/6952) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. ❗️ Closed issue [#4169](https://github.com/girlscript/winter-of-contributing/issues/4169) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. ❗️ Closed issue [#2403](https://github.com/girlscript/winter-of-contributing/issues/2403) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. ❗️ Closed issue [#3177](https://github.com/girlscript/winter-of-contributing/issues/3177) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. ❗️ Closed issue [#3520](https://github.com/girlscript/winter-of-contributing/issues/3520) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
