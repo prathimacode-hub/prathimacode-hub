@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8428](https://github.com/girlscript/winter-of-contributing/pull/8428) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🗣 Commented on [#4751](https://github.com/girlscript/winter-of-contributing/issues/4751) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 🎉 Merged PR [#8423](https://github.com/girlscript/winter-of-contributing/pull/8423) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. ❗️ Closed issue [#347](https://github.com/girlscript/winter-of-contributing/issues/347) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🎉 Merged PR [#8431](https://github.com/girlscript/winter-of-contributing/pull/8431) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+2. 🎉 Merged PR [#8429](https://github.com/girlscript/winter-of-contributing/pull/8429) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+3. 🎉 Merged PR [#8428](https://github.com/girlscript/winter-of-contributing/pull/8428) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 🗣 Commented on [#4751](https://github.com/girlscript/winter-of-contributing/issues/4751) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 </details>
 
