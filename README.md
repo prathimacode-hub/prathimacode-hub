@@ -83,7 +83,7 @@ My Talks 🎙
  
 ➡️You can find my talks on topics [here]() <br>
 
-- [Getting Started with Open Source as a Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) - The Guiding Voice Podcast 
+- [Getting Started with Open Source as a Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) - The Guiding Voice 
 - [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) - Hackmakers
  
 </td>
