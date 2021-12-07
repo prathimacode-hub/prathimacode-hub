@@ -7,7 +7,13 @@
 - Collaborator at OmdenaLore Giga Chapter Challenge : Connecting every child and school to access Internet in Sudan (8 Weeks)
 - Project Admin & Mentor at Script Winter Of Code & Delta Winter Of Code
 - Google Cloud Career Readiness ACE Track Scholarship by Google
+- Ventured my Journey with StackOverflow as a Contributor and Developer to share my knowledge and answer out the queries on topics I'm really good at (Embedded Systems, DataScience, IoT and Python)
 - Post Graduate Diploma in IT Management at Symbiosis Centre for Distance Learning
+- I had recently starting out my journey with Stack Overflow as a contributor and developer to share my knowledge and answer out the queries on topics I'm really good at.
+
+Topics : Embedded Systems, Python, Machine Learning, Artificial Intelligence and IoT
+
+Excited to add my contribution and provide a meaningful value to this community. Working on getting familiarized with this platform.
 
 ### Completed
 
