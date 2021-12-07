@@ -124,7 +124,7 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#8599](https://github.com/girlscript/winter-of-contributing/pull/8599) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🗣 Commented on [#2](https://github.com/neha07kumari/Thief_Detection/issues/2) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 2. 🗣 Commented on [#8599](https://github.com/girlscript/winter-of-contributing/issues/8599) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 3. 🎉 Merged PR [#8945](https://github.com/girlscript/winter-of-contributing/pull/8945) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 4. ❗️ Closed issue [#370](https://github.com/girlscript/winter-of-contributing/issues/370) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
