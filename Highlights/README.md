@@ -1,5 +1,14 @@
 **My Ultimate Highlights🎇**<br>
 
+### Ongoing
+
+Lead Collaborator at Omdena Japan Chapter Challenge : Finding Paths to Safety Following Natural Disasters with Satellite Imaging and AI (4 Weeks)
+Lead Collaborator at Omdena Gujarat Chapter Challenge : Water Quality Monitoring Dashboard for Kutch Region (4 Weeks)
+Collaborator at OmdenaLore Giga Chapter Challenge : Connecting every child and school to access Internet in Sudan (8 Weeks)
+
+
+
+### Completed
 
 - Nominated as "Mentor Of The Year" for Global Awards 2021 by WomenTech Network and received a Certificate of Recognition
 - GitLab 101 Certified and Pythonista 
