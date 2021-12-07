@@ -7,11 +7,13 @@
 - Collaborator at OmdenaLore Giga Chapter Challenge : Connecting every child and school to access Internet in Sudan (8 Weeks)
 - Project Admin & Mentor at Script Winter Of Code & Delta Winter Of Code
 - Google Cloud Career Readiness ACE Track Scholarship by Google
+- Post Graduate Diploma in IT Management at Symbiosis Centre for Distance Learning
 
 ### Completed
 
 - Nominated as "Mentor Of The Year" for Global Awards 2021 by WomenTech Network and received a Certificate of Recognition
 - Certified Hats - GitLab 101 Certified and Pythonista 
+- Avid Speaker on trending topics at Hackmakers, The Guiding Voice and many more organizations
 - Project Admin, Supervisor, and Mentor at Open Source Programs (Girlscript Winter of Contributing, LetsGrowMore Summer Of Code, DevIncept Contribution Program, Hacktoberfest)
 - Hackathon Judge and Mentor - TOHacks, Hack 4 Inclusion, HackMakers #SmartCities Hack, Creatica, HackOdisha, Shell Hacks, Hackmakers #BuildWithAI, Girl Develop It
 - Active Open Source Developer / Contributor / Maintainer at GitHub and mentored over 260+ Students
