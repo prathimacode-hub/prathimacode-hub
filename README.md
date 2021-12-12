@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/prathimacode-hub/IoT-Spot/issues/32) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Opened issue [#31](https://github.com/prathimacode-hub/IoT-Spot/issues/31) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. ❗️ Opened issue [#30](https://github.com/prathimacode-hub/IoT-Spot/issues/30) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Opened issue [#29](https://github.com/prathimacode-hub/IoT-Spot/issues/29) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. ❗️ Opened issue [#33](https://github.com/prathimacode-hub/IoT-Spot/issues/33) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#32](https://github.com/prathimacode-hub/IoT-Spot/issues/32) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#31](https://github.com/prathimacode-hub/IoT-Spot/issues/31) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Opened issue [#30](https://github.com/prathimacode-hub/IoT-Spot/issues/30) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
