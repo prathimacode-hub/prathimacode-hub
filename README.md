@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/neha07kumari/Thief_Detection/issues/2) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-2. 🗣 Commented on [#2](https://github.com/neha07kumari/Thief_Detection/issues/2) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-3. 🎉 Merged PR [#8945](https://github.com/girlscript/winter-of-contributing/pull/8945) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. ❗️ Closed issue [#370](https://github.com/girlscript/winter-of-contributing/issues/370) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. ❗️ Opened issue [#10](https://github.com/prathimacode-hub/IoT-Spot/issues/10) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#9](https://github.com/prathimacode-hub/IoT-Spot/issues/9) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#8](https://github.com/prathimacode-hub/IoT-Spot/issues/8) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/IoT-Spot/issues/7) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
