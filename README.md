@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/prathimacode-hub/IoT-Spot/issues/23) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🎉 Merged PR [#36](https://github.com/prathimacode-hub/IoT-Spot/pull/36) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. ❗️ Opened issue [#5](https://github.com/neha07kumari/Thief_Detection/issues/5) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. 🗣 Commented on [#10](https://github.com/prathimacode-hub/IoT-Spot/issues/10) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🎉 Merged PR [#37](https://github.com/prathimacode-hub/IoT-Spot/pull/37) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Closed issue [#10](https://github.com/prathimacode-hub/IoT-Spot/issues/10) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#11](https://github.com/prathimacode-hub/IoT-Spot/issues/11) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Closed issue [#23](https://github.com/prathimacode-hub/IoT-Spot/issues/23) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
