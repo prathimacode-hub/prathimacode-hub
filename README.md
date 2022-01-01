@@ -125,9 +125,9 @@ My Talks 🎙
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/neha07kumari/Thief_Detection/issues/4) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-2. 🗣 Commented on [#1076](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1076) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. 🗣 Commented on [#1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#4](https://github.com/neha07kumari/Thief_Detection/issues/4) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+3. 🗣 Commented on [#1076](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1076) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
 
