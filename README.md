@@ -124,10 +124,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8736](https://github.com/girlscript/winter-of-contributing/issues/8736) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-2. 🎉 Merged PR [#1077](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1077) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#1076](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1076) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#4](https://github.com/neha07kumari/Thief_Detection/issues/4) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+1. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+2. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+3. ❗️ Closed issue [#4](https://github.com/neha07kumari/Thief_Detection/issues/4) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+4. 🗣 Commented on [#7](https://github.com/neha07kumari/Thief_Detection/issues/7) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
 
