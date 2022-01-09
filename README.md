@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/IoT-Spot/issues/4) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Closed issue [#7](https://github.com/neha07kumari/Thief_Detection/issues/7) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-3. 🎉 Merged PR [#15](https://github.com/neha07kumari/Thief_Detection/pull/15) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. 🗣 Commented on [#11](https://github.com/neha07kumari/Thief_Detection/issues/11) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+1. 🎉 Merged PR [#2](https://github.com/prathimacode-hub/Open-Source-Programs/pull/2) in [prathimacode-hub/Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs)
+2. ❗️ Closed issue [#1](https://github.com/prathimacode-hub/Open-Source-Programs/issues/1) in [prathimacode-hub/Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs)
+3. 🗣 Commented on [#2](https://github.com/prathimacode-hub/Open-Source-Programs/issues/2) in [prathimacode-hub/Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs)
+4. 🗣 Commented on [#4](https://github.com/prathimacode-hub/IoT-Spot/issues/4) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
