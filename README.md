@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1023](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1023) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+1. 🗣 Commented on [#537](https://github.com/prathimacode-hub/ML-ProjectKart/issues/537) in [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)
+2. 🗣 Commented on [#1023](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1023) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 3. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. 🗣 Commented on [#34](https://github.com/prathimacode-hub/IoT-Spot/issues/34) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#6](https://github.com/neha07kumari/Thief_Detection/issues/6) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
 
