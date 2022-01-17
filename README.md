@@ -126,8 +126,8 @@ My Talks 🎙
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-2. 🗣 Commented on [#8](https://github.com/neha07kumari/Thief_Detection/issues/8) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-3. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+2. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+3. 🗣 Commented on [#8](https://github.com/neha07kumari/Thief_Detection/issues/8) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 4. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
