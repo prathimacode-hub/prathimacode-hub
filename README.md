@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/AI-For-Road-Safety/pull/1) in [prathimacode-hub/AI-For-Road-Safety](https://github.com/prathimacode-hub/AI-For-Road-Safety)
-2. 💪 Opened PR [#1](https://github.com/prathimacode-hub/AI-For-Road-Safety/pull/1) in [prathimacode-hub/AI-For-Road-Safety](https://github.com/prathimacode-hub/AI-For-Road-Safety)
-3. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. 🗣 Commented on [#9](https://github.com/neha07kumari/Thief_Detection/issues/9) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+1. 🗣 Commented on [#17](https://github.com/neha07kumari/Thief_Detection/issues/17) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+2. 🗣 Commented on [#18](https://github.com/neha07kumari/Thief_Detection/issues/18) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+3. 🎉 Merged PR [#16](https://github.com/neha07kumari/Thief_Detection/pull/16) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+4. ❗️ Closed issue [#11](https://github.com/neha07kumari/Thief_Detection/issues/11) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
 
