@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/neha07kumari/Thief_Detection/issues/17) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-2. 🗣 Commented on [#18](https://github.com/neha07kumari/Thief_Detection/issues/18) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-3. 🎉 Merged PR [#16](https://github.com/neha07kumari/Thief_Detection/pull/16) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
-4. ❗️ Closed issue [#11](https://github.com/neha07kumari/Thief_Detection/issues/11) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+1. 🗣 Commented on [#5](https://github.com/prathimacode-hub/IoT-Spot/issues/5) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#17](https://github.com/neha07kumari/Thief_Detection/issues/17) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+3. 🗣 Commented on [#18](https://github.com/neha07kumari/Thief_Detection/issues/18) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+4. 🎉 Merged PR [#16](https://github.com/neha07kumari/Thief_Detection/pull/16) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
 <!--END_SECTION:activity-->
 </details>
 
