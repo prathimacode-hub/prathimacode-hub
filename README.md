@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/prathimacode-hub/IoT-Spot/pull/46) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Closed issue [#8](https://github.com/prathimacode-hub/IoT-Spot/issues/8) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#8](https://github.com/prathimacode-hub/IoT-Spot/issues/8) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/Safest-Path-During-Earthquakes/pull/1) in [prathimacode-hub/Safest-Path-During-Earthquakes](https://github.com/prathimacode-hub/Safest-Path-During-Earthquakes)
+1. 🗣 Commented on [#13](https://github.com/prathimacode-hub/IoT-Spot/issues/13) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🎉 Merged PR [#46](https://github.com/prathimacode-hub/IoT-Spot/pull/46) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Closed issue [#8](https://github.com/prathimacode-hub/IoT-Spot/issues/8) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#8](https://github.com/prathimacode-hub/IoT-Spot/issues/8) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
