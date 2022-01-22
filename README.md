@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/prathimacode-hub/IoT-Spot/issues/13) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🎉 Merged PR [#47](https://github.com/prathimacode-hub/IoT-Spot/pull/47) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🎉 Merged PR [#1080](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1080) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. ❗️ Closed issue [#1081](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1081) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. 🗣 Commented on [#932](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/932) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Closed issue [#13](https://github.com/prathimacode-hub/IoT-Spot/issues/13) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🎉 Merged PR [#47](https://github.com/prathimacode-hub/IoT-Spot/pull/47) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🎉 Merged PR [#1080](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1080) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
