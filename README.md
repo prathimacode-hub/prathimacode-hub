@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/Treksy/pull/1) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 💪 Opened PR [#1](https://github.com/prathimacode-hub/Treksy/pull/1) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🎉 Merged PR [#1082](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1082) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. ❗️ Closed issue [#932](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/932) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+1. ❗️ Opened issue [#2](https://github.com/prathimacode-hub/MedFlare/issues/2) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. ❗️ Opened issue [#1](https://github.com/prathimacode-hub/MedFlare/issues/1) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/Treksy/pull/1) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 💪 Opened PR [#1](https://github.com/prathimacode-hub/Treksy/pull/1) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
