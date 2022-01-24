@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1083](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1083) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. 💪 Opened PR [#1083](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1083) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/Ezy-Parking/pull/1) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
-4. 💪 Opened PR [#1](https://github.com/prathimacode-hub/Ezy-Parking/pull/1) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
+1. 🎉 Merged PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+2. 💪 Opened PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+3. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/FarmArk/pull/1) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+4. 💪 Opened PR [#1](https://github.com/prathimacode-hub/FarmArk/pull/1) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
 <!--END_SECTION:activity-->
 </details>
 
