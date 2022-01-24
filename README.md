@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/Treksy/issues/7) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. ❗️ Opened issue [#6](https://github.com/prathimacode-hub/Treksy/issues/6) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. ❗️ Opened issue [#6](https://github.com/prathimacode-hub/MedFlare/issues/6) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. ❗️ Opened issue [#5](https://github.com/prathimacode-hub/Treksy/issues/5) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🎉 Merged PR [#1083](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1083) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 💪 Opened PR [#1083](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1083) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+3. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/Ezy-Parking/pull/1) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
+4. 💪 Opened PR [#1](https://github.com/prathimacode-hub/Ezy-Parking/pull/1) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
 <!--END_SECTION:activity-->
 </details>
 
