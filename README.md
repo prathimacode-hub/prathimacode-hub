@@ -125,10 +125,10 @@ My Talks 🎙
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-2. 💪 Opened PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-3. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/FarmArk/pull/1) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-4. 💪 Opened PR [#1](https://github.com/prathimacode-hub/FarmArk/pull/1) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+1. 🗣 Commented on [#27](https://github.com/prathimacode-hub/IoT-Spot/issues/27) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🎉 Merged PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+3. 💪 Opened PR [#2](https://github.com/prathimacode-hub/FarmArk/pull/2) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+4. 🎉 Merged PR [#1](https://github.com/prathimacode-hub/FarmArk/pull/1) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
 <!--END_SECTION:activity-->
 </details>
 
