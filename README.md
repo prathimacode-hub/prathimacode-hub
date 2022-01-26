@@ -164,9 +164,9 @@ Research Publications 🖊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/TollRoll/issues/1) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
-2. 🎉 Merged PR [#1089](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1089) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. ❗️ Closed issue [#1086](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1086) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-4. 🗣 Commented on [#1087](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1087) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. 🗣 Commented on [#1](https://github.com/prathimacode-hub/TollRoll/issues/1) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+3. 🎉 Merged PR [#1089](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1089) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+4. ❗️ Closed issue [#1086](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1086) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
 <!--END_SECTION:activity-->
 </details>
 
