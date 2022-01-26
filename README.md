@@ -8,9 +8,9 @@ or use it. It helps me a lot.
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
+<p align="center">[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
 [![Twitter Badge](https://img.shields.io/badge/-prathimak88-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
-[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)</p>
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/)
 [![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/) -->
 
