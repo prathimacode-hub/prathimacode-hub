@@ -7,14 +7,16 @@ or use it. It helps me a lot.
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
-
-<p align="center">[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
+[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
 [![Twitter Badge](https://img.shields.io/badge/-prathimak88-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
-[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)</p>
+[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
+
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/)
 [![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/) -->
 
-<p align="center"> Lead Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, <!--Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁,--> Project Admin & Mentor at <a href="https://swoc.scriptindia.org/#/">Script Winter Of Code</a> & <a href="https://dwoc.io/">Delta Winter Of Code</a>✔, Speaker🎙, <!--Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩,--> Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p>
+<!-- <p align="center"> Lead Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁, Project Admin & Mentor at <a href="https://swoc.scriptindia.org/#/">Script Winter Of Code</a> & <a href="https://dwoc.io/">Delta Winter Of Code</a>✔, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p> -->
+
+
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
