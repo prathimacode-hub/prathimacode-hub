@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1091](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pull/1091) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-2. ❗️ Closed issue [#1090](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1090) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
-3. 🗣 Commented on [#4](https://github.com/prathimacode-hub/Treksy/issues/4) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🗣 Commented on [#6](https://github.com/prathimacode-hub/TollRoll/issues/6) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+1. 🗣 Commented on [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+2. ❗️ Opened issue [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+3. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/TollRoll/issues/7) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+4. 🎉 Merged PR [#6](https://github.com/prathimacode-hub/TollRoll/pull/6) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
 <!--END_SECTION:activity-->
 </details>
 
