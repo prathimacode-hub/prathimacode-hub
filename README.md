@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/prathimacode-hub/MedFlare/issues/1) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#6](https://github.com/prathimacode-hub/MedFlare/issues/6) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. 🗣 Commented on [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
-4. ❗️ Opened issue [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
+1. 🗣 Commented on [#4](https://github.com/prathimacode-hub/MedFlare/issues/4) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. 🗣 Commented on [#1](https://github.com/prathimacode-hub/MedFlare/issues/1) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. 🗣 Commented on [#6](https://github.com/prathimacode-hub/MedFlare/issues/6) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
 <!--END_SECTION:activity-->
 </details>
 
