@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/prathimacode-hub/MedFlare/issues/8) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. ❗️ Opened issue [#11](https://github.com/prathimacode-hub/Treksy/issues/11) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. ❗️ Opened issue [#9](https://github.com/prathimacode-hub/Treksy/issues/9) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. ❗️ Opened issue [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. ❗️ Opened issue [#8](https://github.com/prathimacode-hub/MedFlare/issues/8) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. ❗️ Opened issue [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. ❗️ Opened issue [#11](https://github.com/prathimacode-hub/Treksy/issues/11) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
