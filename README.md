@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/prathimacode-hub/MedFlare/issues/12) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#12](https://github.com/prathimacode-hub/MedFlare/issues/12) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. 🗣 Commented on [#13](https://github.com/prathimacode-hub/Treksy/issues/13) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🗣 Commented on [#12](https://github.com/prathimacode-hub/MedFlare/issues/12) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#1084](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues/1084) in [prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+2. ❗️ Closed issue [#8](https://github.com/prathimacode-hub/MedFlare/issues/8) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. ❌ Closed PR [#10](https://github.com/prathimacode-hub/MedFlare/pull/10) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🎉 Merged PR [#13](https://github.com/prathimacode-hub/MedFlare/pull/13) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 <!--END_SECTION:activity-->
 </details>
 
