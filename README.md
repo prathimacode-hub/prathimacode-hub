@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#8](https://github.com/prathimacode-hub/MedFlare/issues/8) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. 🗣 Commented on [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 3. 🗣 Commented on [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. 🗣 Commented on [#8](https://github.com/prathimacode-hub/MedFlare/issues/8) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 <!--END_SECTION:activity-->
 </details>
 
