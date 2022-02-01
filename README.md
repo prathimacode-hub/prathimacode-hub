@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/prathimacode-hub/Treksy/issues/14) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 2. 🗣 Commented on [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. 🗣 Commented on [#7](https://github.com/prathimacode-hub/MedFlare/issues/7) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. 🗣 Commented on [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. 🗣 Commented on [#10](https://github.com/prathimacode-hub/MedFlare/issues/10) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#4](https://github.com/prathimacode-hub/Treksy/issues/4) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
