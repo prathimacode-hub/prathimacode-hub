@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/prathimacode-hub/Treksy/pull/27) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. ❗️ Closed issue [#25](https://github.com/prathimacode-hub/Treksy/issues/25) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🎉 Merged PR [#2](https://github.com/prathimacode-hub/AI-For-Road-Safety/pull/2) in [prathimacode-hub/AI-For-Road-Safety](https://github.com/prathimacode-hub/AI-For-Road-Safety)
-4. 🗣 Commented on [#10](https://github.com/prathimacode-hub/Treksy/issues/10) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🗣 Commented on [#21](https://github.com/prathimacode-hub/MedFlare/issues/21) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Treksy/issues/17) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#10](https://github.com/prathimacode-hub/Treksy/issues/10) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🎉 Merged PR [#27](https://github.com/prathimacode-hub/Treksy/pull/27) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
