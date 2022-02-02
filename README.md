@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/prathimacode-hub/Treksy/pull/18) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. ❗️ Closed issue [#13](https://github.com/prathimacode-hub/Treksy/issues/13) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🎉 Merged PR [#14](https://github.com/prathimacode-hub/MedFlare/pull/14) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. ❗️ Closed issue [#9](https://github.com/prathimacode-hub/MedFlare/issues/9) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Treksy/issues/17) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Treksy/issues/17) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#15](https://github.com/prathimacode-hub/MedFlare/issues/15) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Treksy/issues/17) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
