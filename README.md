@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/prathimacode-hub/MedFlare/issues/19) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🎉 Merged PR [#22](https://github.com/prathimacode-hub/MedFlare/pull/22) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. ❗️ Closed issue [#5](https://github.com/prathimacode-hub/MedFlare/issues/5) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. 🗣 Commented on [#19](https://github.com/prathimacode-hub/MedFlare/issues/19) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#5](https://github.com/neha07kumari/Thief_Detection/issues/5) in [neha07kumari/Thief_Detection](https://github.com/neha07kumari/Thief_Detection)
+2. 🗣 Commented on [#19](https://github.com/prathimacode-hub/MedFlare/issues/19) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. 🎉 Merged PR [#22](https://github.com/prathimacode-hub/MedFlare/pull/22) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. ❗️ Closed issue [#5](https://github.com/prathimacode-hub/MedFlare/issues/5) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 <!--END_SECTION:activity-->
 </details>
 
