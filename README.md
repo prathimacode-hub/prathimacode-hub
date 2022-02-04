@@ -164,9 +164,9 @@ Research Publications 🖊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/prathimacode-hub/MedFlare/issues/18) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#26](https://github.com/prathimacode-hub/MedFlare/issues/26) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+2. 🗣 Commented on [#18](https://github.com/prathimacode-hub/MedFlare/issues/18) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 3. 🗣 Commented on [#26](https://github.com/prathimacode-hub/MedFlare/issues/26) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. 🎉 Merged PR [#25](https://github.com/prathimacode-hub/MedFlare/pull/25) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#26](https://github.com/prathimacode-hub/MedFlare/issues/26) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 <!--END_SECTION:activity-->
 </details>
 
