@@ -164,9 +164,9 @@ Research Publications 🖊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/prathimacode-hub/Treksy/issues/37) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#24](https://github.com/prathimacode-hub/Treksy/issues/24) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. 🗣 Commented on [#35](https://github.com/prathimacode-hub/Treksy/issues/35) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🗣 Commented on [#37](https://github.com/prathimacode-hub/Treksy/issues/37) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#37](https://github.com/prathimacode-hub/Treksy/issues/37) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#24](https://github.com/prathimacode-hub/Treksy/issues/24) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🗣 Commented on [#35](https://github.com/prathimacode-hub/Treksy/issues/35) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
