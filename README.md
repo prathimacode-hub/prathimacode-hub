@@ -163,10 +163,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/prathimacode-hub/Treksy/issues/32) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-2. 🗣 Commented on [#8](https://github.com/prathimacode-hub/TollRoll/issues/8) in [prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll)
-3. 🗣 Commented on [#34](https://github.com/prathimacode-hub/IoT-Spot/issues/34) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🎉 Merged PR [#51](https://github.com/prathimacode-hub/IoT-Spot/pull/51) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#17](https://github.com/prathimacode-hub/Treksy/issues/17) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#30](https://github.com/prathimacode-hub/Treksy/issues/30) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+3. 🗣 Commented on [#47](https://github.com/prathimacode-hub/Treksy/issues/47) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🎉 Merged PR [#51](https://github.com/prathimacode-hub/Treksy/pull/51) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
