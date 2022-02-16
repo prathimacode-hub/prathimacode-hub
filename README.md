@@ -164,9 +164,9 @@ Research Publications 🖊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/prathimacode-hub/MedFlare/issues/3) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#50](https://github.com/prathimacode-hub/Treksy/issues/50) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+2. 🗣 Commented on [#3](https://github.com/prathimacode-hub/MedFlare/issues/3) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 3. 🗣 Commented on [#50](https://github.com/prathimacode-hub/Treksy/issues/50) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. 🎉 Merged PR [#30](https://github.com/prathimacode-hub/Treksy/pull/30) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+4. 🗣 Commented on [#50](https://github.com/prathimacode-hub/Treksy/issues/50) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
