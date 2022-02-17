@@ -16,9 +16,6 @@ or use it. It helps me a lot.
 
 <!-- <p align="center"> Lead Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁, Project Admin & Mentor at <a href="https://swoc.scriptindia.org/#/">Script Winter Of Code</a> & <a href="https://dwoc.io/">Delta Winter Of Code</a>✔, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p> -->
 
-
-ooking to Colaborate
-
 - Currently working as a Junior ML Engineer at Omdena with project : Silicon Valley Climate Change to Reduce the Energy Consumption of Buildings
 - Building a Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living
 - Project Admin & Mentor for Open Source Programs : JGEC Winter Of Code and Script Winter Of Code
