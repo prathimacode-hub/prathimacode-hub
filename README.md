@@ -17,6 +17,17 @@ or use it. It helps me a lot.
 <!-- <p align="center"> Lead Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁, Project Admin & Mentor at <a href="https://swoc.scriptindia.org/#/">Script Winter Of Code</a> & <a href="https://dwoc.io/">Delta Winter Of Code</a>✔, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p> -->
 
 
+ooking to Colaborate
+
+- Currently working as a Junior ML Engineer at Omdena with project : Silicon Valley Climate Change to Reduce the Energy Consumption of Buildings
+- Building a Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living
+- Project Admin & Mentor for Open Source Programs : JGEC Winter Of Code and Script Winter Of Code
+- Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts
+- Project Maintainer for more than 10+ projects and Stands up in 4th positon all over India from the list of Most Active Github Users. You can check it here : https://commits.top/india_public.html
+- Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and invited to be a "Jury Member" for Global StartUp Awards Africa
+- Embedded Systems | Pythonista | Internet Of Things | Data Science | Google Cloud Ready
+- Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". 
+- Looking to Collaborate on 
 
 <p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
@@ -186,6 +197,21 @@ Research Publications 🖊
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/prathimacode-hub">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+
+<p align="center">
+  <a href='https://github.com/prathimacode-hub/'>
+    <img width="75%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/master/metrics.svg"/>
+    <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/master/metrics.detailed.svg" width="75%"/>
+  </a>
 </p>
 
 
