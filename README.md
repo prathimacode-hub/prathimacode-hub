@@ -53,7 +53,7 @@ or use it. It helps me a lot.
 I would like to connect with you, so don't hesitate to ping me on above handles🤝. If you are interested to discuss any further, I am always open for a conversation!😃✔
 
 ▶️ You can reach out to me here at [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) and [Twitter](https://twitter.com/prathimak88) <br>
-▶️ Anything official or technical, drop off your mail to "kadariprathima4@gmail.com" for further detailed discussions. <br>
+▶️ Anything official or technical, drop off your mail for further detailed discussions. <br>
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
