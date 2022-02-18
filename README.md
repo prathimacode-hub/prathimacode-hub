@@ -19,21 +19,36 @@ or use it. It helps me a lot.
 - Currently working as a Junior ML Engineer at Omdena with project : Silicon Valley Climate Change to Reduce the Energy Consumption of Buildings
 - Building a Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living
 - Project Admin & Mentor for Open Source Programs : JGEC Winter Of Code and Script Winter Of Code
-- Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts
-- Project Maintainer for more than 10+ projects and Stands up in 4th positon all over India from the list of Most Active Github Users. You can check it here : https://commits.top/india_public.html
+- Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around
+- Project Maintainer for more than 10+ projects and Stands up in 4th positon for contributions and 6th position for commits all over India from the list of Most Active Github Users. You can check it here : https://commits.top/india_public.html
 - Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and invited to be a "Jury Member" for Global StartUp Awards Africa
 - Embedded Systems | Pythonista | Internet Of Things | Data Science | Google Cloud Ready
 - Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". 
-- Looking to Collaborate on 
+- Looking to Collaborate on Freelancing and Projects related to Data Science, Web Development, Internet Of Things, Applications on Python and Embedded C
 
-<p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
+<p align="left">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
-<p align="center">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>🙋‍♀️</p>
+<p align="left">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>🙋‍♀️</p>
 
-<p align="center">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p>
+<p align="left">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p>
 
-<p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
  
+💡How Could I Add My Value?
+
+- I’m open for mentoring students in field of Data Science, IoT, Web Development and Embedded Systems. I have mentored 800+ students so far and looking forward to do more.
+
+- You can count me in for opportunities on topics I abide by & opportunities on creating and reviewing technical contents related to the domains I'm into. 
+
+- Do ping me for giving talks on topics related to Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking and Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. 
+
+✔Want to have a conversation with me?
+
+<p align="left">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to ping out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
+
+▶️ You can reach out to me hereat [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) and [Twitter](https://twitter.com/prathimak88)
+▶️ Anything official or technical, drop off your mail to "kadariprathima4@gmail.com" for further Meet discussions.
+
+
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
@@ -77,7 +92,7 @@ or use it. It helps me a lot.
 
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/TechStack/Linux.png" alt="Linux" width="40" height="40"/>
 
- 
+<!-- 
 **Digital Garden🌱**<br>
 
 <table><tr><td valign="top" width="50%">
@@ -86,26 +101,27 @@ Blog Articles 📜
  
 <!-- ➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
 Follow Up and Subscribe to my Newsletter to get timely updates -->
-
+<!--
 - [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
 - [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
 - [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-internet-of-things-iot)
 - [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
 - [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
-- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans)
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans) 
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%"> -->
 
+<!-- 
 SpeakUps 🎙
  
-<!-- ➡️You can find my talks on topics [here]() <br> -->
+➡️You can find my talks on topics [here]() <br>
 
 - [Getting Started with Open Source as a Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) - The Guiding Voice 
 - [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) - Hackmakers
- 
+
 </td>
-</tr></table>
+</tr></table> -->
 
 <!-- <table><tr><td valign="top" width="50%">
 
@@ -196,7 +212,7 @@ Research Publications 🖊
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
 
-
+<!--
 <p align="center">
   <a href="https://github.com/prathimacode-hub">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -209,7 +225,7 @@ Research Publications 🖊
     <img width="75%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/master/metrics.svg"/>
     <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
-</p>
+</p> -->
 
 
 **Testimonials📜**<br>
