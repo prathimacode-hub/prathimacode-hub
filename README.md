@@ -27,11 +27,16 @@ or use it. It helps me a lot.
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 👯Looking to Collaborate on Freelancing and Projects related to Data Science, Web Development, Internet Of Things, Applications on Python and Embedded C. <br>
 
-<p align="left">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
+💪Passionate on exploring and upskilling myself💭, I believe in giving my best and add worth to whatever task I take up📌. Life is too short to explore all and more I learn, the more I grow💻. Wanna check out my resume and portfolio, stay tuned. <br>
+
+⚡I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. To know more about me, you can peek in [here](https://github.com/prathimacode-hub/prathimacode-hub). Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most. <br>
+
+<!-- 
+<p align="left">Wanna check out my resume, <a href="https://www.linkedin.com/in/prathima-kadari/">here it is</a>💪</p>
 
 <p align="left">I'm presently working on building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/prathima-kadari/">here</a>🙋‍♀️</p>
 
-<p align="left">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p>
+<p align="left">I am a Gypsy Girl 💖 and I like to spend my time in leveraging my skills 💪, attending various events & conferences🗓️, contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most</p> -->
 
  
 💡How Could I Add My Value?
