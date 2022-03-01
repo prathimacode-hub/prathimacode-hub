@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/prathimacode-hub/IoT-Spot/issues/25) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#56](https://github.com/prathimacode-hub/IoT-Spot/issues/56) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#52](https://github.com/prathimacode-hub/IoT-Spot/issues/52) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#53](https://github.com/prathimacode-hub/IoT-Spot/issues/53) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#53](https://github.com/prathimacode-hub/IoT-Spot/issues/53) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Closed issue [#1](https://github.com/prathimacode-hub/IoT-Spot/issues/1) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#9](https://github.com/prathimacode-hub/IoT-Spot/issues/9) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#17](https://github.com/prathimacode-hub/IoT-Spot/issues/17) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
