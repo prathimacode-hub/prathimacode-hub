@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/86) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-2. 🗣 Commented on [#70](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/70) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-3. 🗣 Commented on [#67](https://github.com/prathimacode-hub/IoT-Spot/issues/67) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#41](https://github.com/prathimacode-hub/MedFlare/issues/41) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#69](https://github.com/prathimacode-hub/IoT-Spot/issues/69) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#55](https://github.com/prathimacode-hub/IoT-Spot/issues/55) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 💪 Opened PR [#86](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/86) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+4. 🗣 Commented on [#70](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/70) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
 <!--END_SECTION:activity-->
 </details>
 
