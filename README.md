@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/58) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-2. 💪 Opened PR [#57](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/57) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-3. 🎉 Merged PR [#61](https://github.com/prathimacode-hub/IoT-Spot/pull/61) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#7](https://github.com/prathimacode-hub/IoT-Spot/issues/7) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 💪 Opened PR [#59](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/59) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+2. 💪 Opened PR [#58](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/58) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+3. 💪 Opened PR [#57](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/57) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+4. 🎉 Merged PR [#61](https://github.com/prathimacode-hub/IoT-Spot/pull/61) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
