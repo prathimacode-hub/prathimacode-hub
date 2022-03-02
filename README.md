@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/prathimacode-hub/MedFlare/issues/41) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🗣 Commented on [#36](https://github.com/prathimacode-hub/MedFlare/issues/36) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. 🗣 Commented on [#37](https://github.com/prathimacode-hub/MedFlare/issues/37) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. ❗️ Opened issue [#41](https://github.com/prathimacode-hub/MedFlare/issues/41) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🗣 Commented on [#67](https://github.com/prathimacode-hub/IoT-Spot/issues/67) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#41](https://github.com/prathimacode-hub/MedFlare/issues/41) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+3. 🗣 Commented on [#36](https://github.com/prathimacode-hub/MedFlare/issues/36) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🗣 Commented on [#37](https://github.com/prathimacode-hub/MedFlare/issues/37) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
 <!--END_SECTION:activity-->
 </details>
 
