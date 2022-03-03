@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/154) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-2. 💪 Opened PR [#166](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/166) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+1. 🗣 Commented on [#139](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/139) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+2. 💪 Opened PR [#170](https://github.com/IEEE-WIE-VIT/WIE-WoC/pull/170) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
 3. 🗣 Commented on [#139](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/139) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
-4. 🗣 Commented on [#132](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/132) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
+4. 🗣 Commented on [#154](https://github.com/IEEE-WIE-VIT/WIE-WoC/issues/154) in [IEEE-WIE-VIT/WIE-WoC](https://github.com/IEEE-WIE-VIT/WIE-WoC)
 <!--END_SECTION:activity-->
 </details>
 
