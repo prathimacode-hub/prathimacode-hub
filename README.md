@@ -19,9 +19,9 @@ or use it. It helps me a lot.
 
 🙌Currently working as a Junior ML Engineer at Omdena with project : Silicon Valley Climate Change to Reduce the Energy Consumption of Buildings. <br>
 🍁Building a Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living. <br>
-📜Project Admin & Mentor for Open Source Programs : JGEC Winter Of Code and GirlScript Summer Of Code. <br>
+📜Project Admin & Mentee for Open Source Programs : GirlScript Summer Of Code and OpenForce 2022. <br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
-🚀Project Maintainer for more than 10+ projects and Stands up in 4th positon for contributions and 6th position for commits all over India from the list of Most Active Github Users. 
+🚀Project Maintainer for more than 10+ projects and Stands up in 4th positon for contributions and 6th position for commits all over India from the list of Most Active Github Users. <br>
 👩‍💻Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and invited to be a "Jury Member" for Global StartUp Awards Africa <br>
 👑Embedded Systems | Pythonista | Internet Of Things | Data Science | Web Development | Google Cloud Ready <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
