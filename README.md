@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/prathimacode-hub/MedFlare/pull/35) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. ❗️ Closed issue [#3](https://github.com/prathimacode-hub/MedFlare/issues/3) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-3. 🗣 Commented on [#42](https://github.com/prathimacode-hub/MedFlare/issues/42) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-4. 🗣 Commented on [#43](https://github.com/prathimacode-hub/MedFlare/issues/43) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+1. 🎉 Merged PR [#97](https://github.com/prathimacode-hub/IoT-Spot/pull/97) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Closed issue [#22](https://github.com/prathimacode-hub/IoT-Spot/issues/22) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Closed issue [#31](https://github.com/prathimacode-hub/IoT-Spot/issues/31) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🎉 Merged PR [#92](https://github.com/prathimacode-hub/IoT-Spot/pull/92) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
