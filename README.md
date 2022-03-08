@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/vasu-1/CalcHub/issues/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. ❗️ Opened issue [#87](https://github.com/ridsuteri/Awesome-Chrome-Extensions/issues/87) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
 2. 🗣 Commented on [#126](https://github.com/vasu-1/CalcHub/issues/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. 🗣 Commented on [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. ❗️ Opened issue [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🗣 Commented on [#126](https://github.com/vasu-1/CalcHub/issues/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🗣 Commented on [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 </details>
 
