@@ -194,9 +194,9 @@ Research Publications 🖊
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#126](https://github.com/vasu-1/CalcHub/issues/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 🗣 Commented on [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. ❗️ Opened issue [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 💪 Opened PR [#126](https://github.com/vasu-1/CalcHub/pull/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 🗣 Commented on [#126](https://github.com/vasu-1/CalcHub/issues/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🗣 Commented on [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Opened issue [#127](https://github.com/vasu-1/CalcHub/issues/127) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 </details>
 
