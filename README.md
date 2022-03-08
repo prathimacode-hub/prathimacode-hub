@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#124](https://github.com/vasu-1/CalcHub/issues/124) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-2. 🗣 Commented on [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-3. ❗️ Opened issue [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
-4. 🗣 Commented on [#124](https://github.com/vasu-1/CalcHub/issues/124) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+1. 💪 Opened PR [#126](https://github.com/vasu-1/CalcHub/pull/126) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. ❗️ Closed issue [#124](https://github.com/vasu-1/CalcHub/issues/124) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. 🗣 Commented on [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. ❗️ Opened issue [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 </details>
 
