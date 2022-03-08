@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/prathimacode-hub/IoT-Spot/pull/109) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. ❗️ Closed issue [#18](https://github.com/prathimacode-hub/IoT-Spot/issues/18) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#111](https://github.com/prathimacode-hub/IoT-Spot/issues/111) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#10](https://github.com/prathimacode-hub/Treksy/issues/10) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. ❗️ Closed issue [#124](https://github.com/vasu-1/CalcHub/issues/124) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+2. 🗣 Commented on [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+3. ❗️ Opened issue [#125](https://github.com/vasu-1/CalcHub/issues/125) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
+4. 🗣 Commented on [#124](https://github.com/vasu-1/CalcHub/issues/124) in [vasu-1/CalcHub](https://github.com/vasu-1/CalcHub)
 <!--END_SECTION:activity-->
 </details>
 
