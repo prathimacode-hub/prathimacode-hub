@@ -193,10 +193,10 @@ Research Publications 🖊
 <details><summary>Recent Activity📌</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/prathimacode-hub/MedFlare/issues/44) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
-2. 🎉 Merged PR [#56](https://github.com/prathimacode-hub/Treksy/pull/56) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-3. ❗️ Closed issue [#53](https://github.com/prathimacode-hub/Treksy/issues/53) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
-4. ❗️ Closed issue [#54](https://github.com/prathimacode-hub/Treksy/issues/54) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
+1. 🎉 Merged PR [#115](https://github.com/prathimacode-hub/IoT-Spot/pull/115) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Closed issue [#95](https://github.com/prathimacode-hub/IoT-Spot/issues/95) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#44](https://github.com/prathimacode-hub/MedFlare/issues/44) in [prathimacode-hub/MedFlare](https://github.com/prathimacode-hub/MedFlare)
+4. 🎉 Merged PR [#56](https://github.com/prathimacode-hub/Treksy/pull/56) in [prathimacode-hub/Treksy](https://github.com/prathimacode-hub/Treksy)
 <!--END_SECTION:activity-->
 </details>
 
