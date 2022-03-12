@@ -89,7 +89,7 @@ You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -
 
 <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br>
 
-**Testimonials📜** <br>
+### Testimonials📜 <br>
 
 <table>
   <tr>
