@@ -18,7 +18,9 @@ Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Out of t
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
 
-<!-- CheckOut Links : [Portfolio]() | [Resume]() -->
+<!-- CheckOut Links : [Portfolio]() | [Resume]()
+
+2021 Goals  -->
 
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
@@ -54,7 +56,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <!--
 ### Does my work excite you? <br>
 
-You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -->
+You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> -->
 
 
 <!--Trap--:)-->
@@ -94,6 +96,10 @@ You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
 
+<!-- 
+Peek into some of my personal project encounters
+
+Open Source Projects --> 
 
 <details><summary>Recent Activity📌</summary> <br>
 
