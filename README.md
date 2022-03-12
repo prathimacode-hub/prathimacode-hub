@@ -31,7 +31,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 💡Worked on 3 Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
 👯Looking to Collaborate on Freelancing Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
 
-💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take upp📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, ⚡I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
+💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take upp📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
 
 ### How Could I Add My Value? <br>
 
