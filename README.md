@@ -69,7 +69,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 
 <img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif">
  
-### 🔹 &nbsp;Tech Stack
+### ✔ &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
