@@ -47,7 +47,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
 ▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) and [Twitter](https://twitter.com/prathimak88) <br>
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathimak88) and [Discord](https://discordapp.com/users/797471610327924778). <br>
 
 <!--
 ### Does my work excite you? <br>
