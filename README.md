@@ -35,7 +35,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 ⚡ Fun fact: I don't know driving <br>
 
-💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take upp📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
+💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
 
 ### How Could I Add My Value? <br>
 
@@ -48,8 +48,13 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
-▶️ You can reach out to me here at [GitHub](https://github.com/prathimacode-hub/) <br>
+▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) and [Twitter](https://twitter.com/prathimak88) <br>
+
+<!--
+### Does my work excite you? <br>
+
+You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -->
 
 
 <!--Trap--:)-->
@@ -67,7 +72,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </details>
 
 
-<details><summary>Contribution Graph💰</summary>
+<details><summary>Contribution Graph🎡</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
 </details>
