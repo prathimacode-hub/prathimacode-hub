@@ -4,8 +4,8 @@ or use it. It helps me a lot.
 -->
 
 <h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
-
-<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> <br>
+  
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> <br>
 
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
