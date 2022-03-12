@@ -66,7 +66,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
  
 ### 🔹 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
