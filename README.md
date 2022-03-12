@@ -12,8 +12,9 @@ or use it. It helps me a lot.
 [![GitHub Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/prathimacode-hub)](https://github.com/prathimacode-hub)
 [![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
 [![Twitter Badge](https://img.shields.io/badge/-prathimak88-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
-[![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
-[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/797471610327924778)](https://discordapp.com/users/797471610327924778)
+[![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
+[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
 
 Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Out of the Box Thinking who visions to foster the Next Generation. <br>
 
