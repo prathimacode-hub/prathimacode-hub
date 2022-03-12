@@ -40,18 +40,16 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 ### How Could I Add My Value? <br>
 
 📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
-👯Collaborate on Freelancing Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
+👯Collaborate on Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
 🙌Mentor the students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
 🖊Open for opportunities on authoring, creating and reviewing technical and non technical contents. Strong Command on English Writing and Communication Skills. <br>
 
 ### Want to Have a Conversation with Me? <br>
 
-I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I am always open for a conversation!!✔ <br>
+I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
 ▶️ You can reach out to me here at [GitHub](https://github.com/prathimacode-hub/) <br>
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) and [Twitter](https://twitter.com/prathimak88) <br>
-
-Anything official or technical, drop off to my mail for further detailed discussions. <br>
 
 
 <!--Trap--:)-->
