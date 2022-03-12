@@ -19,7 +19,7 @@ or use it. It helps me a lot.
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Yash;+An+Open+Source+Contributor+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+A+Data+Science+Enthusiast">
 </p> -->
 
-Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Out of the Box Thinking who visions to foster the Next Generation. <br>
+Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
 
