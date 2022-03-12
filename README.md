@@ -29,9 +29,11 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users. <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa. <br>
+💡Worked on 3 Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
+🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
 👑Embedded Systems | Pythonista | Internet Of Things | Data Science | Web Development | Google Cloud Ready <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
-💡Worked on 3 Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
+⚡ Fun fact: I don't know driving <br>
 
 💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take upp📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
 
@@ -107,13 +109,17 @@ Best of Luck for a Bright and Prosperous Future and Thank you so much again.</td
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/abhisheksharma7389/">Abhishek Sharma</a></td>
-    <td>Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best ma'am for your future.</td>
+    <td>Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best for your future.</td>
   </tr>
 </table>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+<!-- Projects - Personal, OpenSource, Omdena, Professional Summary, Tech Stacks, Github Octocat, Sponsor Me, Scrolling the Roles and What I do, Scrolling Thanks for Stopping By -->
+<!-- Digital Garden - Blog Articles, Research Publications, Patents, SpeaksUps, Videos -->
+
 <!-- 
+
 ✨Tech Stacks
 
 Python, C, C++, HTML, CSS, JS | Streamlit, Docker | GitHub 
