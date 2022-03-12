@@ -40,7 +40,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
 👯Collaborate on Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
 🙌Mentor the students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
-🖊Open for opportunities on authoring, creating and reviewing technical and non technical contents. Strong Command on English Writing and Communication Skills. <br>
+🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
 
 ### Want to Have a Conversation with Me? <br>
 
