@@ -27,18 +27,18 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 📜Project Admin & Mentee for GirlScript Summer Of Code & OpenForce 2022 and Top #1 Mentee for WIE-WoC. <br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users. <br>
-👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and invited to be a "Jury Member" for Global StartUp Awards Africa. <br>
+👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa. <br>
 👑Embedded Systems | Pythonista | Internet Of Things | Data Science | Web Development | Google Cloud Ready <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 💡Worked on 3 Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
-👯Looking to Collaborate on Freelancing Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
 
 💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take upp📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
 
 ### How Could I Add My Value? <br>
 
 📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
-🙌Mentoring students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
+👯Collaborate on Freelancing Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
+🙌Mentor the students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
 🖊Open for opportunities on authoring, creating and reviewing technical and non technical contents. Strong Command on English Writing and Communication Skills. <br>
 
 ### Want to Have a Conversation with Me? <br>
