@@ -5,8 +5,6 @@ or use it. It helps me a lot.
 
 <h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
   
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> <br>
-
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
 [![GitHub Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/prathimacode-hub)](https://github.com/prathimacode-hub)
@@ -61,7 +59,7 @@ You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<details><summary>Recent Activity📌</summary>
+<details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#119](https://github.com/prathimacode-hub/IoT-Spot/pull/119) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
@@ -72,13 +70,13 @@ You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -
 </details>
 
 
-<details><summary>Contribution Graph🎡</summary>
+<details><summary>Contribution Graph🎡</summary> <br>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
 </details>
 
 
-<details><summary>Trophies🏆</summary>
+<details><summary>Trophies🏆</summary> <br>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
 </details>
@@ -89,8 +87,9 @@ You can donate 💰 me on my [Patreon]() and [Buy Me A Coffee]() profile. <br> -
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
 
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br>
 
-**Testimonials📜**<br>
+**Testimonials📜** <br>
 
 <table>
   <tr>
