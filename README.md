@@ -18,6 +18,8 @@ Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Out of t
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
 
+<!-- CheckOut Links : [Portfolio]() | [Resume]() -->
+
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
 ### My Highlights
