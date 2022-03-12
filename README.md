@@ -51,7 +51,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 🙌Mentor the students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
 🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
 
-### Want to Have a Conversation with Me? <br>
+### Keen To Interact with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
@@ -107,7 +107,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 ```
 
 <!-- 
-Peek into some of my personal project encounters
+Peek into to see some of my personal project encounters
 
 Open Source Projects --> 
 
