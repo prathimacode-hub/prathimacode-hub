@@ -14,6 +14,11 @@ or use it. It helps me a lot.
 [![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
 [![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
 
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Yash;+An+Open+Source+Contributor+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+A+Data+Science+Enthusiast">
+</p> -->
+
 Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Out of the Box Thinking who visions to foster the Next Generation. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
@@ -163,18 +168,8 @@ Best of Luck for a Bright and Prosperous Future and Thank you so much again.</td
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<!-- Projects - Personal, OpenSource, Omdena, Professional Summary, Tech Stacks, Github Octocat, Sponsor Me, Scrolling the Roles and What I do, Scrolling Thanks for Stopping By -->
-<!-- Digital Garden - Blog Articles, Research Publications, Patents, SpeaksUps, Videos -->
-
-<!-- 
-
-✨Tech Stacks
-
-Python, C, C++, HTML, CSS, JS | Streamlit, Docker | GitHub 
-Embedded Systems, Internet Of Things, Web Development
-VsCode, Jupyter, PyCharm, Colab | Flask, Django | Google Cloud, Azure
-Machine Learning, Computer Vision, Deep Learning, Natural Language Processing
-KeilUVision, Docklight | Linux Programming -->
+<!-- Projects - Personal, OpenSource, Omdena, Professional Summary, Sponsor Me, Scrolling the Roles and What I do, Scrolling Thanks for Stopping By -->
+<!-- Digital Garden - Blog Articles, Featured Articles, Research Publications, Patents, SpeakUps, Videos -->
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/) -->
 
