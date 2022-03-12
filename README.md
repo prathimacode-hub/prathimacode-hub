@@ -5,6 +5,8 @@ or use it. It helps me a lot.
 
 <h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 
+<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> <br>
+
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
 [![GitHub Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/prathimacode-hub)](https://github.com/prathimacode-hub)
@@ -39,7 +41,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 🙌Mentoring students in promising fields that defines my forte - 800+students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
 🖊Open for opportunities on authoring, creating and reviewing technical and non technical contents. Strong Command on English Writing and Communication Skills. <br>
 
-### Want to have a conversation with me? <br>
+### Want to Have a Conversation with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I am always open for a conversation!!✔ <br>
 
@@ -51,11 +53,6 @@ Anything official or technical, drop off to my mail for further detailed discuss
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-**GitHub Stats🎯**<br>
-
-<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 
 <details><summary>Recent Activity📌</summary>
@@ -125,6 +122,12 @@ Machine Learning, Computer Vision, Deep Learning, Natural Language Processing
 KeilUVision, Docklight | Linux Programming -->
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-prathimakadari-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://prathimakadari.hashnode.dev/)](https://prathimakadari.hashnode.dev/) -->
+
+<!--
+
+**GitHub Stats🎯**<br>
+
+<img width="25%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> -->
 
 <!-- <p align="center"> Lead Collaborator at <a href="https://omdena.com/">Omdena</a>🙌, Cloud Computing Career Readiness ACE Track Program by <a href="https://www.google.com">Google</a>🍁, Project Admin & Mentor at <a href="https://swoc.scriptindia.org/#/">Script Winter Of Code</a> & <a href="https://dwoc.io/">Delta Winter Of Code</a>✔, Speaker🎙, Technical Blogger at <a href="https://prathimakadari.hashnode.dev/">Hashnode</a>🚩, Global Ambassador & Mentor at <a href="https://www.womentech.net/about/womentech-membership?join=MzkwMjE=">WomenTech Network</a>👑, Community Member at <a href="https://www.eddiehub.org/">EddieHub Community</a>👯, OpenSource Enthusiast at <a href="https://github.com/prathimacode-hub">Github</a>🚀, Post Graduate Diploma in IT Management at <a href="https://www.scdl.net">Symbiosis Centre for Distance Learning</a>📖, Former Research & Development Engineer & Embedded Development Engineer at <a href="http://www.analogicgroup.com/">Analogics Tech</a>👩‍💻 & Inphinity Software Solutions</a>🔖, Freelancer📜</p> -->
 
