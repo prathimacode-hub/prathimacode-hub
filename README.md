@@ -33,7 +33,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa. <br>
 💡Worked on 3 Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
 🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
-👑Embedded Systems | Pythonista | Internet Of Things | Data Science | Web Development | Google Cloud Ready <br>
+👑Hackathon Winner and Open Source Contributor for repositories belonging to personal, peers, learnings, communities and organizations projects. <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 ⚡ Fun fact: I don't know driving <br>
 
@@ -95,6 +95,8 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- 
 Peek into some of my personal project encounters
