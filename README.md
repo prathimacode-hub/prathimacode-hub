@@ -114,10 +114,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/prathimacode-hub/IoT-Spot/issues/123) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#122](https://github.com/prathimacode-hub/IoT-Spot/issues/122) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🎉 Merged PR [#119](https://github.com/prathimacode-hub/IoT-Spot/pull/119) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#110](https://github.com/prathimacode-hub/IoT-Spot/issues/110) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#94](https://github.com/prathimacode-hub/IoT-Spot/issues/94) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🎉 Merged PR [#124](https://github.com/prathimacode-hub/IoT-Spot/pull/124) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🎉 Merged PR [#98](https://github.com/prathimacode-hub/IoT-Spot/pull/98) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. ❗️ Closed issue [#91](https://github.com/prathimacode-hub/IoT-Spot/issues/91) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
