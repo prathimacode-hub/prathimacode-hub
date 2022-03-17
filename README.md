@@ -114,10 +114,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/122) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-2. 💪 Opened PR [#121](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/121) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-3. 🗣 Commented on [#129](https://github.com/prathimacode-hub/IoT-Spot/issues/129) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🎉 Merged PR [#101](https://github.com/prathimacode-hub/IoT-Spot/pull/101) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. ❗️ Opened issue [#183](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/183) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+2. ❗️ Opened issue [#182](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/182) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+3. ❗️ Opened issue [#181](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/181) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+4. ❗️ Opened issue [#420](https://github.com/Kushal997-das/Project-Guidance/issues/420) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 <!--END_SECTION:activity-->
 </details>
 
