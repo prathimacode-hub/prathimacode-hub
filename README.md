@@ -114,10 +114,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#183](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/183) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-2. ❗️ Opened issue [#182](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/182) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-3. ❗️ Opened issue [#181](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/181) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
-4. ❗️ Opened issue [#420](https://github.com/Kushal997-das/Project-Guidance/issues/420) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+1. ❌ Closed PR [#132](https://github.com/prathimacode-hub/IoT-Spot/pull/132) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Opened issue [#183](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/183) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+3. ❗️ Opened issue [#182](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/182) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+4. ❗️ Opened issue [#181](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/181) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
 <!--END_SECTION:activity-->
 </details>
 
