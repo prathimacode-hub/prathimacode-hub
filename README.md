@@ -114,10 +114,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/121) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
-2. 🗣 Commented on [#129](https://github.com/prathimacode-hub/IoT-Spot/issues/129) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🎉 Merged PR [#101](https://github.com/prathimacode-hub/IoT-Spot/pull/101) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#78](https://github.com/prathimacode-hub/IoT-Spot/issues/78) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 💪 Opened PR [#122](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/122) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+2. 💪 Opened PR [#121](https://github.com/ridsuteri/Awesome-Chrome-Extensions/pull/121) in [ridsuteri/Awesome-Chrome-Extensions](https://github.com/ridsuteri/Awesome-Chrome-Extensions)
+3. 🗣 Commented on [#129](https://github.com/prathimacode-hub/IoT-Spot/issues/129) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🎉 Merged PR [#101](https://github.com/prathimacode-hub/IoT-Spot/pull/101) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
