@@ -32,6 +32,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living. <br>
+🛠Chief Technology Officer at Micro, a Fintech Organization and Deep Tech Club StartUp Mentor. <br>
 📜Project Admin & Mentee for GirlScript Summer Of Code & OpenForce 2022 and Top #1 Mentee for WIE-WoC. <br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users. <br>
