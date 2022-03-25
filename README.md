@@ -115,10 +115,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/prathimacode-hub/IoT-Spot/issues/149) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#145](https://github.com/prathimacode-hub/IoT-Spot/issues/145) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#16](https://github.com/prathimacode-hub/IoT-Spot/issues/16) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#144](https://github.com/prathimacode-hub/IoT-Spot/issues/144) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#21](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare/issues/21) in [SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare](https://github.com/SamarthMR/AI-ML-for-Newborn-Babies-in-Healthcare)
+2. 🗣 Commented on [#149](https://github.com/prathimacode-hub/IoT-Spot/issues/149) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🗣 Commented on [#145](https://github.com/prathimacode-hub/IoT-Spot/issues/145) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#16](https://github.com/prathimacode-hub/IoT-Spot/issues/16) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
