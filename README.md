@@ -115,10 +115,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/prathimacode-hub/IoT-Spot/issues/169) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#161](https://github.com/prathimacode-hub/IoT-Spot/issues/161) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🎉 Merged PR [#165](https://github.com/prathimacode-hub/IoT-Spot/pull/165) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#150](https://github.com/prathimacode-hub/IoT-Spot/issues/150) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. ❗️ Opened issue [#474](https://github.com/Kushal997-das/Project-Guidance/issues/474) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+2. ❗️ Opened issue [#473](https://github.com/Kushal997-das/Project-Guidance/issues/473) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+3. 💪 Opened PR [#2](https://github.com/https-github-com-Kushal997-das/Project-Guidance/pull/2) in [https-github-com-Kushal997-das/Project-Guidance](https://github.com/https-github-com-Kushal997-das/Project-Guidance)
+4. 🗣 Commented on [#169](https://github.com/prathimacode-hub/IoT-Spot/issues/169) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
