@@ -145,10 +145,12 @@ Open Source Projects -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
 
-<!-- ![Skyline](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/github-metrics.svg)
+<!--
+
+![Skyline](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl)
 
 <p align="left">
-  <img width="48%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.svg"/>
+  <img width="48%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl"/>
 </p>  -->
 
 ### Testimonials📜 <br>
