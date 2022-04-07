@@ -17,7 +17,7 @@ jobs:
         name: Skyline
         with:
           plugin_skyline: yes
-          plugin_skyline_year: 2022      
+          plugin_skyline_year: 2021      
           plugin_skyline_frames: 60       
           plugin_skyline_quality: 1   
           plugin_skyline_compatibility: yes # Supports Firefox and Safari
