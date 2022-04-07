@@ -23,9 +23,13 @@ Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Th
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
 
-<!-- CheckOut Links : [Portfolio]() | [Resume]()
+<!-- CheckOut Links : [Portfolio]() | [Resume]() | [LinkTree]()
 
-2021 Goals  -->
+2022 Goals  
+
+[You like what you see? Nominate Me asa GitHub Star]() -->
+
+You can support my work by [Buying me a Pizza 🍕](https://www.buymeacoffee.com/prathimakadari)
 
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
@@ -140,6 +144,8 @@ Open Source Projects -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
+
+![Skyline](https://github.com/prathimacode-hub/prathimacode-hub/blob/master/github-metrics.svg)
 
 ### Testimonials📜 <br>
 
