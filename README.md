@@ -120,9 +120,9 @@ Open Source Projects -->
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/prathimacode-hub/FarmArk/issues/9) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-2. 🗣 Commented on [#163](https://github.com/prathimacode-hub/IoT-Spot/issues/163) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🎉 Merged PR [#161](https://github.com/prathimacode-hub/IoT-Spot/pull/161) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#152](https://github.com/prathimacode-hub/IoT-Spot/issues/152) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#9](https://github.com/prathimacode-hub/FarmArk/issues/9) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+3. 🗣 Commented on [#9](https://github.com/prathimacode-hub/FarmArk/issues/9) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+4. 🗣 Commented on [#163](https://github.com/prathimacode-hub/IoT-Spot/issues/163) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
