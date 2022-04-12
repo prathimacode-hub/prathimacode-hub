@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/prathimacode-hub/Menzy/pull/4) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-2. 💪 Opened PR [#4](https://github.com/prathimacode-hub/Menzy/pull/4) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-3. 🗣 Commented on [#163](https://github.com/prathimacode-hub/IoT-Spot/issues/163) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#163](https://github.com/prathimacode-hub/IoT-Spot/issues/163) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+2. 💪 Opened PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+3. 🎉 Merged PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+4. 💪 Opened PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
 <!--END_SECTION:activity-->
 </details>
 
