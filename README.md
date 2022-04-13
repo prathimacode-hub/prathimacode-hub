@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-2. 💪 Opened PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-3. 🎉 Merged PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-4. 💪 Opened PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+1. ❗️ Opened issue [#9](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/9) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+2. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+3. 💪 Opened PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+4. 🎉 Merged PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
 <!--END_SECTION:activity-->
 </details>
 
