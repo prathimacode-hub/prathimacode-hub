@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/9) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
-2. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-3. 💪 Opened PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
-4. 🎉 Merged PR [#7](https://github.com/prathimacode-hub/Menzy/pull/7) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
+1. 🗣 Commented on [#199](https://github.com/prathimacode-hub/IoT-Spot/issues/199) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#200](https://github.com/prathimacode-hub/IoT-Spot/issues/200) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. ❗️ Opened issue [#9](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/9) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+4. 🎉 Merged PR [#8](https://github.com/prathimacode-hub/Menzy/pull/8) in [prathimacode-hub/Menzy](https://github.com/prathimacode-hub/Menzy)
 <!--END_SECTION:activity-->
 </details>
 
