@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/prathimacode-hub/FarmArk/pull/18) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-2. ❗️ Closed issue [#9](https://github.com/prathimacode-hub/FarmArk/issues/9) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-3. 🗣 Commented on [#4](https://github.com/prathimacode-hub/FarmArk/issues/4) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
-4. 🗣 Commented on [#13](https://github.com/prathimacode-hub/FarmArk/issues/13) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+1. 🎉 Merged PR [#202](https://github.com/prathimacode-hub/IoT-Spot/pull/202) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. ❗️ Closed issue [#200](https://github.com/prathimacode-hub/IoT-Spot/issues/200) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+3. 🎉 Merged PR [#18](https://github.com/prathimacode-hub/FarmArk/pull/18) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
+4. ❗️ Closed issue [#9](https://github.com/prathimacode-hub/FarmArk/issues/9) in [prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk)
 <!--END_SECTION:activity-->
 </details>
 
