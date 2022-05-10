@@ -29,7 +29,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 [You like what you see? Nominate Me asa GitHub Star]() -->
 
-You can support my work by [Buying me a Pizza 🍕](https://www.buymeacoffee.com/prathimakadari)
+You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
 
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
