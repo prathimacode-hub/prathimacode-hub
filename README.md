@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/prathimacode-hub/IoT-Spot/issues/234) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#233](https://github.com/prathimacode-hub/IoT-Spot/issues/233) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-3. 🗣 Commented on [#237](https://github.com/prathimacode-hub/IoT-Spot/issues/237) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. ❗️ Closed issue [#228](https://github.com/prathimacode-hub/IoT-Spot/issues/228) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🗣 Commented on [#82](https://github.com/prathimacode-hub/IoT-Spot/issues/82) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+2. 🗣 Commented on [#182](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/182) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+3. 🗣 Commented on [#181](https://github.com/abhijeet007rocks8/Dev-Scripts/issues/181) in [abhijeet007rocks8/Dev-Scripts](https://github.com/abhijeet007rocks8/Dev-Scripts)
+4. 🗣 Commented on [#234](https://github.com/prathimacode-hub/IoT-Spot/issues/234) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
