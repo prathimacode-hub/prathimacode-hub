@@ -36,12 +36,12 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living. <br>
-🛠Chief Technology Officer at Micro, a Fintech Organization and Deep Tech Club StartUp Mentor. <br>
+🛠Chief Technology Officer at Micro, a Fintech Organization.<br>
 📜Data Science Mentor at StarAgile & Project Admin & Mentee for GirlScript Summer Of Code. <br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users. <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
-💡Worked on 4+ Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
+💡Worked on 5+ Real World AI Projects that showers impact on to the causes of local communities and various technical personal projects that focuses on use-case solutions. <br>
 🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
 👑Hackathon Winner and Open Source Contributor for repositories belonging to personal, peers, learnings, communities and organizations projects. <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
@@ -53,7 +53,7 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
 👯Collaborate on Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
-🙌Mentor the students in promising fields that defines my forte - 900+ students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
+🙌Mentor the students in promising fields that defines my forte - 1000+ students so far (Data Science, IoT, Web Development and Embedded Systems) <br>
 🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
 
 ### Keen To Interact with Me? <br>
