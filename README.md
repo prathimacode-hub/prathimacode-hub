@@ -119,10 +119,10 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com/prathimacode-hub/IoT-Spot/issues/244) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-2. 🗣 Commented on [#240](https://github.com/prathimacode-hub/IoT-Spot/issues/240) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+1. 🎉 Merged PR [#3](https://github.com/getmicro-co/Employee-Management-System/pull/3) in [getmicro-co/Employee-Management-System](https://github.com/getmicro-co/Employee-Management-System)
+2. 🗣 Commented on [#244](https://github.com/prathimacode-hub/IoT-Spot/issues/244) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 3. 🗣 Commented on [#240](https://github.com/prathimacode-hub/IoT-Spot/issues/240) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🗣 Commented on [#243](https://github.com/prathimacode-hub/IoT-Spot/issues/243) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🗣 Commented on [#240](https://github.com/prathimacode-hub/IoT-Spot/issues/240) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 <!--END_SECTION:activity-->
 </details>
 
