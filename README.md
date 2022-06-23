@@ -3,7 +3,9 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
+<h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇</h2><br>
+
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
   
 ![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
 
