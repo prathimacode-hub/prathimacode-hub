@@ -4,7 +4,7 @@
 
 | :hash: | Project | Description | Repo Link |
 |:--------:|---------|-------------|-----------|
-| :one:  | [Git](https://github.com/prathimacode-hub/)| <br>  <br><br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+| :one:  | [Know Me](https://github.com/prathimacode-hub/)| <br> You can know completely about me through this repository. <br><br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
 | :two:  | [Learn-Python-For-Beginners](https://github.com/prathimacode-hub/Learn-Python-For-Beginners)| <br> This repository helps you in gaining the basic knowledge of Python3 Programming in a simplified and understandable manner. It comprises of the tutorials covering up the well needed topics to learn Python easily without any hurdles. <br><br> | [@prathimacode-hub/Learn-Python-For-Beginners](https://github.com/prathimacode-hub/Learn-Python-For-Beginners) |
 | :three:  | [Machine-Learning-WebApp](https://github.com/prathimacode-hub/Machine-Learning-WebApp)| <br>  <br><br> | [@prathimacode-hub/Machine-Learning-WebApp](https://github.com/prathimacode-hub/Machine-Learning-WebApp) |
 
