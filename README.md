@@ -121,7 +121,7 @@ Open Source Projects -->
 <details><summary>Recent Activity📌</summary> <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/18) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+1. 🗣 Commented on [#2](https://github.com/prathimacode-hub/Ezy-Parking/issues/2) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
 2. 💪 Opened PR [#18](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/18) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
 3. ❗️ Closed issue [#169](https://github.com/prathimacode-hub/IoT-Spot/issues/169) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
 4. 🎉 Merged PR [#256](https://github.com/prathimacode-hub/IoT-Spot/pull/256) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
