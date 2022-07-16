@@ -78,7 +78,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 
 <img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
  
-### ✔ &nbsp;Tech Stack
+## ✔ Technical Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -131,18 +131,68 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
  <a href="https://www.psoc.in/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/PClub%20Summer%20Of%20Code%202022/PClub%20Summer%20Of%20Code.png" height="60px"></a>
  <a href="https://www.eddiehub.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Communities/EddieHub%20Community/EddieHub%20Logo.png" height="60px"></a>
  <a href="https://sawolabs.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Contributions/SAWO%20Labs/SAWO%20Labs%20Logo.png" height="60px"></a>
+ <a href="https://omdena.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Omdena%20Projects/Omdena%20Logo.png" height="60px"></a> 
 </p> 
+
+
+## Open Source Projects-Open for Contributions 🥇 
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
+|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
+|-------------|-------------------|---|---|---|---|---|
+| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | [**GSSOC 2022**](https://gssoc.girlscript.tech/), [**SWOC 2021**](https://swoc.scriptindia.org/#/) and [**DWOC 2021**](https://dwoc.io/) |
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## Open Source Projects-Open for Contributions🥇 
+## GitHub Statistics 📃
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
-|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
-|-------------|-------------------|---|---|---|---|---|
-| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) |
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+</p>
+
+
+## Contribution Graph 🎡
+
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" />
+</p>
+
+
+## Trophies 🏆
+
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+</p>
+
+
+## Connect With Me 🤝 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prathima-kadari" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
+</a>
+<a href="https://twitter.com/prathimak88" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+</a>
+<a href="https://www.discord.com/prathima-kadari" target="_blank">
+<img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
+</a>
+<a href="mailto:kadariprathima4@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+</div>  
+
+
+## Visitors Count 🧱
+
+![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <!-- 
@@ -150,7 +200,6 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 Peek into to see some of my personal project encounters
 
 Open Source Projects --> 
-
 
 <details><summary>Recent Activity📌</summary> <br>
 
@@ -162,6 +211,7 @@ Open Source Projects -->
 <!--END_SECTION:activity-->
 </details>
 
+<!--
 
 <details><summary>Contribution Graph🎡</summary> <br>
 <p align="left">
@@ -172,14 +222,10 @@ Open Source Projects -->
 <details><summary>Trophies🏆</summary> <br>
 <p align="left">
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
-</details>
+</details> 
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br>
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br> -->
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
-</p>
 
 <!--
 
