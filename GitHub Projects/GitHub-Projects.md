@@ -1,6 +1,19 @@
-
 <h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>Projects by <a href="https://github.com/prathimacode-hub">@prathimacode-hub</a>
-  </h1>
+</h1>
+
+<!--
+
+## 👩 Know Me Projects
+
+| :hash: | Project | Description | Repo Link |
+|:--------:|---------|-------------|-----------|
+| :one: | [All About Me](https://github.com/prathimacode-hub/)| <br> <br>  <br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+| :two: | [Portfolio](https://github.com/prathimacode-hub/)| <br> <br> <br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+| :three: | [LinkTree](https://github.com/prathimacode-hub/)| <br>  <br> <br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+| :four: | [Blogs Backup](https://github.com/prathimacode-hub/)| <br> <br><br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+| :five: | [Speakup Sessions](https://github.com/prathimacode-hub/)| <br> <br><br> | [@prathimacode-hub/](https://github.com/prathimacode-hub/) |
+
+-->
 
 
 ## ✔ Omdena Projects
@@ -24,14 +37,14 @@
 | :five: | [FarmArk](https://github.com/prathimacode-hub/FarmArk)| <br> FarmArk is an app designed for facilitation of farmers and addressing them with all the needed farming solutions for their greens to prosper and excel. <br><br> | [@prathimacode-hub/FarmArk](https://github.com/prathimacode-hub/FarmArk) |
 | :six: | [TollRoll](https://github.com/prathimacode-hub/TollRoll)| <br> TollRoll is a dedicated management system to solve all the hurdles and problems related to toll plaza for smoother functioning of the overall process and getting acquainted to latest upgradations. <br><br> | [@prathimacode-hub/TollRoll](https://github.com/prathimacode-hub/TollRoll) |
 | :seven:  | [VoxUp](https://github.com/prathimacode-hub/VoxUp)| <br> VoxUp is a non-profit digital initiative to uplift and applause the individuals who had created a difference in our society. This platform hosts all the enrinching and impactful stories by storytellers of india documented in local languages. <br><br> | [@prathimacode-hub/VoxUp](https://github.com/prathimacode-hub/VoxUp) |
-| :eight:  | [Bike-Sharing-Demand-Prediction](https://github.com/prathimacode-hub/Bike-Sharing-Demand-Prediction)| <br> This project is bike sharing demand prediction which predicts the demand of bike sharing per day and hour. <br><br> | [@prathimacode-hub/Bike-Sharing-Demand-Prediction](https://github.com/prathimacode-hub/Bike-Sharing-Demand-Prediction) |
+| :eight:  | [Bike Sharing Demand Prediction](https://github.com/prathimacode-hub/Bike-Sharing-Demand-Prediction)| <br> This project is bike sharing demand prediction which predicts the demand of bike sharing per day and hour. <br><br> | [@prathimacode-hub/Bike-Sharing-Demand-Prediction](https://github.com/prathimacode-hub/Bike-Sharing-Demand-Prediction) |
 
 
 ## 🙌 OpenSource Projects
 
 | :hash: | Project | Description | Repo Link |
 |:--------:|---------|-------------|-----------|
-| :one: | [Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs)| <br> The main goal is to create a versatile drop box to add all the opportunities, enthusiasts can explore to get more out of their Open Source journey!! <br><br> | [@prathimacode-hub/Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs) |
+| :one: | [Open Source Programs](https://github.com/prathimacode-hub/Open-Source-Programs)| <br> The main goal is to create a versatile drop box to add all the opportunities, enthusiasts can explore to get more out of their Open Source journey!! <br><br> | [@prathimacode-hub/Open-Source-Programs](https://github.com/prathimacode-hub/Open-Source-Programs) |
 | :two: | [IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)| <br> An Amazing Spot to step your foot into this ocean of "Internet Of things". It provides exposure on various development boards and microntroller related projects using Internt of Things. <br><br> | [@prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot) |
 | :three: | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | <br> A Curated Collection of Awesome Python Scripts that will make you go wow.  <br><br> | [@prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) |
 | :four: | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | <br> This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and everything. <br><br> | [@prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)|
@@ -41,21 +54,44 @@
 
 ## 🎲 Supervised / Mentored Projects
 
-| :one: | GirlScript Winter Of Contributing | [winter-of-contributing](https://github.com/prathimacode-hub/winter-of-contributing)| <br> GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. <br><br> | [@prathimacode-hub/winter-of-contributing](https://github.com/prathimacode-hub/winter-of-contributing) |
-
-
-## 🎲 Contributed Projects
-
 | :hash: | Organization | Project | Description | Repo Link |
 |:--------:|---------|---------|-------------|-----------|
-| :one: | WIE Winter Of Code | [WIE-WoC](https://github.com/prathimacode-hub/WIE-WoC)| <br> IEEE-WIE presents WIE Week of Code (WIEWoC), a 3-days long open-source contribution event starting from 1st March, highlighting different python spaces including web development, machine learning, game development, data structures and algorithms, and substantially more! <br><br> | [@prathimacode-hub/WIE-WoC](https://github.com/prathimacode-hub/WIE-WoC) |
+| :one: | GirlScript Winter Of Contributing | [Winter Of Contributing](https://github.com/prathimacode-hub/winter-of-contributing)| <br> GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. <br><br> | [@prathimacode-hub/winter-of-contributing](https://github.com/prathimacode-hub/winter-of-contributing) |
 
 
 ## 💻 Contributed Organizations
 
 | :hash: | Organization | Project | Description | Repo Link |
 |:--------:|---------|---------|-------------|-----------|
-| :one: | SAWO Labs | [Initial-Contributors-Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects)| <br> Official Repository that contains many use cases of single technology built by the awesome SAWO community. <br><br> | [@prathimacode-hub/Initial-Contributors-Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects) |
+| :one: | SAWO Labs | [Initial Contributors Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects)| <br> Official Repository that contains many use cases of single technology built by the awesome SAWO community. <br><br> | [@prathimacode-hub/Initial-Contributors-Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects) |
+
+
+## 🎲 Contributed Repositories
+
+| :hash: | Organization | Project | Description | Repo Link |
+|:--------:|---------|---------|-------------|-----------|
+| :one: | WIE Winter Of Code | [WIE Winter Of Code](https://github.com/prathimacode-hub/WIE-WoC)| <br> IEEE-WIE presents WIE Week of Code (WIEWoC), a 3-days long open-source contribution event starting from 1st March, highlighting different python spaces including web development, machine learning, game development, data structures and algorithms, and substantially more! <br><br> | [@prathimacode-hub/WIE-WoC](https://github.com/prathimacode-hub/WIE-WoC) |
+
+
+## 🛠 Beginner Friendly Projects
+
+
+| :hash: | Project | Description | Repo Link |
+|:--------:|---------|-------------|-----------|
+| :one: | [FaceMask_Detector](https://github.com/prathimacode-hub/FaceMask_Detector)| <br> This project is a real time face-mask detection using OpenCV. <br><br> | [@prathimacode-hub/FaceMask_Detector](https://github.com/prathimacode-hub/FaceMask_Detector) |
+| :two: | [Loan_Eligibility_Prediction](https://github.com/prathimacode-hub/Loan_Eligibility_Prediction)| <br> This project is a loan eligibility prediction. It predicts whether a loan is approved or not. <br><br> | [@prathimacode-hub/Loan_Eligibility_Prediction](https://github.com/prathimacode-hub/Loan_Eligibility_Prediction) |
+| :three: | [Garbage Filter](https://github.com/prathimacode-hub/Garbage-Filter)| <br> This project spreads up the awareness and educate the upcoming generations about environmental issues and climatic changes in engaging way. <br><br> | [@prathimacode-hub/Garbage-Filter](https://github.com/prathimacode-hub/Garbage-Filter) |
+https://github.com/prathimacode-hub/Garbage-Filter
+| :four: | [E-Library](https://github.com/prathimacode-hub/E-Library)| <br> One stop place for technical guidance on various topics and programming languages for developers. <br><br> | [@prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library) |
+| :five: | [HelloWorld](https://github.com/prathimacode-hub/HelloWorld)| <br> This project introduces you with adding HelloWorld Programs in different programming languages.  <br><br> | [@prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld) |
+
+
+
+## 📃 Learning Projects
+
+| :hash: | Project | Description | Repo Link |
+|:--------:|---------|-------------|-----------|
+| :one: | [Learn Python For Beginners](https://github.com/prathimacode-hub/Learn-Python-For-Beginners)| <br> This repository helps you in gaining the basic knowledge of python in a simplified way. It has everything for you to get started with Python from complete scratch. <br><br> | [@prathimacode-hub/Learn-Python-For-Beginners](https://github.com/prathimacode-hub/Learn-Python-For-Beginners) |
 
 
 <p align="center"><br><a href="#hugs-projects-by-prathimacode-hub--">:top:</a><br><sup><strong>Show <a href="https://github.com/prathimacode-hub?tab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://twitter.com/prathimak88"> <img src="https://img.shields.io/twitter/follow/prathimak88?style=social" /></a> <a href="https://github.com/prathimacode-hub/"><img src="https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social"> </a><br></p>
