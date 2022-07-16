@@ -72,9 +72,11 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 
 
 <!--Trap--:)-->
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile/My%20Octocat.gif">
+
+<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
  
 ### ✔ &nbsp;Tech Stack
 
@@ -108,15 +110,47 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
-```
- “Success isn't about how much money you make. It's about the difference you 
- make in people's lives.” ― Michelle Obama
-```
+
+## Contributions Space 🎲
+
+<p align="center">
+ <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F331823142%2F9764a900-5c8e-11eb-9f94-da2a01385e83&imgrefurl=https%3A%2F%2Fgithub.com%2Fgirlscript%2FGirlScript-Summer-of-Code&tbnid=ijwsppZ4o_mSGM&vet=12ahUKEwjfweuujv74AhW7j9gFHTCRCLUQMygAegUIARCrAQ..i&docid=_0NWqao4h5CFQM&w=512&h=512&q=girlscript%20summer%20of%20code%202021&ved=2ahUKEwjfweuujv74AhW7j9gFHTCRCLUQMygAegUIARCrAQ"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202021/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a>
+ <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/LetsGrowMore%20Summer%20Of%20Code%202021/LetsGrowMore%20Summer%20Of%20Code.jpg" height="60px"></a>
+ <a href="https://contribute.devincept.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/DevIncept%20Codes%202021/DevIncept.jpg" height="60px"></a>
+ <a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" height="60px"></a>
+ <a href="https://gwoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Winter%20Of%20Contributing%202021/Girlscript%20Winter%20of%20Contributing.png" height="60px"></a>
+ <a href="https://dwoc.io/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Delta%20Winter%20Of%20Code%202021/Delta-Winter-Of-Code.jpg" height="60px"></a>
+ <a href="https://swoc.scriptindia.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Script%20Winter%20Of%20Code%202021/Script%20Winter%20Of%20Code.jpg" height="60px"></a>
+ <a href="https://jwoc.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/JGEC%20Winter%20Of%20Code%202022/JGEC-Winter-Of-Code.jpg" height="60px"></a>
+ <a href="https://www.openforce.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeFlow%20OpenForce%202022/CodeFlow%20OpenForce%20Logo.png" height="60px"></a>
+ <a href="https://wie.ieee.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/WIE%20Winter%20Of%20Code%202022/WIE%20WOC%20Logo.png" height="60px"></a>
+ <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a>
+ <a href="https://gssoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a>
+ <a href="http://hrsoc.herokuapp.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/HackClub%20RAIT%20Summer%20Of%20Code%202022/HackClub%20RAIT%20Summer%20Of%20Code.png" height="60px"></a> <br>
+ <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Summer%20Of%20Code%202022/Social%20Summer%20Of%20Code.gif" height="60px"></a>
+ <a href="https://www.psoc.in/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/PClub%20Summer%20Of%20Code%202022/PClub%20Summer%20Of%20Code.png" height="60px"></a>
+ <a href="https://www.eddiehub.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Communities/EddieHub%20Community/EddieHub%20Logo.png" height="60px"></a>
+ <a href="https://sawolabs.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Contributions/SAWO%20Labs/SAWO%20Labs%20Logo.png" height="60px"></a>
+</p> 
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+## Open Source Projects-Open for Contributions🥇 
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
+|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
+|-------------|-------------------|---|---|---|---|---|
+| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) |
+
 
 <!-- 
+
 Peek into to see some of my personal project encounters
 
 Open Source Projects --> 
+
 
 <details><summary>Recent Activity📌</summary> <br>
 
@@ -180,6 +214,12 @@ Best of Luck for a Bright and Prosperous Future and Thank you so much again.</td
     <td>Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best for your future.</td>
   </tr>
 </table>
+
+
+```
+ “Success isn't about how much money you make. It's about the difference you 
+ make in people's lives.” ― Michelle Obama
+```
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
