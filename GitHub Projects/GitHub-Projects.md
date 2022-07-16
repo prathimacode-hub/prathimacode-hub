@@ -66,7 +66,7 @@
 | :one: | SAWO Labs | [Initial Contributors Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects)| <br> Official Repository that contains many use cases of single technology built by the awesome SAWO community. <br><br> | [@prathimacode-hub/Initial-Contributors-Projects](https://github.com/prathimacode-hub/Initial-Contributors-Projects) |
 
 
-## 🎲 Contributed Repositories
+## 💪 Contributed Repositories
 
 | :hash: | Organization | Project | Description | Repo Link |
 |:--------:|---------|---------|-------------|-----------|
@@ -81,7 +81,6 @@
 | :one: | [FaceMask_Detector](https://github.com/prathimacode-hub/FaceMask_Detector)| <br> This project is a real time face-mask detection using OpenCV. <br><br> | [@prathimacode-hub/FaceMask_Detector](https://github.com/prathimacode-hub/FaceMask_Detector) |
 | :two: | [Loan_Eligibility_Prediction](https://github.com/prathimacode-hub/Loan_Eligibility_Prediction)| <br> This project is a loan eligibility prediction. It predicts whether a loan is approved or not. <br><br> | [@prathimacode-hub/Loan_Eligibility_Prediction](https://github.com/prathimacode-hub/Loan_Eligibility_Prediction) |
 | :three: | [Garbage Filter](https://github.com/prathimacode-hub/Garbage-Filter)| <br> This project spreads up the awareness and educate the upcoming generations about environmental issues and climatic changes in engaging way. <br><br> | [@prathimacode-hub/Garbage-Filter](https://github.com/prathimacode-hub/Garbage-Filter) |
-https://github.com/prathimacode-hub/Garbage-Filter
 | :four: | [E-Library](https://github.com/prathimacode-hub/E-Library)| <br> One stop place for technical guidance on various topics and programming languages for developers. <br><br> | [@prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library) |
 | :five: | [HelloWorld](https://github.com/prathimacode-hub/HelloWorld)| <br> This project introduces you with adding HelloWorld Programs in different programming languages.  <br><br> | [@prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld) |
 
