@@ -56,7 +56,9 @@
 
 | :hash: | Organization | Project | Description | Repo Link |
 |:--------:|---------|---------|-------------|-----------|
-| :one: | GirlScript Winter Of Contributing | [Winter Of Contributing](https://github.com/prathimacode-hub/winter-of-contributing)| <br> GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. <br><br> | [@prathimacode-hub/winter-of-contributing](https://github.com/prathimacode-hub/winter-of-contributing) |
+| :one: | Thief Detection | [Thief Detection](https://github.com/prathimacode-hub/Thief_Detection)| <br> This project helps to detect whether a person coming to your house is a thief or not while you are away from your house enjoying your holiday or a trip. <br><br> | [@prathimacode-hub/Thief_Detection](https://github.com/prathimacode-hub/Thief_Detection) |
+| :two: | Soomvaar | [Soomvaar](https://github.com/prathimacode-hub/Soomvaar)| <br> Soomvaar is the repo which contains different collection of code in Python and Machine learning algorithms that is helpful for learning journey in Data Science <br><br> | [@prathimacode-hub/Soomvaar](https://github.com/prathimacode-hub/Soomvaar) |
+| :three: | GirlScript Winter Of Contributing | [Winter Of Contributing](https://github.com/prathimacode-hub/winter-of-contributing)| <br> GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. <br><br> | [@prathimacode-hub/winter-of-contributing](https://github.com/prathimacode-hub/winter-of-contributing) |
 
 
 ## 💻 Contributed Organizations
