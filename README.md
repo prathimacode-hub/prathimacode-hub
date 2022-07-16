@@ -154,17 +154,17 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 </p>
 
 
-## Contribution Graph 🎡
-
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" />
-</p>
-
-
 ## Trophies 🏆
 
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+</p>
+
+
+## Contribution Graph 🎡
+
+<p align="left">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" />
 </p>
 
 
