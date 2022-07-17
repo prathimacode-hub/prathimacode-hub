@@ -1,7 +1,7 @@
 ## Recommendations Written For Me
 
 - I am amazed by Prathima's knowledge in various technologies leadership quality. She is soft spoken and binds the team together and guides very well. Everyday I get to 
-see her new achievements and I admire her thirst for learning new things. I can't express mi admiration for Prathima enough in few words. Anyone would be lucky to have 
+see her new achievements and I admire her thirst for learning new things. I can't express my admiration for Prathima enough in few words. Anyone would be lucky to have 
 her in their team as mentor. - **Pawani Kumari Morum**
 
 
