@@ -3,33 +3,56 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇</h2><br>
+<body style="background-color:WhiteSmoke;">
 
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
+<img src = ""/>
   
-![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
-
-[![GitHub Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/prathimacode-hub)](https://github.com/prathimacode-hub)
-[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
-[![Twitter Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
-[![Discord Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/797471610327924778)](https://discordapp.com/users/797471610327924778)
-[![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
-[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
-
-<!--
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Yash;+An+Open+Source+Contributor+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;+And+A+Data+Science+Enthusiast">
-</p> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;Chief+Technology+Officer+💻;+Machine+Learning+Engineer+🎲;+Loves+To+Build+Projects+🛠;+Data+Science+Mentor+⌛;+Open+Source+Contributor+☀;+Top+1%+in+GitHub+💡;+Building+Saas+and+A+Problem+Solver+🕵;+Jury+Member+and+Speaker+🎙;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+</p> 
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
+  
+<!-- ## You Like What You See? Does It Excite You? 💪 <br>
+  
+<table><tr>
+<td valign="top" width="60%">
 
-<!-- CheckOut Links : [Portfolio]() | [Resume]() | [LinkTree]()
+### Know Me🤝
+
+#### [Portfolio]() | [LinkTree]() | [Resume]()
+  
+</td>
+  
+<td valign="top" width="60%">
+
+### Sponsor Me💰
+
+#### [Patreon]() | [Buy Me A Coffee]()
+  
+</td>
+  
+<td valign="top" width="60%">
+  
+</td>
+</tr></table> -->
+
+<!-- CheckOut Links : [Portfolio]() | [LinkTree]() | [Resume]()
 
 2022 Goals  
 
 [You like what you see? Nominate Me asa GitHub Star]() -->
+  
+<!--
+### Does my work excite you? <br>
+
+You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> -->
+  
 
 You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
 
@@ -65,20 +88,12 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathimak88) and [Discord](https://discordapp.com/users/797471610327924778). <br>
 
-<!--
-### Does my work excite you? <br>
-
-You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> -->
-
-
-<!--Trap--:)-->
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
  
-## ✔ Technical Skills
+## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -139,7 +154,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
 | Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire: | Participated In |
 |-------------|-------------------|---|---|---|---|---|
-| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | [**GSSOC**](https://gssoc.girlscript.tech/), [**SWOC**](https://swoc.scriptindia.org/#/) <br> & [**DWOC**](https://dwoc.io/) Programs |
+| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -211,7 +226,7 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 
 |              **Name**              |  **Thoughts On Me**  | **Activity** |
 |:----------------------------------:|----------------------|--------------|
-| [**Muhammad Yahiya**]() | Beyond her role as a data scientist/ML Engineer, Prathima kadari is an outstanding collaborator. During my time as a Project owner for the AI-Road safety project, she worked with my team to focus our efforts and was quick to eliminate stumbling blocks as they arose. She went out of her way to facilitate complete modeling and deployment of the project, maximizing the visibility of all the contributions. She fully utilized the Omdena ML Engineer program and completed many such data science projects, but my personal experience was largely shaped by her's active investment in learning. | ML Engineer |
+| [**Muhammad Yahiya**](https://www.linkedin.com/in/shaik-muhammad-yahiya/) | Beyond her role as a data scientist/ML Engineer, Prathima kadari is an outstanding collaborator. During my time as a Project owner for the AI-Road safety project, she worked with my team to focus our efforts and was quick to eliminate stumbling blocks as they arose. She went out of her way to facilitate complete modeling and deployment of the project, maximizing the visibility of all the contributions. She fully utilized the Omdena ML Engineer program and completed many such data science projects, but my personal experience was largely shaped by her's active investment in learning. | ML Engineer |
 | [**Murali Praveen**](https://www.linkedin.com/in/murali-praveen-k-657b39210/) |  I had known Prathima through LinkedIn, where I had seen her diligent capabilities and promising factors be it cap up with any of the roles she is into. She is an extra-ordinary multitasker with a curious and detailed mindset to give her best in whatever she takes up. I reached out to her with a ray of hope on a note of shorter span. Within 10 days of time, she has provided the best deliverable outcome.with exceeding expectations. Prathima has not only been responsible for website building but always been there to shape it into a better marketable product from the very start till date. Her ideas and strategies helped us in visioning of what it takes to stand apart. She has shown great leadership qualities and knows better etiquettes and approaches to be an entrepreneur or startup specialist. Her expertise is an asset to any organization or projects be it technically or non technically. To say short, she is a complete all rounder and evangelist. She has all that it takes to make a difference. Prathima, Thank you for adding your presence and sharing your positive vibes in our firm. We're looking forward to working with you in future stints too. | Freelancer | 
 | [**Naveen Samala**](https://www.linkedin.com/in/naveensamala/) | Happened to bump into Prathima's profile on LinkedIn through a common connections post and that's how the miraculous connection happened. Ever since we connected on this amazing platform, I have seen Prathima grow in all facets of professional life be it towards contributing to open source platforms, moderating technical discussions, connecting with like minded people, making opportunity meet with need, identifying sponsors for hackathons, Tech events, online community building, last but not the least sharing her knowledge and displaying always willing to help attitude. I admire her passion towards "WORK", commitment, professionalism and most importantly willingness to give back. If someone gets an opportunity to have Prathima on their team, it will be their LUCK! She will be a real game changer and contribute to drive positive results. Strongly recommend her work! | Volunteer |
 | [**Diksha Pillay**](https://www.linkedin.com/in/diksha-pillay-87625668/) | Prathima is a tenacious, dynamic, and bright role model to all, she is a go-getter and gives 110% in all her efforts. She has a strong background in AI and data and will be an asset to any team looking to innovate and share ideas. She has a diverse and collaborative approach in her way of working making her a delight to work with. It was an honor to partner with her for the Hackmakers event. She is open and caring and always willing to guide and support. I highly recommend Prathima to any hiring manager. | Volunteer |
@@ -221,6 +236,29 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
+  
+  
+<!--  
+<h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇</h2><br>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  
+![Alt text of image](<https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Prathima-Kadari.png>)
+
+[![GitHub Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=Github&logoColor=white&link=https://github.com/prathimacode-hub)](https://github.com/prathimacode-hub)
+[![Linkedin Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/prathima-kadari/)](https://linkedin.com/in/prathima-kadari/)
+[![Twitter Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prathimak88/)](https://twitter.com/prathimak88)
+[![Discord Badge](https://img.shields.io/badge/prathima-kadari-green?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/797471610327924778)](https://discordapp.com/users/797471610327924778)
+[![StackOverflow Badge](https://img.shields.io/badge/prathima-kadari-blue?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)](https://stackoverflow.com/users/16268592/prathima-kadari?tab=profile/)
+[![Gmail Badge](https://img.shields.io/badge/-kadariprathima4@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kadariprathima4@gmail.com)](mailto:kadariprathima4@gmail.com)
+-->
+
+<!--Trap--:)-->
+
+<!--
+<div align = 'center'>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+</p> -->
 
 <!--
 
