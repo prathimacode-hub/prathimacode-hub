@@ -180,7 +180,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p>
 
 
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="50%">
 
 ## Connect With Me 🤝 
 
@@ -201,7 +201,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </div>  
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="50%">
 
 ## Visitors Count 👀
 
