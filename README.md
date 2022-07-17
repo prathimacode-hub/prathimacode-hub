@@ -180,7 +180,9 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p>
 
 
-<table><tr><td valign="top" width="30%">
+<img align="left" height="220" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
+
+<table><tr><td valign="top" width="40%">
 
 ## Connect With Me 🤝 
 
@@ -201,15 +203,13 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </div>  
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="30%">
 
 ## Visitors Count 👀
 
 ![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 </td>
-
-<img align="right" height="220" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
 
 </tr></table>
 
