@@ -180,8 +180,6 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p>
 
 
-<img align="left" height="220" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
-
 <table><tr><td valign="top" width="40%">
 
 ## Connect With Me 🤝 
@@ -235,9 +233,11 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
-  
-  
+
 <!--  
+
+<img align="left" height="220" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
+   
 <h2>GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇</h2><br>
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
