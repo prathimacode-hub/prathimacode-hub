@@ -97,7 +97,7 @@ her and look forward to work with her again. - **Nikhil Shrestha**
 - Beyond her role as a data scientist/ML Engineer, Prathima kadari is an outstanding collaborator. During my time as a Project owner for the AI-Road safety project, she 
 worked with my team to focus our efforts and was quick to eliminate stumbling blocks as they arose. She went out of her way to facilitate complete modeling and 
 deployment of the project, maximizing the visibility of all the contributions. She fully utilized the Omdena ML Engineer program and completed many such data science 
-projects, but my personal experience was largely shaped her's active investment in learning. - **Muhammad Yahiya**
+projects, but my personal experience was largely shaped by her's active investment in learning. - **Muhammad Yahiya**
 
 
 - I worked with Prathima on the "Finding Paths to Safety Following Natural Disasters" challenge, which I led at the Omdena Japan Chapter. Prathima was a star performer 
