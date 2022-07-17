@@ -201,7 +201,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </div>  
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="20%">
 
 ## Visitors Count 👀
 
@@ -209,7 +209,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 
 </td>
 
-<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
+<img align="right" height="220" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
 
 </tr></table>
 
