@@ -43,7 +43,7 @@ Thanks a lot, Prathima! - **Chancy Shah**
 - Prathima is a tenacious, dynamic, and bright role model to all, she is a go-getter and gives 110% in all her efforts. She has a strong background in AI and data and 
 will be an asset to any team looking to innovate and share ideas. She has a diverse and collaborative approach in her way of working making her a delight to work with. 
 It was an honor to partner with her for the Hackmakers event. She is open and caring and always willing to guide and support. I highly recommend Prathima to any hiring 
-manager. **Diksha Pillay
+manager. - **Diksha Pillay**
 
 
 - I get to know prathima from Omdena projects which title revovled around GIS projects, as she passionate from the starting day, she's learn basic GIS concepts and implement 
