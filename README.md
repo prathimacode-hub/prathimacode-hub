@@ -60,8 +60,8 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living. <br>
-🛠Chief Technology Officer at Micro, a Fintech Organization & Data Science Mentor at StarAgile.<br>
-📜 Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
+🛠Chief Technology Officer at Micro, a Fintech Organization & Partnership Manager at Omdena.<br>
+📜 Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
 🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users(Top 1% Of GitHub). <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
@@ -180,7 +180,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p>
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="30%">
 
 ## Connect With Me 🤝 
 
@@ -201,16 +201,16 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </div>  
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
-## Visitors Count 🧱
+## Visitors Count 👀
 
 ![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 </td>
-<td valign="top" width="50%">
 
-</td>
+<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Working%20Software%20Professional.jpg">
+
 </tr></table>
 
 
