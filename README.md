@@ -114,7 +114,6 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 ## Contributions Space 🎲
 
 <p align="center">
- <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F331823142%2F9764a900-5c8e-11eb-9f94-da2a01385e83&imgrefurl=https%3A%2F%2Fgithub.com%2Fgirlscript%2FGirlScript-Summer-of-Code&tbnid=ijwsppZ4o_mSGM&vet=12ahUKEwjfweuujv74AhW7j9gFHTCRCLUQMygAegUIARCrAQ..i&docid=_0NWqao4h5CFQM&w=512&h=512&q=girlscript%20summer%20of%20code%202021&ved=2ahUKEwjfweuujv74AhW7j9gFHTCRCLUQMygAegUIARCrAQ"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202021/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a>
  <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/LetsGrowMore%20Summer%20Of%20Code%202021/LetsGrowMore%20Summer%20Of%20Code.jpg" height="60px"></a>
  <a href="https://contribute.devincept.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/DevIncept%20Codes%202021/DevIncept.jpg" height="60px"></a>
  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" height="60px"></a>
@@ -124,8 +123,8 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
  <a href="https://jwoc.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/JGEC%20Winter%20Of%20Code%202022/JGEC-Winter-Of-Code.jpg" height="60px"></a>
  <a href="https://www.openforce.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeFlow%20OpenForce%202022/CodeFlow%20OpenForce%20Logo.png" height="60px"></a>
  <a href="https://wie.ieee.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/WIE%20Winter%20Of%20Code%202022/WIE%20WOC%20Logo.png" height="60px"></a>
- <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a> <br>
- <a href="https://gssoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a>
+ <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a> 
+ <a href="https://gssoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a> <br
  <a href="http://hrsoc.herokuapp.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/HackClub%20RAIT%20Summer%20Of%20Code%202022/HackClub%20RAIT%20Summer%20Of%20Code.png" height="60px"></a> 
  <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Summer%20Of%20Code%202022/Social%20Summer%20Of%20Code.gif" height="60px"></a>
  <a href="https://www.psoc.in/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/PClub%20Summer%20Of%20Code%202022/PClub%20Summer%20Of%20Code.png" height="60px"></a>
@@ -138,10 +137,9 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 ## Open Source Projects-Open for Contributions 🥇 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
-|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
+|      Project :octocat:   | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire: | Participated In |
 |-------------|-------------------|---|---|---|---|---|
-| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | [**GSSOC 2022**](https://gssoc.girlscript.tech/), [**SWOC 2021**](https://swoc.scriptindia.org/#/) and [**DWOC 2021**](https://dwoc.io/) |
-
+| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | [**GSSOC 2022**](https://gssoc.girlscript.tech/), [**SWOC 2021**](https://swoc.scriptindia.org/#/) <br> and [**DWOC 2021**](https://dwoc.io/) |
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -168,6 +166,8 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 </p>
 
 
+<table><tr><td valign="top" width="50%">
+
 ## Connect With Me 🤝 
 
 <p align="left">
@@ -186,54 +186,45 @@ You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br> --
 </p>
 </div>  
 
+</td>
+<td valign="top" width="50%">
 
 ## Visitors Count 🧱
 
 ![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
+</td>
+<td valign="top" width="50%">
+
+</td>
+</tr></table>
+
+
+```
+ “Success isn't about how much money you make. It's about the difference you make in people's lives.” ― Michelle Obama
+```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<!-- 
+## Testimonials 📝 <br>
 
-Peek into to see some of my personal project encounters
-
-Open Source Projects --> 
-
-<details><summary>Recent Activity📌</summary> <br>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/prathimacode-hub/Ezy-Parking/issues/2) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
-2. 💪 Opened PR [#18](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/18) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
-3. ❗️ Closed issue [#169](https://github.com/prathimacode-hub/IoT-Spot/issues/169) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-4. 🎉 Merged PR [#256](https://github.com/prathimacode-hub/IoT-Spot/pull/256) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
-<!--END_SECTION:activity-->
-</details>
-
-<!--
-
-<details><summary>Contribution Graph🎡</summary> <br>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
-</details>
+|              **Name**              |  **Thoughts On Me**  | **Activity** |
+|:----------------------------------:|----------------------|--------------|
+| [**Muhammad Yahiya**]() | Beyond her role as a data scientist/ML Engineer, Prathima kadari is an outstanding collaborator. During my time as a Project owner for the AI-Road safety project, she worked with my team to focus our efforts and was quick to eliminate stumbling blocks as they arose. She went out of her way to facilitate complete modeling and deployment of the project, maximizing the visibility of all the contributions. She fully utilized the Omdena ML Engineer program and completed many such data science projects, but my personal experience was largely shaped by her's active investment in learning. | ML Engineer |
+| [**Murali Praveen**](https://www.linkedin.com/in/murali-praveen-k-657b39210/) |  I had known Prathima through LinkedIn, where I had seen her diligent capabilities and promising factors be it cap up with any of the roles she is into. She is an extra-ordinary multitasker with a curious and detailed mindset to give her best in whatever she takes up. I reached out to her with a ray of hope on a note of shorter span. Within 10 days of time, she has provided the best deliverable outcome.with exceeding expectations. Prathima has not only been responsible for website building but always been there to shape it into a better marketable product from the very start till date. Her ideas and strategies helped us in visioning of what it takes to stand apart. She has shown great leadership qualities and knows better etiquettes and approaches to be an entrepreneur or startup specialist. Her expertise is an asset to any organization or projects be it technically or non technically. To say short, she is a complete all rounder and evangelist. She has all that it takes to make a difference. Prathima, Thank you for adding your presence and sharing your positive vibes in our firm. We're looking forward to working with you in future stints too. | Freelance Work | 
+| [**Naveen Samala**](https://www.linkedin.com/in/naveensamala/) | Happened to bump into Prathima's profile on LinkedIn through a common connections post and that's how the miraculous connection happened. Ever since we connected on this amazing platform, I have seen Prathima grow in all facets of professional life be it towards contributing to open source platforms, moderating technical discussions, connecting with like minded people, making opportunity meet with need, identifying sponsors for hackathons, Tech events, online community building, last but not the least sharing her knowledge and displaying always willing to help attitude. I admire her passion towards "WORK", commitment, professionalism and most importantly willingness to give back. If someone gets an opportunity to have Prathima on their team, it will be their LUCK! She will be a real game changer and contribute to drive positive results. Strongly recommend her work! | Volunteering |
+| [**Diksha Pillay**](https://www.linkedin.com/in/diksha-pillay-87625668/) | Prathima is a tenacious, dynamic, and bright role model to all, she is a go-getter and gives 110% in all her efforts. She has a strong background in AI and data and will be an asset to any team looking to innovate and share ideas. She has a diverse and collaborative approach in her way of working making her a delight to work with. It was an honor to partner with her for the Hackmakers event. She is open and caring and always willing to guide and support. I highly recommend Prathima to any hiring manager. | Volunteering |
+| [**Aniket Pal**](https://www.linkedin.com/in/aniket-pal/) | We met many people every day, but only some leave the marks, and one of them is Prathima. We first met in the judging panel of a Hackathon powered by PhonePe. Prathima's dynamicity and soft-spoken nature made the hackers pretty comfortable in pitching their ideas. When she was one of the judges and mentors in Hackodisha which I was leading, she was everyone's favorite because of the dept of technical knowledge she poses and the zeal to give back to the community. Any organization would be lucky to have Prathima in their team. | Volunteering |
 
 
-<details><summary>Trophies🏆</summary> <br>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
-</details> 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br> -->
 
 
 <!--
 
-![Skyline](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl)
-
-<p align="left">
-  <img width="48%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl"/>
-</p>  -->
+Open Source ML Omdena Working Professional
 
 ### Testimonials📜 <br>
 
@@ -259,15 +250,83 @@ Best of Luck for a Bright and Prosperous Future and Thank you so much again.</td
     <td><a target="_blank" href="https://www.linkedin.com/in/abhisheksharma7389/">Abhishek Sharma</a></td>
     <td>Thank you. Having an opportunity to work under you and making contributions in those programs really helped me a lot, gained the experience and also knowing you personally was no less than an achievement for me. You're truly a great mentor! All the best for your future.</td>
   </tr>
-</table>
+</table> -->
 
 
+<!--
+<table><tr><td valign="top" width="50%">
+
+➡️You can find all of my blogs [here](https://prathimakadari.hashnode.dev/)<br>
+Follow Up and Subscribe to my Newsletter to get timely updates -->
+<!--
+- [My Python Journey](https://prathimakadari.hashnode.dev/my-python-learning-experience)
+- [Reinforcement Learning](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/)
+- [Getting Started with Internet of Thing(IoT)](https://prathimakadari.hashnode.dev/getting-started-with-internet-of-things-iot)
+- [A Simple Guide to K-Nearest Neighbour Classification using Python](https://prathimakadari.hashnode.dev/a-simple-guide-to-k-nearest-neighbor-classification-using-python)
+- [Stepping Stone to my Portfolio](https://prathimakadari.hashnode.dev/stepping-stone-to-my-portfolio)
+- [My Lane of Blogging Plans](https://prathimakadari.hashnode.dev/my-lane-of-blogging-plans) 
+
+</td>
+<td valign="top" width="50%"> -->
+
+<!-- 
+SpeakUps 🎙
+ 
+➡️You can find my talks on topics [here]() <br>
+
+- [Getting Started with Open Source as a Beginner](https://www.youtube.com/watch?v=4197n5XQX5k) - The Guiding Voice 
+- [Demystifying Machine Learning to Develop Smarter Solutions](https://www.youtube.com/watch?v=fOCmCr7z9XQ) - Hackmakers
+
+</td>
+</tr></table> -->
+
+<!-- 
+
+Peek into to see some of my personal project encounters
+
+Open Source Projects --> 
+
+<!-- 
+
+<details><summary>Recent Activity📌</summary> <br> -->
+
+<!--START_SECTION:activity-->
+<!--
+1. 🗣 Commented on [#2](https://github.com/prathimacode-hub/Ezy-Parking/issues/2) in [prathimacode-hub/Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking)
+2. 💪 Opened PR [#18](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/18) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+3. ❗️ Closed issue [#169](https://github.com/prathimacode-hub/IoT-Spot/issues/169) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot)
+4. 🎉 Merged PR [#256](https://github.com/prathimacode-hub/IoT-Spot/pull/256) in [prathimacode-hub/IoT-Spot](https://github.com/prathimacode-hub/IoT-Spot) -->
+<!--END_SECTION:activity-->
+<!-- </details> 
+
+<details><summary>Contribution Graph🎡</summary> <br>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" /></p>
+</details>
+
+
+<details><summary>Trophies🏆</summary> <br>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+</details> 
+
+<img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg"/> <br> -->
+
+<!--
+
+![Skyline](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl)
+
+<p align="left">
+  <img width="48%" src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/prathimacode-hub-2021.stl"/>
+</p>  -->
+
+<!--
 ```
  “Success isn't about how much money you make. It's about the difference you 
  make in people's lives.” ― Michelle Obama
 ```
+-->
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!-- Projects - Personal, OpenSource, Omdena, Professional Summary, Sponsor Me, Scrolling the Roles and What I do, Scrolling Thanks for Stopping By -->
 <!-- Digital Garden - Blog Articles, Featured Articles, Research Publications, Patents, SpeakUps, Videos -->
