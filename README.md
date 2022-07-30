@@ -59,10 +59,11 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 ### My Highlights
 
-🍁Building a Next Gen B2B & B2C Sustainable Saas platform that would help in thriving out a culture and adaptabiity of Eco-Friendly and Sustainable Living. <br>
+🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
 🛠Chief Technology Officer at Micro, a Fintech Organization & Partnership Manager at Omdena.<br>
+📰Project Featured on Streamlit and shortlisted as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
 📜 Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
-🚩Speaker, Judge and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
+🚩Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users(Top 1% Of GitHub). <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
 💡Worked on 5+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Embedded Systems, Data Science, IoT and Web Development. <br>
