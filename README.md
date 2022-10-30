@@ -60,12 +60,12 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
-📰Project Featured on Streamlit, Partnership Manager at Omdena and shortlisted as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
-📜 Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
+📰Project Featured on Streamlit, Partnership Manager at Omdena and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
+📜Top Project : IoT-Spot at Social Summer Of Code, Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
 🚩Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users(Top 1% Of GitHub). <br>
 👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
-💡Worked on 5+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Embedded Systems, Data Science, IoT and Web Development. <br>
+💡Worked on 7+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Embedded Systems, Data Science, IoT and Web Development. <br>
 🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
 👑Hackathon Winner and Open Source Contributor for repositories belonging to personal, peers, learnings, communities and organizations projects. <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
