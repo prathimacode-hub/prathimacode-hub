@@ -9,7 +9,7 @@ or use it. It helps me a lot.
 <img src = ""/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Avid+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -60,13 +60,13 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
-📰Project Featured on Streamlit, Partnership Manager at Omdena and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
+📰Project Featured on Streamlit, CTO at Pendler and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
 📜Top Project : IoT-Spot at Social Summer Of Code, Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
-🚩Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
+🚩KeyNote Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users(Top 1% Of GitHub). <br>
-👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
-💡Worked on 7+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Embedded Systems, Data Science, IoT and Web Development. <br>
-🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
+👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia from past 3 Years. <br>
+💡Worked on 7+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Data Science and Web Development. <br>
+🎲Freelanced on diverse domain specific projects from Data Science and Web Development that interest clients and add value to their journey. <br>
 👑Hackathon Winner and Open Source Contributor for repositories belonging to personal, peers, learnings, communities and organizations projects. <br>
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 ⚡ Fun fact: I don't know driving <br>
@@ -75,9 +75,9 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 ### How Could I Add My Value? <br>
 
-📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
-👯Collaborate on Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
-🙌Mentor the students in promising fields that defines my forte - 1000+ students so far(Data Science, IoT, Web Development and Embedded Systems). <br>
+📢Talks on Python, Data Science, GitHub, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
+👯Collaborate on Projects related to Data Science and Web Development that makes a difference. <br>
+🙌Mentor the students in promising fields that defines my forte - 1100+ students so far(Data Science and Web Development). <br>
 🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
 
 ### Keen To Interact with Me? <br>
