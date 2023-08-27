@@ -6,7 +6,9 @@ or use it. It helps me a lot.
 <body style="background-color:WhiteSmoke;">
 
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
-<img src = ""/>
+<p align="center">
+<img src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Prathima%20LinkedIn%20Cover%20Photo.png/">
+</p>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
