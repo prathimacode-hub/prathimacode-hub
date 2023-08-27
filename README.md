@@ -7,7 +7,7 @@ or use it. It helps me a lot.
 
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
 <p align="center">
-<img src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Prathima%20LinkedIn%20Cover%20Photo.png/">
+<img src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Prathima%20Github%20Cover%20Photo.png">
 </p>
   
 <p align="center">
