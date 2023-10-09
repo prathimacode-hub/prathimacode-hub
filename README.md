@@ -149,6 +149,9 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
  <a href="https://omdena.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Omdena%20Projects/Omdena%20Logo.png" height="60px"></a> 
 </p> 
 
+## Hacktoberfest 2023 Badges 👌
+
+[![An image of @prathimakadari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathimakadari)](https://holopin.io/@prathimakadari)
 
 ## Open Source Projects-Open for Contributions 🥇 
 
