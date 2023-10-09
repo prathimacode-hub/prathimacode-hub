@@ -178,14 +178,16 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p>
 
 
+<!--
+
 ## Contribution Graph 🎡
 
 <p align="left">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode"/>
 </p>
 
+<td valign="top" width="50%"> -->
 
-<table><tr><td valign="top" width="50%">
 
 ## Connect With Me 🤝 
 
