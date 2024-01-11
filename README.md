@@ -86,8 +86,8 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
-▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathimak88) and [Discord](https://discordapp.com/users/797471610327924778). <br>
+▶️ Shoot me an email at prathimakadari.work@gmail.com for official discussions. <br>
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathima_kadari) and [Discord](https://discordapp.com/users/797471610327924778). <br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -159,6 +159,8 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 | Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire: | Participated In |
 |-------------|-------------------|---|---|---|---|---|
 | [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
+| [**Dev-Mint**](https://github.com/prathimacode-hub/Dev-Mint) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/Dev-Mint?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Dev-Mint/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/Dev-Mint?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/Dev-Mint/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/Dev-Mint?style=flat-square)](https://github.com/prathimacode-hub/Dev-Mint/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/Dev-Mint?style=flat&logo=github)](https://github.com/prathimacode-hub/Dev-Mint/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/Dev-Mint?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/Dev-Mint/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
+| [**ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/ML-ProjectKart/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=flat&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/ML-ProjectKart?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -195,13 +197,13 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <a href="https://www.linkedin.com/in/prathima-kadari" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
-<a href="https://twitter.com/prathimak88" target="_blank">
+<a href="https://twitter.com/prathima_kadari" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-<a href="https://www.discord.com/prathima-kadari" target="_blank">
+<a href="https://discordapp.com/users/797471610327924778" target="_blank">
 <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
 </a>
-<a href="mailto:kadariprathima4@gmail.com" target="_blank">
+<a href="mailto:prathimakadari.work@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
