@@ -165,9 +165,6 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 <a href="https://discordapp.com/users/797471610327924778" target="_blank">
 <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=orange alt=discord style="margin-bottom: 10px;" />
 </a>
-<a href="https://topmate.io/prathima_kadari" target="_blank">
-<img src=https://img.shields.io/badge/topmate-%231E77B5.svg?&style=for-the-badge&logo=topmate&logoColor=black alt=topmate style="margin-bottom: 10px;" />
-</a> 
 </p>
 
 </div>  
