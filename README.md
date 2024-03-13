@@ -261,23 +261,22 @@ Increase Followers
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://topmate.io/prathima_kadari" target="_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-<!-- <img src=https://img.shields.io/badge/topmate-%231E77B5.svg?&style=for-the-badge&logo=topmate&logoColor=white alt=topmate style="margin-bottom: 10px;" /> -->
-</a>
+<img src=https://img.shields.io/badge/topmate-%231E77B5.svg?&style=for-the-badge&logo=topmate&logoColor=black alt=topmate style="margin-bottom: 10px;" />
+</a> 
 <a href="https://calendly.com/kadariprathima4/join-me" target="_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src=https://img.shields.io/badge/calendly-%231E77B5.svg?&style=for-the-badge&logo=calendly&logoColor=green alt=topmate style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.linkedin.com/in/prathima-kadari" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red alt=linkedin style="margin-bottom: 10px;" />
 </a>
 <a href="https://twitter.com/prathima_kadari" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=yellow alt=twitter style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.instagram.com/prathima_kadari" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%2300acee.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?&style=for-the-badge&logo=instagram&logoColor=purple alt=instagram style="margin-bottom: 10px;" />
 </a>
 <a href="https://discordapp.com/users/797471610327924778" target="_blank">
-<img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=orange alt=discord style="margin-bottom: 10px;" />
 </a>
 </p>
 
