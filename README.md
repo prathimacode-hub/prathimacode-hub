@@ -53,6 +53,10 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 ▶️Schedule a Call (Discussions) - Invites / Collaborations / Professional : [Calendly](https://calendly.com/kadariprathima4/join-me) <br>
 ▶️Find Me on Socials : [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) | [Twitter](https://twitter.com/prathima_kadari) | [Instagram](https://www.instagram.com/prathima_kadari) | [Discord](https://discordapp.com/users/797471610327924778) <br>
 
+```
+ “Success isn't about how much money you make. It's about the difference you make in people's lives.” ― Michelle Obama
+```
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
@@ -120,6 +124,14 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 
 [![An image of @prathimakadari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathimakadari)](https://holopin.io/@prathimakadari)
 
+<td valign="top" width="50%">
+
+## Visitors Count 👀
+
+![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
+</td>
+
 ## Open Source Projects-Open for Contributions 🥇 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
@@ -169,18 +181,8 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 
 </div>  
 </td>
-<td valign="top" width="50%">
 
-## Visitors Count 👀
-
-![VisitorCount](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
-
-</td>
 </tr></table>
-
-```
- “Success isn't about how much money you make. It's about the difference you make in people's lives.” ― Michelle Obama
-```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
