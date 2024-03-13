@@ -11,16 +11,57 @@ or use it. It helps me a lot.
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Prathima;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Key+Note+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+4+*+Tech+Awardee+Winner;+Jury+Member+and+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;">   
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
+Hey👋, I'm Prathima Kadari, a Chief Technology Officer and a distinguished Data Scientist. As a Tech Evangelist, she is a epitome of Curious Mind and Crisp Thinking who visions to foster the Next Generation. Clip in with Topmate through the Lens of her Knowledge in Data Science and Personal Branding. <br>
+**Motto** : Believe in having Faith in your Own Capabilities with a Never Give Up Attitude to add a Sauce of Success in your Life. <br>
 
-Until you Spread your wings, You'll never know how far you can fly!! <br>
-  
-<!-- ## You Like What You See? Does It Excite You? 💪 <br>
+**Until you Spread your Wings, You'll never know how Far you can Fly!!** <br>
+
+### My Highlights
+
+She is a Professional Subject Matter Expert with an Industry Exposure to Build the Products effectively. With her innate Leadership Abilities, she excelled her Career Landscape along with sharing her Actionable Insights through Specialized Panel Discussions and Collaborations. Her growth factor lies in the Quality Impact she makes to be a Best Version of herself while Creating her Own Story. <br>
+
+🚀Titled as "Under 40 Industry Expert & Entrepreneur (Data Science)" by BusinessMint <br>
+👩Awarded as "Women Of Impact (Technology)" from Triumphs of Talent, Hyderabad <br>
+🏅Recognized as an "Outstanding Leader" at Internet 2.0 Conference, Dubai <br>
+⚡Jury Panel Member : Global StartUp Awards - Africa, Euro Asian, ASEAN (Last 3 Years) <br>
+🎤Keynote / Guest Speaker : AIA, IIT Madras, TechHub, CUK, VIT AP, ANITS, Omdena, TGV <br>
+🚩Top Rated Data Science Career Coach : Topmate, StarAgile (Delivered 354+ Sessions) <br>
+📃Published in BeSpoke Diaries as a Shero with Quick Insights to Propel Ahead <br>
+⌛Hack Judge : HTM, H4I, Holiday Hacks, NIT Trichy, HackBMU, HackOdisha 3.0 <br>
+✔Spolighted by Women's Entrepreneur Magazine under "Top 10 Best Women CTO's in India" <br>
+
+💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠, doing my best to spread knowledge🎆 & mentor budding developers⌚ who are starting out their journey into tech✌. Additionally travelling 🧳, music 🎼, reading📖, puzzles🎲 and spicy food😋 is what I like the most. <br>  
+
+### How Could I Add My Value? <br>
+
+📢Talks on Python, Data Science, GitHub, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source, Resume Building and Personal Branding. <br>
+👯Collaborate on Projects related to Data Science that adds interesting value and makes a difference to Communities / Startups / Organizations. <br>
+🙌Mentor the students in promising fields that defines my forte - 1100+ students so far(Data Science, Github, Open Source and Personal Branding). <br>
+🖊Open for Opportunities on Authoring, Writing and Reviewing Technical & Non-Technical Content. Had got Strong Command on English Writing and Communication Skills. <br>
+
+### Keen To Interact with Me? <br>
+
+I would like to Connect with you, don't hesitate to Drop me a Message🤝. If you are interested to Discuss any further, I'm always Open for a Conversation through my Channels here!!✔ <br>
+
+▶️Shoot an Official Email - Invites / Collaborations : prathimakadari.work@gmail.com <br>
+▶️Book a 1:1 Slot with Me - Data Science & Personal Branding : [Topmate](https://topmate.io/prathima_kadari) <br>
+▶️Schedule a Call (Discussions) - Invites / Collaborations / Professional : [Calendly](https://calendly.com/kadariprathima4/join-me) <br>
+▶️Find Me on Socials : [LinkedIn](https://www.linkedin.com/in/prathima-kadari/) | [Twitter](https://twitter.com/prathima_kadari) | [Instagram](https://www.instagram.com/prathima_kadari) | [Discord](https://discordapp.com/users/797471610327924778) <br>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
+
+<!-- 
+
++Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+
+## You Like What You See? Does It Excite You? 💪 <br>
   
 <table><tr>
 <td valign="top" width="60%">
@@ -55,11 +96,50 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br>
   
-You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) -->
+You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) 
 
-🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
+🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br> -->
 
-### My Highlights
+
+<!--
+
+
+Mail & Guardian
+Passion Vista
+Forbes
+Dev Bytes
+D Talk Show
+JoshTalks Speaker
+TEDx Speaker
+Collision
+YourStory
+Humans Of Bombay
+Top Women Awards by Standard Bank
+TimesSquare
+Forbes
+Josh Talks
+INKTalks
+TEDx Speaker
+Professional Space Platforms :
+
+Topmate - Your Key Takeaways + My Introduction + Highlights + Recognition
+LinkedIn -
+Twitter -
+Instagram -
+
+Agenda :
+
+Plan a Timeline using Spreadsheet to Post Quality Content Consistently
+Communicate and Market your Expertise and Updates with Professional Network
+Support, Encourage, Comment, Like and Share Useful Responses in LinkedIn
+
+All Rounder :
+
+Github -
+Portfolio -
+
+Skill Endorsements and Testimonials
+Increase Followers
 
 🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
 📰Project Featured on Streamlit, CTO at Pendler and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
@@ -73,26 +153,7 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
 ⚡ Fun fact: I don't know driving <br>
 
-💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
-
-### How Could I Add My Value? <br>
-
-📢Talks on Python, Data Science, GitHub, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
-👯Collaborate on Projects related to Data Science and Web Development that makes a difference. <br>
-🙌Mentor the students in promising fields that defines my forte - 1100+ students so far(Data Science and Web Development). <br>
-🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
-
-### Keen To Interact with Me? <br>
-
-I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
-
-▶️ Shoot me an email at prathimakadari.work@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathima_kadari) and [Discord](https://discordapp.com/users/797471610327924778). <br>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
+-->
  
 ## Technical Skills ✔
 
@@ -196,21 +257,31 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ## Connect With Me 🤝 
 
 <p align="left">
+<a href="mailto:prathimakadari.work@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://topmate.io/prathima_kadari" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- <img src=https://img.shields.io/badge/topmate-%231E77B5.svg?&style=for-the-badge&logo=topmate&logoColor=white alt=topmate style="margin-bottom: 10px;" /> -->
+</a>
+<a href="https://calendly.com/kadariprathima4/join-me" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/prathima-kadari" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
 <a href="https://twitter.com/prathima_kadari" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
+<a href="https://www.instagram.com/prathima_kadari" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 10px;" />
+</a>
 <a href="https://discordapp.com/users/797471610327924778" target="_blank">
 <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
 </a>
-<a href="mailto:prathimakadari.work@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </p>
-</div>  
 
+</div>  
 </td>
 <td valign="top" width="50%">
 
