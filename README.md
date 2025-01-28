@@ -11,31 +11,34 @@ or use it. It helps me a lot.
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+3+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;">   
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+3+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;+📜+Head+Of+Community">   
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-Hey👋, I'm Prathima Kadari, a Chief Technology Officer and a distinguished Data Scientist. As a Tech Evangelist, she is a epitome of Curious Mind and Crisp Thinking who visions to foster the Next Generation. Clip in with Topmate through the Lens of her Knowledge in Data Science and Personal Branding. <br>
-**Motto** : Believe in having Faith in your Own Capabilities with a Never Give Up Attitude to add a Sauce of Success in your Life. <br>
+Hey👋, I'm Prathima Kadari, a Chief Technology Officer and a distinguished Data Scientist. As a Tech Evangelist, she is a epitome of Curious Mind and Crisp Thinking who visions to foster the Next Generation. Clip in with Topmate through the Lens of her Knowledge in Data Science and Personal Branding. Being a Community Head (OptimumAI), she is involved into Leading Community Initiatives, Branding Awareness, Strategic Planning and Product Management. <br>
 
+**Motto** : Believe in having Faith in your Own Capabilities with a Never Give Up Attitude to add a Sauce of Success in your Life. <br>
 **Until you Spread your Wings, You'll never know how Far you can Fly!!** <br>
 
 ### My Highlights
 
 She is a Professional Subject Matter Expert with an Industry Exposure to Build the Products effectively. With her innate Leadership Abilities, she excelled her Career Landscape along with sharing her Actionable Insights through Specialized Panel Discussions and Collaborations. Her growth factor lies in the Quality Impact she makes to be a Best Version of herself while Creating her Own Story. <br>
 
+ ✔Honored as "Women's 40 Under 40 (Technology)" by The Fortune Leadership Awards
 🚀Titled as "Under 40 Industry Expert & Entrepreneur (Data Science)" by BusinessMint <br>
 👩Awarded as "Women Of Impact (Technology)" from Triumphs of Talent, Hyderabad <br>
 🏅Recognized as an "Outstanding Leader" at Internet 2.0 Conference, Dubai <br>
 ⚡Jury Panel Member : Global StartUp Awards - Africa, Euro Asian, ASEAN (Last 3 Years) <br>
-🎤Keynote / Guest Speaker : AIA, IIT Madras, TechHub, CUK, VIT AP, ANITS, Omdena, TGV <br>
-🚩Top Rated Data Science Career Coach : Topmate, StarAgile (Delivered 354+ Sessions) <br>
+🎤Keynote / Guest Speaker : BVE, AIA, IIT Madras, TechHub, CUK, VIT AP, ANITS, Omdena, TGV <br>
+🚩Top Rated Data Science Career Coach : Topmate (68 Sessions), StarAgile (Delivered 354+ Sessions) <br>
 📃Published in BeSpoke Diaries as a Shero with Quick Insights to Propel Ahead <br>
 ⌛Hack Judge : HTM, H4I, Holiday Hacks, NIT Trichy, HackBMU, HackOdisha 3.0 <br>
 ✔Spolighted by Women's Entrepreneur Magazine under "Top 10 Best Women CTO's in India" <br>
 
-💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠, doing my best to spread knowledge🎆 & mentor budding developers⌚ who are starting out their journey into tech✌. Additionally travelling 🧳, music 🎼, reading📖, puzzles🎲 and spicy food😋 is what I like the most. <br>  
+💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠, doing my best to spread knowledge🎆 & mentor budding developers⌚ who are starting out their journey into tech✌. Additionally travelling 🧳, music 🎼, reading📖, puzzles🎲 and spicy food😋 is what I like the most. <br>
+
+🏷Media Spotlght : Featured in popular media like Business Standard, Navhind Express, Ani News, Ahmedabad Mirror, Business Mint, Sangri Times, ThePrint, Daily Hunt, Women Entrepreneur Magazine. <br>
 
 ### How Could I Add My Value? <br>
 
