@@ -25,7 +25,7 @@ Hey👋, I'm Prathima Kadari, a Chief Technology Officer and a distinguished Dat
 
 She is a Professional Subject Matter Expert with an Industry Exposure to Build the Products effectively. With her innate Leadership Abilities, she excelled her Career Landscape along with sharing her Actionable Insights through Specialized Panel Discussions and Collaborations. Her growth factor lies in the Quality Impact she makes to be a Best Version of herself while Creating her Own Story. <br>
 
- ✔Honored as "Women's 40 Under 40 (Technology)" by The Fortune Leadership Awards
+ ✔Honored as "Women's 40 Under 40 (Technology)" by The Fortune Leadership Awards <br>
 🚀Titled as "Under 40 Industry Expert & Entrepreneur (Data Science)" by BusinessMint <br>
 👩Awarded as "Women Of Impact (Technology)" from Triumphs of Talent, Hyderabad <br>
 🏅Recognized as an "Outstanding Leader" at Internet 2.0 Conference, Dubai <br>
