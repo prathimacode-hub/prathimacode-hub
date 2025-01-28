@@ -43,7 +43,7 @@ She is a Professional Subject Matter Expert with an Industry Exposure to Build t
 ### How Could I Add My Value? <br>
 
 📢Talks on Python, Data Science, GitHub, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source, Resume Building and Personal Branding. <br>
-👯Collaborate on Projects related to Data Science that adds interesting value and makes a difference to Communities / Startups / Organizations. <br>
+👯Collaborate on Projects related to Data Science that adds interesting value and makes a difference to Communities | Startups | Organizations. <br>
 🙌Mentor the students in promising fields that defines my forte - 1350+ students so far (Data Science, Github, Open Source and Personal Branding). <br>
 🖊Open for Opportunities on Authoring, Writing and Reviewing Technical & Non-Technical Content (Strong Command on English Writing and Communication Skills). <br>
 
