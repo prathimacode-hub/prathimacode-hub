@@ -98,6 +98,10 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
+## Non-Technical Skills 🤝
+
+Problem Solving | Critical Thinking | Attention To Details | Research Writing | Presentation Skills | Collaboration & Team Work <br>
+
 ## Contributions Space 🎲
 
 <p align="center">
