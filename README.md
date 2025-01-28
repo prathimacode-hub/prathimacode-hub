@@ -7,11 +7,11 @@ or use it. It helps me a lot.
 
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
 <p align="center">
-<img src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Prathima%20Github%20Cover%20Photo.png">
+<img src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/CoverPhoto.jpg">
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+4+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;">   
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+😀,+This+is+Prathima;+A+Chief+Technology+Officer👩‍💻;+💡+Efficient+Data+Scientist;+Loves+To+Build+Products+✨;+💪+3+*+Tech+Awardee+Winner;+Jury+Member+&+Guest+Speaker+📢;+⌛+Data+Science+Career+Coach;">   
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -41,7 +41,7 @@ She is a Professional Subject Matter Expert with an Industry Exposure to Build t
 
 📢Talks on Python, Data Science, GitHub, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source, Resume Building and Personal Branding. <br>
 👯Collaborate on Projects related to Data Science that adds interesting value and makes a difference to Communities / Startups / Organizations. <br>
-🙌Mentor the students in promising fields that defines my forte - 1100+ students so far(Data Science, Github, Open Source and Personal Branding). <br>
+🙌Mentor the students in promising fields that defines my forte - 1350+ students so far(Data Science, Github, Open Source and Personal Branding). <br>
 🖊Open for Opportunities on Authoring, Writing and Reviewing Technical & Non-Technical Content. Had got Strong Command on English Writing and Communication Skills. <br>
 
 ### Keen To Interact with Me? <br>
