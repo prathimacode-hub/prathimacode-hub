@@ -19,6 +19,7 @@ or use it. It helps me a lot.
 Hey👋, I'm Prathima Kadari, a Chief Technology Officer and a distinguished Data Scientist. As a Tech Evangelist, she is a epitome of Curious Mind and Crisp Thinking who visions to foster the Next Generation. Clip in with Topmate through the Lens of her Knowledge in Data Science and Personal Branding. Being a Community Head (OptimumAI), she is involved into Leading Community Initiatives, Branding Awareness, Strategic Planning and Product Management. <br>
 
 **Motto** : Believe in having Faith in your Own Capabilities with a Never Give Up Attitude to add a Sauce of Success in your Life. <br>
+
 **Until you Spread your Wings, You'll never know how Far you can Fly!!** <br>
 
 ### My Highlights
@@ -93,8 +94,7 @@ I would like to Connect with you, don't hesitate to Drop me a Message🤝. If yo
 
 ## Non-Technical Skills 🤝
 
-Problem Solving | Critical Thinking | Attention To Details | Research Writing <br>
-Presentation Skills | Collaboration & Team Work <br>
+Problem Solving | Critical Thinking | Attention To Details | Research Writing | Presentation Skills | Collaboration & Team Work <br>
 
 ## Contributions Space 🎲
 
