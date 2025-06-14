@@ -107,7 +107,7 @@ Problem Solving | Critical Thinking | Attention To Details | Research Writing | 
   <a href="https://ssoc.devfolio.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Summer%20Of%20Code%202022/Social%20Summer%20Of%20Code.gif" height="60px"></a>
   <a href="https://soc.hackclubrait.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/HackClub%20RAIT%20Summer%20Of%20Code%202022/HackClub%20RAIT%20Summer%20Of%20Code.png" height="60px"></a>  
   <a href="https://gssoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a> 
-  <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a>                                                                                                                                                                          <a href="https://wie.ieee.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/WIE%20Winter%20Of%20Code%202022/WIE%20WOC%20Logo.png" height="60px"></a>  <br>
+  <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a>                                                                         <a href="https://wie.ieee.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/WIE%20Winter%20Of%20Code%202022/WIE%20WOC%20Logo.png" height="60px"></a>  <br>
   <a href="https://hacktoberfest.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202022/Hacktoberfest%20Logo%202022.png" height="60px"></a> 
   <a href="https://www.openforce.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeFlow%20OpenForce%202022/CodeFlow%20OpenForce%20Logo.png" height="60px"></a>
   <a href="https://sawolabs.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Contributions/SAWO%20Labs/SAWO%20Labs%20Logo.png" height="60px"></a>
@@ -123,6 +123,7 @@ Problem Solving | Critical Thinking | Attention To Details | Research Writing | 
 
 ## Hacktoberfest 2023 Badges 👌
 
+[Pavan Roshini](https://www.google.com)
 [![An image of @prathimakadari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathimakadari)](https://holopin.io/@prathimakadari)
 
 <td valign="top" width="50%">
