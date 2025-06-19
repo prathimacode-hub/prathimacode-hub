@@ -123,7 +123,6 @@ Problem Solving | Critical Thinking | Attention To Details | Research Writing | 
 
 ## Hacktoberfest 2023 Badges 👌
 
-[Pavan Roshini](https://www.google.com)
 [![An image of @prathimakadari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathimakadari)](https://holopin.io/@prathimakadari)
 
 <td valign="top" width="50%">
